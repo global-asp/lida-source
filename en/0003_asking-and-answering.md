@@ -4,7 +4,7 @@
 "I want that one."
 
 ##
-"Do you have …?"
+"Do you have...?"
 
 ##
 "May I sit here?"

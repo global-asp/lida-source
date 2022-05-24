@@ -2,10 +2,12 @@
 
 ##
 «Hei!»
+
 «Hallo!»
 
 ##
 «Ha det!»
+
 «Ha det!»
 
 ##
@@ -13,6 +15,7 @@
 
 ##
 «Hei, jeg er Kama.»
+
 «Hyggelig å møte deg, Kama.»
 
 ##
@@ -47,6 +50,7 @@ Han legger på.
 
 ##
 «Dette er Ali.»
+
 «Dette er Leila.»
 
 ##

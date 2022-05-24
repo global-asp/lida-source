@@ -4,7 +4,7 @@
 «Jeg vil ha den.»
 
 ##
-«Har du …?»
+«Har du ...?»
 
 ##
 «Kan jeg sitte her?»

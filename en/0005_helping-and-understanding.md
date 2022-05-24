@@ -7,7 +7,7 @@
 "I don't know."
 
 ##
-"Where is …?"
+"Where is...?"
 
 ##
 "That way."
@@ -17,10 +17,12 @@
 
 ##
 "Is this correct?"
+
 "Yes."
 
 ##
 "Is this correct?"
+
 "No."
 
 ##
@@ -28,10 +30,12 @@
 
 ##
 "Could you help me, please?"
+
 "Yes, of course!"
 
 ##
 "Could you give me that?"
+
 "Yes, of course!"
 
 ##

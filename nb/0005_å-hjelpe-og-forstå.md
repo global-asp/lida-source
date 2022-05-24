@@ -7,7 +7,7 @@
 «Jeg vet ikke.»
 
 ##
-«Hvor er …?»
+«Hvor er ...?»
 
 ##
 «Den veien.»
@@ -17,10 +17,12 @@
 
 ##
 «Er dette riktig?»
+
 «Ja.»
 
 ##
 «Er dette riktig?»
+
 «Nei.»
 
 ##
@@ -28,10 +30,12 @@
 
 ##
 «Kan du hjelpe meg?»
+
 «Ja, selvfølgelig!»
 
 ##
 «Kan du gi meg den?»
+
 «Ja, selvsagt!»
 
 ##

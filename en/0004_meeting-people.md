@@ -2,10 +2,12 @@
 
 ##
 "Hi!"
+
 "Hello!"
 
 ##
 "Bye!"
+
 "Goodbye!"
 
 ##
@@ -13,6 +15,7 @@
 
 ##
 "Hi, I'm Kama."
+
 "Nice to meet you, Kama."
 
 ##
@@ -47,6 +50,7 @@ He hangs up.
 
 ##
 "This is Ali."
+
 "This is Leila."
 
 ##
