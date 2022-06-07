@@ -33,6 +33,6 @@ Han kjører til nærmeste apotek.
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
-* Illustration: TBD
+* Illustration: Sara Krotev
 * Translation: Espen Stranger-Johannessen
 * Language: nb
