@@ -13,7 +13,7 @@ Jeg kan sy.
 Jeg kan jobbe hardt.
 
 ##
-Jeg snakker tre språk.
+Jeg kan snakke tre språk.
 
 ##
 Jeg kan synge.
@@ -27,6 +27,6 @@ Jeg kan le!
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
-* Illustration: TBD
+* Illustration: Selma Buer Hanstad
 * Translation: Espen Stranger-Johannessen
 * Language: nb

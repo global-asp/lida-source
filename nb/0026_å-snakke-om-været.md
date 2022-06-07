@@ -21,6 +21,6 @@
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
-* Illustration: TBD
+* Illustration: Ognjen Drageljević
 * Translation: Espen Stranger-Johannessen
 * Language: nb

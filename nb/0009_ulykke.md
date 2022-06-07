@@ -1,13 +1,13 @@
 # Ulykke
 
 ##
-Carlos kjører moped. Han kjører fort.
+Carlos kjører scooter. Han kjører fort.
 
 ##
 Det er vann på veien. Veien er glatt.
 
 ##
-Han faller av mopeden.
+Han faller av scooteren.
 
 ##
 Carlos blir skadet.

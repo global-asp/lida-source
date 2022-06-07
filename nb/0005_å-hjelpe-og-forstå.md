@@ -16,27 +16,19 @@
 «Jeg skjønner ikke.»
 
 ##
-«Er dette riktig?»
-
-«Ja.»
+«Er dette riktig?» «Ja.»
 
 ##
-«Er dette riktig?»
-
-«Nei.»
+«Er dette riktig?» «Nei.»
 
 ##
 «Jeg kan hjelpe deg.»
 
 ##
-«Kan du hjelpe meg?»
-
-«Ja, selvfølgelig!»
+«Kan du hjelpe meg?» «Ja, selvfølgelig!»
 
 ##
-«Kan du gi meg den?»
-
-«Ja, selvsagt!»
+«Kan du gi meg den?» «Ja, selvsagt!»
 
 ##
 «Takk skal du ha!»

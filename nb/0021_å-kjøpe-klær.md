@@ -10,20 +10,20 @@ Han drar til kjøpesenteret for å se etter nye klær.
 I kjøpesenteret finner han ikke klesbutikken.
 
 ##
-Han går til en annen butikk og spør om veien. «Hvor kan jeg kjøpe klær?» spør han.
+Han går til en annen butikk for å spørre om veien. «Hvor kan jeg kjøpe klær?» spør han.
 
 ##
-Butikkmedarbeideren peker på den andre siden. Klesbutikken er på motsatt side!
+Butikkmedarbeideren peker på den andre siden av kjøpesenteret. Klesbutikken er på motsatt side!
 
 ##
-Ali går inn og leter etter en skjorte. Skjortene er for store, og ganske dyre.
+Ali går inn og leter etter en skjorte. Skjortene er for store for ham, og ganske dyre.
 
 ##
-Han kjøpe en ny bukse i stedet. Den er på tilbud. Han bestemmer seg for å kjøpe en skjorte neste måned.
+Han kjøpe en ny bukse i stedet siden den er på tilbud. Han bestemmer seg for å kjøpe en skjorte neste måned når han får lønn.
 
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
-* Illustration: TBD
+* Illustration: Sara Sahar Haidari
 * Translation: Espen Stranger-Johannessen
 * Language: nb

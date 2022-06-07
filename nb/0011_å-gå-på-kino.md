@@ -4,7 +4,7 @@
 Mai leter etter en film hun kan se. Hun vil gå på kino med bestevennen sin, Lisa.
 
 ##
-Mai tar mopeden sin til kinoen. De har avtalt å møtes der.
+Mai tar scooteren sin til kinoen. De har avtalt å møtes der.
 
 ##
 På kinoen hilser de. De er spente på å se filmen.

@@ -1,4 +1,4 @@
-# Å kjøpe medisiner
+# Å skaffe medisiner
 
 ##
 Tom har tannpine. Han har veldig vondt i en tann.
@@ -25,7 +25,7 @@ Han kjører til nærmeste apotek.
 «Ja, jeg skal ringe tannlegen i morgen tidlig.»
 
 ##
-«Hvis du trenger sterkere medisin, må legen eller tannlegen din gi deg en resept.»
+«Hvis du har behov for sterkere medisin, trenger du en resept fra tannlegen eller legen din.»
 
 ##
 «Tusen takk! Ha det.»
@@ -33,6 +33,6 @@ Han kjører til nærmeste apotek.
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
-* Illustration: Sara Krotev
+* Illustration: Sara Rumen Krotev
 * Translation: Espen Stranger-Johannessen
 * Language: nb

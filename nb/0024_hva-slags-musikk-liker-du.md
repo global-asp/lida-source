@@ -24,6 +24,6 @@ Hva slags musikk liker du?
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
-* Illustration: TBD
+* Illustration: Sigrid Gullberg Hansen
 * Translation: Espen Stranger-Johannessen
 * Language: nb

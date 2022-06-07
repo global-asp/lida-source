@@ -1,7 +1,7 @@
 # Å skille seg ut for rett sak
 
 ##
-Edson ble født i Angola, rett etter at landet ble selvstendig. Han var en veldig høy gutt. På grunn av høyden hans, skilte han seg ut. Folk som ga våpen til barn for å kjempe som soldater i borgerkrigen, ville ha barn som ham.
+Edson ble født i Angola, rett etter at landet ble selvstendig. Han var en veldig høy gutt. På grunn av høyden hans skilte han seg ut. Folk som ga våpen til barn for å kjempe som soldater i borgerkrigen, ville ha barn som ham.
 
 ##
 Moren hans var redd hun skulle miste ham, så hun bestemte seg for å sende ham til Portugal for å bo med en tante. Der ville han være trygg, tenkte hun.
@@ -21,6 +21,6 @@ Nå, som voksen, trener Edson flyktningbarn og andre som står i fare for sosial
 ##
 * License: CC BY
 * Text: LIDA Portugal
-* Illustration: TBD
+* Illustration: Matilde Antonie Norman Stormbringer
 * Translation: Espen Stranger-Johannessen
 * Language: nb

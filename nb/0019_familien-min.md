@@ -24,6 +24,6 @@ Datteren min er bare to år gammel.
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
-* Illustration: TBD
+* Illustration: Vilius Aistis Vilimas
 * Translation: Espen Stranger-Johannessen
 * Language: nb

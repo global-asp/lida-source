@@ -1,22 +1,16 @@
 # Å møte folk
 
 ##
-«Hei!»
-
-«Hallo!»
+«Hei!» «Hallo!»
 
 ##
-«Ha det!»
-
-«Ha det!»
+«Ha det!» «Ha det bra!»
 
 ##
 «Dette er Kama.»
 
 ##
-«Hei, jeg er Kama.»
-
-«Hyggelig å møte deg, Kama.»
+«Hei, jeg er Kama.» «Hyggelig å møte deg, Kama.»
 
 ##
 Telefonen ringer.
@@ -49,9 +43,7 @@ Han legger på.
 «Et øyeblikk.»
 
 ##
-«Dette er Ali.»
-
-«Dette er Leila.»
+«Dette er Ali.» «Dette er Leila.»
 
 ##
 * License: CC BY-NC-SA
