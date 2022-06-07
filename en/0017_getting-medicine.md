@@ -33,5 +33,5 @@ He drives to the nearest pharmacy.
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
-* Illustration: TBD
+* Illustration: Sara Krotev
 * Language: en
