@@ -34,7 +34,7 @@ The waiter brings the food.
 They add sauce and salt, and stir the noodles.
 
 ##
-Kip and his friend eat the noodles. It's very tasty.
+Kip and his friend eat the noodles. They are very tasty.
 
 ##
 He drinks water.

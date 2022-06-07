@@ -10,7 +10,7 @@ This is my father.
 This is my mother.
 
 ##
-My wife is called Mona.
+My wife's name is Mona.
 
 ##
 I have two children.
@@ -24,5 +24,5 @@ My daughter is just two years old.
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
-* Illustration: TBD
+* Illustration: Vilius Aistis Vilimas
 * Language: en

@@ -4,7 +4,7 @@
 "Thank you!"
 
 ##
-"I don't know."
+"I do not know."
 
 ##
 "Where is...?"
@@ -13,30 +13,22 @@
 "That way."
 
 ##
-"I don't understand."
+"I do not understand."
 
 ##
-"Is this correct?"
-
-"Yes."
+"Is this correct?" "Yes."
 
 ##
-"Is this correct?"
-
-"No."
+"Is this correct?" "No."
 
 ##
 "I can help you."
 
 ##
-"Could you help me, please?"
-
-"Yes, of course!"
+"Could you help me, please?" "Yes, of course!"
 
 ##
-"Could you give me that?"
-
-"Yes, of course!"
+"Could you give me that?" "Yes, of course!"
 
 ##
 "Thank you!"

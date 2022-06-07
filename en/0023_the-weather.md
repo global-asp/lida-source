@@ -24,5 +24,5 @@ It is hot.
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
-* Illustration: TBD
+* Illustration: Tuva Akselsen Sandersen, Josefine Madsen
 * Language: en

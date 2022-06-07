@@ -1,7 +1,7 @@
 # Feelings
 
 ##
-"I'm scared."
+"I am scared."
 
 ##
 "Ouch!"
@@ -16,16 +16,16 @@
 "I have a headache."
 
 ##
-"I'm hungry."
+"I am hungry."
 
 ##
-"I'm tired."
+"I am tired."
 
 ##
-"I'm sleepy."
+"I am sleepy."
 
 ##
-"I'm thirsty."
+"I am thirsty."
 
 ##
 "What a shame."

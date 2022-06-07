@@ -13,16 +13,16 @@ In the shopping mall he can't find the clothes store.
 He goes to another shop to ask for directions. "Where can I buy clothes?" he asks.
 
 ##
-The shopkeeper points to the other side. The clothes store is on the opposite side!
+The shopkeeper points to the other side of the mall. The clothes store is on the opposite side!
 
 ##
-Ali enters and looks for a shirt. The shirts are too big, and quite expensive.
+Ali enters and looks for a shirt. The shirts are too big for him, and quite expensive.
 
 ##
-He buys a new pair of pants instead. They are sold at a discount. He decides to buy a shirt next month.
+He buys a new pair of pants instead since they are on sale. He decides to buy a shirt next month when he gets his salary.
 
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
-* Illustration: TBD
+* Illustration: Sara Sahar Haidari
 * Language: en

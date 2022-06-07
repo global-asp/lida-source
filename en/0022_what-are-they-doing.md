@@ -30,5 +30,5 @@ Everyone is doing something!
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
-* Illustration: TBD
+* Illustration: Frida Sofie Schønsberg
 * Language: en

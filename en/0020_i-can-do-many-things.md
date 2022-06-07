@@ -7,7 +7,7 @@ I can cook.
 I can ride a bicycle.
 
 ##
-I can sew clothes.
+I can sew.
 
 ##
 I can work hard.
@@ -27,5 +27,5 @@ I can laugh!
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
-* Illustration: TBD
+* Illustration: Selma Buer Hanstad
 * Language: en

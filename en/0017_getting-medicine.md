@@ -1,4 +1,4 @@
-# Buying medicines
+# Getting medicine
 
 ##
 Tom has a toothache. His tooth hurts very much.
@@ -13,7 +13,7 @@ He drives to the nearest pharmacy.
 "I have a toothache," he says. "Do you have any medicine for that?"
 
 ##
-"Yes, here are some painkillers. You don't need a prescription for those."
+"Yes, here are some painkillers. You do not need a prescription for those."
 
 ##
 "Thank you. How much do they cost?"
@@ -25,7 +25,7 @@ He drives to the nearest pharmacy.
 "Yes, I will call my dentist tomorrow morning."
 
 ##
-"If you need stronger medicine, your doctor or dentist must give you a prescription."
+"If you need stronger medicine, you will need to get a prescription from your dentist or doctor."
 
 ##
 "Thank you! Goodbye."
@@ -33,5 +33,5 @@ He drives to the nearest pharmacy.
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
-* Illustration: Sara Krotev
+* Illustration: Sara Rumen Krotev
 * Language: en

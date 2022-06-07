@@ -1,13 +1,13 @@
 # Accident
 
 ##
-Carlos drives a moped. He drives fast.
+Carlos drives a scooter. He drives fast.
 
 ##
 There is water on the road. The road is slippery.
 
 ##
-He falls off the moped.
+He falls off the scooter.
 
 ##
 Carlos is hurt.
@@ -28,13 +28,13 @@ They put Carlos in the ambulance.
 The ambulance drives to the hospital.
 
 ##
-A nurse takes Carlos in to the hospital.
+A nurse takes Carlos into the hospital.
 
 ##
 She treats him.
 
 ##
-Carlos' leg hurts.
+Carlos's leg hurts.
 
 ##
 Two doctors operate on his leg.

@@ -19,7 +19,7 @@ He empties the dustbin and puts an empty bag in it.
 He takes out the garbage.
 
 ##
-He needs gloves, a sponge, and cleaning agent.
+He needs gloves, a sponge, and detergent.
 
 ##
 First he scrubs the cleaning agent on the floor with the sponge.
@@ -31,7 +31,7 @@ Then he cleans the window.
 His living room is very messy.
 
 ##
-He tidies up. Now it's nice and clean.
+He tidies up. Now it is nice and clean.
 
 ##
 * License: CC BY-NC-SA

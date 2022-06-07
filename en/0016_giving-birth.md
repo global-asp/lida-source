@@ -1,13 +1,13 @@
 # Giving birth
 
 ##
-Selamawit is 29 years old. She gave birth to her first child in Eritrea. She and her family had a hard time, so they decided to go to Italy.
+Selamawit is 29 years old. She gave birth to her first child in Eritrea. She and her family had a hard time there, so they decided to go to Italy.
 
 ##
 Inga left home just before she turned 19. She moved to Norway and had her first child there.
 
 ##
-When Selamawit became pregnant with her second child, she wondered how it would be to have a child in a different country.
+When Selamawit became pregnant with her second child, she wondered what it would be like to have a child in a different country.
 
 ##
 Selamawit and Inga had different backgrounds. Selamawit felt safe because she had experience with giving birth. Inga talked to her mother about giving birth.
@@ -29,6 +29,6 @@ Both women gave birth to healthy babies. Selamawit had another son, while Inga h
 
 ##
 * License: CC BY
-* Text: LIDA
-* Illustration: TBD
+* Text: LIDA Italia
+* Illustration: Sara Dorthea Johannesen
 * Language: en
