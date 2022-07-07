@@ -24,5 +24,5 @@ What kind of music do you like?
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
-* Illustration: Sigrid Gullberg Hansen
+* Illustration: Tuva Akselsen Sandersen, Josefine Madsen
 * Language: en

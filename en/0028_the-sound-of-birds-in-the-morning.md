@@ -24,5 +24,5 @@ Yulia went to a women's shelter, where she felt safer than she had in a long tim
 ##
 * License: CC BY
 * Text: LIDA Portugal
-* Illustration: Hanna Bekkestad
+* Illustration: Vilius Aistis Vilimas
 * Language: en

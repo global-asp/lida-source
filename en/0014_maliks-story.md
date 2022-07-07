@@ -30,5 +30,5 @@ I hope to go back to Afghanistan one day. Many people there need help, and I wan
 ##
 * License: CC BY
 * Text: LIDA Italia
-* Illustration: Hanna Bekkestad
+* Illustration: Vilius Aistis Vilimas
 * Language: en

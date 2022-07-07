@@ -30,6 +30,6 @@ Jeg håper jeg kan dra tilbake til Afghanistan en dag. Mange folk der trenger hj
 ##
 * License: CC BY
 * Text: LIDA Italia
-* Illustration: Hanna Bekkestad
+* Illustration: Vilius Aistis Vilimas
 * Translation: Espen Stranger-Johannessen
 * Language: nb
