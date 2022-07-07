@@ -46,9 +46,6 @@ His parents visit him.
 They take him home. Carlos is using crutches.
 
 ##
-The hospital bill is expensive. Carlos is surprised.
-
-##
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee

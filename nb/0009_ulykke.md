@@ -46,9 +46,6 @@ Foreldrene hans besøker ham.
 De tar ham med seg hjem. Carlos bruker krykker.
 
 ##
-Sykehusregningen er dyr. Carlos er overrasket.
-
-##
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
