@@ -21,5 +21,5 @@ Now, as an adult, Edson trains refugee children and others at risk of social exc
 ##
 * License: CC BY
 * Text: LIDA Portugal
-* Illustration: Matilde Antonie Norman Stormbringer
+* Illustration: Sunniva Høiby-Øiset
 * Language: en

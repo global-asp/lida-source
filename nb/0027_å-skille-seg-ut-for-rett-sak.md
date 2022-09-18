@@ -21,6 +21,6 @@ Nå, som voksen, trener Edson flyktningbarn og andre som står i fare for sosial
 ##
 * License: CC BY
 * Text: LIDA Portugal
-* Illustration: Matilde Antonie Norman Stormbringer
+* Illustration: Sunniva Høiby-Øiset
 * Translation: Espen Stranger-Johannessen
 * Language: nb

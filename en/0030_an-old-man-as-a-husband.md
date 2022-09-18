@@ -24,5 +24,5 @@ I do not know what the future will bring. My plan is to go to another school, bu
 ##
 * License: CC BY
 * Text: Aranya
-* Illustration: Matilde Antonie Norman Stormbringer
+* Illustration: Sunniva Høiby-Øiset
 * Language: en
