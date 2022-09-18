@@ -1,7 +1,7 @@
 # Going to work
 
 ##
-The alarm clock rings. It is time to get up.
+The alarm rings. It is time to get up.
 
 ##
 She gets up.
@@ -25,16 +25,16 @@ She dries herself with a towel.
 She gets dressed. She puts on a skirt and a blouse.
 
 ##
-She picks up her purse.
+She picks up her handbag.
 
 ##
-She takes the purse and leaves for work.
+She takes her handbag and leaves for work.
 
 ##
 She walks to work.
 
 ##
-She reaches her work. She works in an office.
+She arrives at work. She works in an office.
 
 ##
 * License: CC BY-NC-SA

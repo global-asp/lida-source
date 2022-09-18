@@ -1,22 +1,22 @@
 # Asking and answering
 
 ##
-"I want that one."
+"I would like that one, please."
 
 ##
 "Do you have...?"
 
 ##
-"May I sit here?"
+"Is it okay if I sit here?"
 
 ##
-"Yes, please."
+"That will be fine."
 
 ##
-"Would you like this?"
+"Would you like some of this?"
 
 ##
-"Yes, thank you!"
+"Yes, please!"
 
 ##
 "Could I see that one, please?"

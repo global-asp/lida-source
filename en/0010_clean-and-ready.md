@@ -25,7 +25,7 @@ He dries himself.
 He combs his hair.
 
 ##
-He cuts his nails.
+He cuts his fingernails.
 
 ##
 * License: CC BY-NC-SA

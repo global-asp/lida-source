@@ -1,22 +1,22 @@
 # Standing out for the right reason
 
 ##
-Edson was born in Angola, right after the country became independent. He was a very tall boy. Because of his height he stood out. The people who were giving weapons to children to fight as soldiers in the civil war, wanted boys like him.
+Edson was born in Angola, just after the country became independent. He was a very tall boy. Because of his height he stood out. The people who were giving weapons to children to fight as soldiers in the civil war wanted boys like him.
 
 ##
-His mother was afraid of losing him, so she decided to send him to live in Portugal with an aunt. There he would be safe, she thought.
+His mother was afraid they would take him, so she decided to send him to live in Portugal with an aunt. She thought he would be safe there.
 
 ##
-The early days were very difficult because Edson missed the warm weather, the traditional food, and most of all his mother's hugs and kisses.
+It was very difficult to begin with, as Edson missed the warm weather, the traditional food and, most of all, his mother's hugs and kisses.
 
 ##
-He did not speak Portuguese well, and it was very hard to follow the classes and the conversations of his classmates. He wondered if it was a good idea to come to Portugal after all.
+He did not speak Portuguese well and found it very hard to follow his classes and the conversations of his classmates. He wondered if it was a good idea to come to Portugal after all.
 
 ##
-One day a teacher noticed how good he was at playing basketball. He joined a basketball team and was very successful. He became popular at school and made friends. He was also more confident.
+One day a teacher noticed how good he was at basketball. He joined a basketball team and was very successful. He became popular at school and made friends. He also became more confident.
 
 ##
-Now, as an adult, Edson trains refugee children and others at risk of social exclusion. His height, which in the past put him in danger of becoming a child soldier, has become his strength for helping others feeling included and safe.
+Now that he is an adult, Edson trains refugee children and others at risk of being excluded from society. Once, his height put him in danger of becoming a child soldier. Now, his height gives him strength to help others feel safe.
 
 ##
 * License: CC BY

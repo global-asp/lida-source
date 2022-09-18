@@ -1,7 +1,7 @@
 # Going to the cinema
 
 ##
-Mai looks for a film she can watch. She wants to go to the cinema with her best friend, Lisa.
+Mai searches for a film to watch. She wants to go to the cinema with her best friend, Lisa.
 
 ##
 Mai takes her scooter to the cinema. They have agreed to meet there.

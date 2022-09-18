@@ -1,16 +1,22 @@
 # Meeting people
 
 ##
-"Hi!" "Hello!"
+"Hi!"
+
+"Hello!"
 
 ##
-"Bye!" "Goodbye!"
+"Bye!"
+
+"Goodbye!"
 
 ##
 "This is Kama."
 
 ##
-"Hi, I am Kama." "Nice to meet you, Kama."
+"Hi, I'm Kama."
+
+"Nice to meet you, Kama."
 
 ##
 The phone is ringing.
@@ -31,19 +37,21 @@ He hangs up.
 "Please come in."
 
 ##
-"I am sorry."
+"I'm sorry."
 
 ##
 "No problem."
 
 ##
-"Excuse me."
+"Excuse me, please."
 
 ##
 "One moment, please."
 
 ##
-"This is Ali." "This is Leila."
+"This is Ali."
+
+"This is Leila."
 
 ##
 * License: CC BY-NC-SA

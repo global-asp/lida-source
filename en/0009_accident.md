@@ -1,28 +1,28 @@
 # Accident
 
 ##
-Carlos drives a scooter. He drives fast.
+Carlos rides a scooter. He rides fast.
 
 ##
 There is water on the road. The road is slippery.
 
 ##
-He falls off the scooter.
+He loses control of the scooter and falls off.
 
 ##
-Carlos is hurt.
+Carlos is badly hurt.
 
 ##
-A woman calls for an ambulance. "There has been an accident. Come!"
+A woman calls for an ambulance. "There has been an accident. Come quickly!"
 
 ##
-The ambulance comes quickly.
+The ambulance comes very quickly.
 
 ##
 Two men put Carlos on a stretcher.
 
 ##
-They put Carlos in the ambulance.
+They lift Carlos into the ambulance.
 
 ##
 The ambulance drives to the hospital.
@@ -34,16 +34,16 @@ A nurse takes Carlos into the hospital.
 She treats him.
 
 ##
-Carlos's leg hurts.
+Carlos's leg hurts a lot, and he is worried.
 
 ##
 Two doctors operate on his leg.
 
 ##
-His parents visit him.
+His parents visit him. They ask him how the accident happened.
 
 ##
-They take him home. Carlos is using crutches.
+They drive him home. Carlos is using crutches.
 
 ##
 * License: CC BY-NC-SA

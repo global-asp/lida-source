@@ -4,25 +4,25 @@
 Tom has a toothache. His tooth hurts very much.
 
 ##
-He needs to see his dentist. But first he needs medicines for the pain.
+He needs to see his dentist, but first he needs something for the pain.
 
 ##
 He drives to the nearest pharmacy.
 
 ##
-"I have a toothache," he says. "Do you have any medicine for that?"
+"I have a toothache," he says. "Do you have anything for that?"
 
 ##
-"Yes, here are some painkillers. You do not need a prescription for those."
+"Yes, here are some painkillers. You don't need a prescription for these."
 
 ##
 "Thank you. How much do they cost?"
 
 ##
-"They cost nine Euros. But you should see a dentist."
+"They cost nine euros. But you should see a dentist."
 
 ##
-"Yes, I will call my dentist tomorrow morning."
+"Okay, I will call my dentist tomorrow morning."
 
 ##
 "If you need stronger medicine, you will need to get a prescription from your dentist or doctor."

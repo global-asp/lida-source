@@ -16,19 +16,19 @@
 "I have a headache."
 
 ##
-"I am hungry."
+"I'm hungry."
 
 ##
-"I am tired."
+"I'm tired."
 
 ##
-"I am sleepy."
+"I'm sleepy."
 
 ##
-"I am thirsty."
+"I'm thirsty."
 
 ##
-"What a shame."
+"That's a shame."
 
 ##
 * License: CC BY-NC-SA

@@ -1,13 +1,13 @@
 # Going to a café
 
 ##
-Boran and his daughter are walking.
+Boran and his daughter are out for a walk.
 
 ##
 They come to a café, and go in.
 
 ##
-In the café the waiter shows them a table.
+In the café the waiter shows them to a table.
 
 ##
 Boran orders a coffee.
@@ -19,7 +19,7 @@ His daughter orders a soda.
 The waiter brings their order.
 
 ##
-He pours the soda in a glass.
+He pours the soda into a glass.
 
 ##
 She drinks the soda.

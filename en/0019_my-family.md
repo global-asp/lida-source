@@ -19,7 +19,7 @@ I have two children.
 My son is five years old.
 
 ##
-My daughter is just two years old.
+My daughter is only two years old.
 
 ##
 * License: CC BY

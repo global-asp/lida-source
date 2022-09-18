@@ -1,28 +1,28 @@
 # Cleaning
 
 ##
-First he sweeps the floor with a broom.
+First, he sweeps the floor with a broom.
 
 ##
-Then he vacuums with a vacuum cleaner.
+Then he vacuums. The vacuum cleaner works well.
 
 ##
-He needs a bucket of water and a mop.
+Then he gets a bucket of water and a mop.
 
 ##
 He mops the floor.
 
 ##
-He empties the dustbin and puts an empty bag in it.
+He empties the bin and puts a new bag in it.
 
 ##
-He takes out the garbage.
+He takes out the rubbish.
 
 ##
-He needs gloves, a sponge, and detergent.
+He needs gloves, a sponge, and some cleaner.
 
 ##
-First he scrubs the cleaning agent on the floor with the sponge.
+He scrubs a dirty spot on the floor with the sponge and some of the cleaner.
 
 ##
 Then he cleans the window.

@@ -7,7 +7,7 @@
 "Yes, my husband and I have two daughters and a son."
 
 ##
-"I have two daughters too, but I am divorced."
+"I also have two daughters, but I'm divorced."
 
 ##
 "How old are your daughters?"
@@ -22,13 +22,13 @@
 "That is great! They grow up so fast. What does he want to do afterwards?"
 
 ##
-"He wants to work, but I tell him he should go to university."
+"He wants to get a job, but I tell him he should go to university instead."
 
 ##
-"That is a good idea. I also hope my children will go to university one day."
+"That's a good idea. I also hope my children will go to university someday."
 
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
-* Illustration: Sigrid Gullberg Hansen
+* Illustration: n/a
 * Language: en

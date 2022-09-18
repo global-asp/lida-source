@@ -19,7 +19,7 @@ I can speak three languages.
 I can sing.
 
 ##
-I can take care of children.
+I can look after children.
 
 ##
 I can laugh!

@@ -13,13 +13,13 @@ He goes to the bathroom.
 He brushes his teeth.
 
 ##
-He goes to the bedroom.
+He goes into the bedroom.
 
 ##
 He takes off his clothes.
 
 ##
-He sits in bed.
+He sits on the bed.
 
 ##
 He watches TV.
@@ -28,7 +28,7 @@ He watches TV.
 He turns off the TV.
 
 ##
-He sleeps.
+He goes to sleep.
 
 ##
 He dreams.
