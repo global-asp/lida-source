@@ -22,20 +22,19 @@ Lisa tar popkornet mens Mai kjøper to flasker brus.
 De viser billettene før de går inn for å se filmen.
 
 ##
-De leter etter plassene dine. Det er mørkt fordi filmen allerede har begynt.
+De leter etter plassene sine. Det er mørkt fordi filmen allerede har begynt.
 
 ##
 De setter seg og ser på filmen.
 
 ##
-Det er en romantisk film. Det er den typen de liker best.
+Det er en romantisk film. Det er sånne filmer de liker best.
 
 ##
-Etter filmen tar de farvel og drar hjem.
+Etter filmen sier de «ha det» og drar hjem.
 
 ##
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Espen Stranger-Johannessen
 * Language: nb

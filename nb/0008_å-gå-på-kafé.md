@@ -1,13 +1,13 @@
 # Å gå på kafé
 
 ##
-Boran og datteren hans går.
+Boran og datteren hans går en tur.
 
 ##
 De kommer til en kafé, og går inn.
 
 ##
-I kafeen tar kelneren dem med til et bord.
+I kafeen viser kelneren dem et bord.
 
 ##
 Boran bestiller en kaffe.
@@ -16,7 +16,7 @@ Boran bestiller en kaffe.
 Datteren hans bestiller en brus.
 
 ##
-Kelneren kommer med bestillingen.
+Kelneren kommer med det de har bestilt.
 
 ##
 Han heller brusen i et glass.
@@ -46,5 +46,4 @@ Boran og datteren hans drar fra kafeen.
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Espen Stranger-Johannessen
 * Language: nb

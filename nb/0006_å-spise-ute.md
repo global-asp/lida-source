@@ -4,10 +4,10 @@
 Kip vil spise nudler.
 
 ##
-Kip ber en venn bli med ham.
+Kip spør en venn om å bli med ham.
 
 ##
-De går for å finne et sted de kan spise.
+De leter etter et sted de kan spise.
 
 ##
 De finner et sted som selger nudler.
@@ -37,7 +37,7 @@ De tar på saus og salt, og rører i nudlene.
 Kip og vennen hans spiser nudlene. Det smaker veldig godt.
 
 ##
-Han drikker vann.
+Han drikker vannet.
 
 ##
 De betaler regningen.
@@ -46,5 +46,4 @@ De betaler regningen.
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Espen Stranger-Johannessen
 * Language: nb

@@ -4,7 +4,7 @@
 Først feier han gulvet med en kost.
 
 ##
-Så støvsuger han med en støvsuger.
+Så støvsuger han. Støvsugeren fungerer godt.
 
 ##
 Han trenger en bøtte med vann og en mopp.
@@ -22,7 +22,7 @@ Han tar ut søpla.
 Han trenger hansker, en svamp og rengjøringsmiddel.
 
 ##
-Først skrubber han rengjøringsmiddelet på gulvet med svampen.
+Han skrubber en flekk på gulvet med svampen og rengjøringsmiddelet.
 
 ##
 Så vasker han vinduet.
@@ -37,5 +37,4 @@ Han rydder. Nå er det rent og pent.
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Espen Stranger-Johannessen
 * Language: nb

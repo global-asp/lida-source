@@ -13,7 +13,7 @@ Han går på badet.
 Han pusser tennene.
 
 ##
-Han går til soverommet.
+Han går inn på soverommet.
 
 ##
 Han kler av seg.
@@ -28,7 +28,7 @@ Han ser på TV.
 Han skrur av TV-en.
 
 ##
-Han sover.
+Han sovner.
 
 ##
 Han drømmer.
@@ -37,5 +37,4 @@ Han drømmer.
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Espen Stranger-Johannessen
 * Language: nb

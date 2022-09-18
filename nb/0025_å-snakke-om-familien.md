@@ -22,14 +22,13 @@
 «Så fint! De vokser så fort. Hva vil han gjøre etter det?»
 
 ##
-«Han vil jobbe, men jeg sier til ham at han burde begynne på universitetet.»
+«Han vil få seg en jobb, men jeg sier til ham at han burde begynne på universitetet i stedet.»
 
 ##
-«Det er en god idé. Jeg håper også at barna mine kommer til å studere på universitetet etter hvert.»
+«Det er en god idé. Jeg håper også at barna mine vil begynne på universitetet etter hvert.»
 
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
-* Illustration: Sigrid Gullberg Hansen
-* Translation: Espen Stranger-Johannessen
+* Illustration: n/a
 * Language: nb

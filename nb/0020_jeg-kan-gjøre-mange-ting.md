@@ -28,5 +28,4 @@ Jeg kan le!
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Selma Buer Hanstad
-* Translation: Espen Stranger-Johannessen
 * Language: nb

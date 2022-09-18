@@ -13,22 +13,30 @@
 «Den veien.»
 
 ##
-«Jeg skjønner ikke.»
+«Jeg forstår ikke.»
 
 ##
-«Er dette riktig?» «Ja.»
+«Er dette rett?»
+
+«Ja.»
 
 ##
-«Er dette riktig?» «Nei.»
+«Er dette rett?»
+
+«Nei.»
 
 ##
-«Jeg kan hjelpe deg.»
+«Trenger du hjelp?»
 
 ##
-«Kan du hjelpe meg?» «Ja, selvfølgelig!»
+«Kan du hjelpe meg?»
+
+«Ja, selvfølgelig!»
 
 ##
-«Kan du gi meg den?» «Ja, selvsagt!»
+«Kan jeg få den?»
+
+«Ja, selvsagt!»
 
 ##
 «Takk skal du ha!»
@@ -37,5 +45,4 @@
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Espen Stranger-Johannessen
 * Language: nb
