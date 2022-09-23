@@ -13,7 +13,7 @@ Consigo costurar.
 Consigo trabalhar arduamente.
 
 ##
-Consigo falar várias línguas.
+Consigo falar três línguas.
 
 ##
 Consigo cantar.
