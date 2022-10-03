@@ -7,7 +7,6 @@ Jeg heter Agostino og jeg er 51 år. Jobben min er å levere mat på sykkel. Jeg
 Jeg bor med moren min siden jeg ikke kan betale husleien etter skilsmissen. Husleien er veldig dyr i denne byen.
 
 ##
-
 For noen måneder siden jobbet jeg som vaktmester for et firma. Jeg reparerte ting som var ødelagt, bar esker og hjalp til når noen trengte det. En dag fikk jeg sparken fra firmaet. Jeg skjønte ikke hvorfor.
 
 ##
