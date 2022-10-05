@@ -46,7 +46,7 @@ Os seus pais vêm visitá-lo. Perguntam-lhe como é que o acidente aconteceu.
 Eles levam-no para casa. O Carlos está a usar muletas.
 
 ##
-* License: [CC-BY-NC]
+* License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
 * Translation: Susana Coimbra

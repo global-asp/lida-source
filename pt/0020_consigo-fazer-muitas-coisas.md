@@ -25,7 +25,7 @@ Consigo cuidar de crianças.
 Consigo rir!
 
 ##
-* License: [CC-BY-NC]
+* License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Selma Buer Hanstad
 * Translation: Marta Pinto

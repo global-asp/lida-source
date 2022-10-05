@@ -31,7 +31,7 @@ Na vez seguinte que a Alisha vai a uma entrevista num restaurante, oferecem-lhe 
 Ela sente orgulho em ter um emprego que lhe permite comprar comida e roupas para a sua família com o seu próprio dinheiro.
 
 ##
-* License: [CC-BY-NC]
+* License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Sunniva Høiby-Øiset
 * Translation: Marta Pinto

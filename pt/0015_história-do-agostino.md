@@ -25,7 +25,7 @@ Juntamente com outras pessoas que fazem entregas, de outras empresas, fiz um cur
 Depois de muito tempo, todo o nosso trabalho árduo valeu a pena. Uma grande empresa de entregas teve de pagar uma multa enorme e de dar aos trabalhadores empregos permanentes. Foi a primeira vez que isso aconteceu em qualquer parte do mundo. Parece que as coisas estão a começar a melhorar.
 
 ##
-* License: [CC-BY-NC]
+* License: CC BY
 * Text: LIDA Italia
 * Illustration: n/a
 * Translation: Marta Pinto

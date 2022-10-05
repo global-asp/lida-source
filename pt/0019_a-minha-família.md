@@ -22,7 +22,7 @@ O meu filho tem cinco anos.
 A minha filha só tem dois anos.
 
 ##
-* License: [CC-BY-NC]
+* License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Vilius Aistis Vilimas
 * Translation: Marta Pinto

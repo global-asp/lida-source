@@ -37,7 +37,7 @@ Ela caminha para o trabalho.
 Ela chega ao trabalho. Trabalha num escritório.
 
 ##
-* License: [CC-BY-NC]
+* License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
 * Translation: Ana Costa

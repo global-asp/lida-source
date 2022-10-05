@@ -22,7 +22,7 @@ Está frio.
 Está calor.
 
 ##
-* License: [CC-BY-NC]
+* License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Tuva Akselsen Sandersen, Josefine Madsen
 * Translation: Susana Coimbra

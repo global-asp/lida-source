@@ -34,7 +34,7 @@ Elas sentam-se para ver o filme.
 Depois do filme despedem-se e vão para casa.
 
 ##
-* License: [CC-BY-NC]
+* License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
 * Translation: João Caramelo

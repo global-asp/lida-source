@@ -46,7 +46,7 @@ Um momento, por favor.
 Este é o Ali. Esta é a Leila.
 
 ##
-* License: [CC-BY-NC]
+* License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
 * Translation: Susana Coimbra

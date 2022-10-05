@@ -28,7 +28,7 @@ Estão a conduzir.
 Toda a gente está a fazer alguma coisa!
 
 ##
-* License: [CC-BY-NC]
+* License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Frida Sofie Schønsberg
 * Translation: Ana Costa

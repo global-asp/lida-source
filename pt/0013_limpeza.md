@@ -34,7 +34,7 @@ A sua sala de estar, está muito desarrumada.
 Ele arruma. Agora está agradável e limpa.
 
 ##
-* License: [CC-BY-NC]
+* License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
 * Translation: Marta Pinto

@@ -25,7 +25,7 @@ No próximo ano, vou começar o ensino secundário na área de saúde e desenvol
 Se eu tivesse ficado na Somália, penso que já teria sido mãe. Talvez já tivesse tido muitos filhos. Se eu tivesse ficado na Somália, não teria tido as mesmas oportunidades que tenho tido agora. Sinto-me sortuda por viver na Noruega.
 
 ##
-* License: [CC-BY-NC]
+* License: CC BY
 * Text: Aamiina
 * Illustration: Julie Cornelia van Walsum
 * Translation: Susana Coimbra

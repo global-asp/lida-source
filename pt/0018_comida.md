@@ -22,7 +22,7 @@ Ele não come amendoins. Ele é alérgico a amendoins.
 Eles estão a cozinhar. Cheira bem!
 
 ##
-* License: [CC-BY-NC]
+* License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Sara Sahar Haidari
 * Translation: João Caramelo

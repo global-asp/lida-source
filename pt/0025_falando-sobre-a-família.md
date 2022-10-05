@@ -28,7 +28,7 @@
 "É uma boa ideia. Eu também espero que algum dia as minhas crianças vão para a universidade."
 
 ##
-* License: [CC-BY-NC]
+* License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: n/a
 * Translation: João Caramelo

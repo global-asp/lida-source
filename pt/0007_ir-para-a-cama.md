@@ -34,7 +34,7 @@ Vai dormir.
 Sonha.
 
 ##
-* License: [CC-BY-NC]
+* License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
 * Translation: Susana Coimbra

@@ -22,7 +22,7 @@ O Ali vai e procura uma camisa. As camisas são grandes demais para ele e muito 
 Em vez da camisa, ele compra um novo par de calças porque estão em saldos. Decide que irá comprar a camisa no próximo mês, quando ganhar ou seu salário.
 
 ##
-* License: [CC-BY-NC]
+* License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Sara Sahar Haidari
 * Translation: Susana Coimbra

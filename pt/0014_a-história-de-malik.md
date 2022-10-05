@@ -28,7 +28,7 @@ Depois de estudar, comecei a trabalhar. Primeiro trabalhei num restaurante, e de
 Espero voltar um dia ao Afeganistão. Muitas pessoas lá precisam de ajuda, e eu quero ajudá-las.
 
 ##
-* License: [CC-BY-NC]
+* License: CC BY
 * Text: LIDA Italia
 * Illustration: Vilius Aistis Vilimas
 * Translation: Ana Costa

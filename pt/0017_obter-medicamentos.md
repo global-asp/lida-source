@@ -31,7 +31,7 @@ Ele conduz até à farmácia mais próxima.
 "Obrigado! Adeus."
 
 ##
-* License: [CC-BY-NC]
+* License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Sara Rumen Krotev
 * Translation: Ana Costa

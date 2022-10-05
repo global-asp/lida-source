@@ -28,7 +28,7 @@ A Inga e a sua médica concordaram que ela se encontraria com uma parteira para 
 Ambas as mulheres deram à luz bebés saudáveis. A Selamawit teve outro filho, enquanto a Inga teve uma filha. Os seus maridos estavam muito orgulhosos, e falaram a todas as pessoas que conheciam sobre as suas esposas fortes e filhos saudáveis.
 
 ##
-* License: [CC-BY-NC]
+* License: CC BY
 * Text: LIDA Italia
 * Illustration: Sara Dorthea Johannesen
 * Translation: Ana Costa

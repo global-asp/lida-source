@@ -22,7 +22,7 @@ Anita diz, "Eu gosto de canções românticas e de música que me faça feliz."
 De que tipo de música gostas tu?
 
 ##
-* License: [CC-BY-NC]
+* License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Sara Rumen Krotev
 * Translation: João Caramelo
