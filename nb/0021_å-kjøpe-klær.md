@@ -7,7 +7,6 @@ Skjorta til Ali er gammel. Han trenger en ny.
 Han drar til kjøpesenteret for å se etter nye klær.
 
 ##
-
 På kjøpesenteret finner han ikke klesbutikken.
 
 ##
