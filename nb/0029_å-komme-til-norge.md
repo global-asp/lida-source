@@ -1,7 +1,7 @@
 # Å komme til Norge
 
 ##
-De to brødrene mine og jeg kom til Norge i desember 2016. Vi hadde på oss sommerklær fordi vi trodde det ville være like varmt i Norge som i Somalia. Men da vi kom til flyplassen, snødde det. Vi frøs og været var kaldt. Selv om vi hadde med oss noen kofforter, inneholdt de bare sommerklær.
+De to brødrene mine og jeg kom til Norge i desember 2016. Vi hadde på oss sommerklær fordi vi trodde det ville være like varmt i Norge som i Somalia. Men da vi kom til flyplassen, snødde det. Vi frøs og været var kaldt. Selv om vi hadde med oss noen kofferter, inneholdt de bare sommerklær.
 
 ##
 Selv om det var kaldt, var jeg veldig glad da vi kom til Norge. Jeg kunne endelig møte mamma igjen, som jeg ikke hadde sett på seks år. Mamma og to av venninnene hennes møtte oss. Da vi møtte mamma igjen, gråt vi av glede. Mamma bor i en liten by, så vi kjørte dit.
