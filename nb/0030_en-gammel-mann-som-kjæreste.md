@@ -16,7 +16,7 @@ Jeg har nesten ikke hatt penger siden jeg kom til Norge. Én gang ga han meg pen
 I stedet hadde han en annen jobb for meg – å bygge en garasje. Han var sjefen og jeg gjorde alt. Han kunne ikke gjøre så mye fordi han var syk. Han ga meg ingen av pengene han tjente fra å bygge garasjen.
 
 ##
-En dag sa han til meg at han kjedet seg når han var alene hjemme, så han bestemte seg for at vi skulle skaffe oss en hund. Jeg ville ikke ha en hund siden jeg pleide å være sliten etter skolen og jeg har lekser. Han sa at han skulle gå tur med hunden hver dag, men til slutt måtte jeg passe både hunden og den gamle mannen min.
+En dag sa han til meg at han kjedet seg når han var alene hjemme, så han bestemte seg for at vi skulle skaffe oss en hund. Jeg ville ikke ha en hund siden jeg var sliten etter skolen og hadde lekser. Han sa at han skulle gå tur med hunden hver dag, men til slutt måtte jeg passe både hunden og den gamle mannen min.
 
 ##
 Jeg vet ikke hva framtiden vil bringe. Planen min er å begynne på en annen skole, men mannen min vil ikke at jeg skal gjøre det. Han planlegger å flytte lengre vekk for å gjøre det vanskelig for meg. Jeg vil gjøre motstand, men jeg vet ikke hvordan. Det er ikke så lett å bo i utlandet med en gammel mann slik jeg en gang så for meg.
