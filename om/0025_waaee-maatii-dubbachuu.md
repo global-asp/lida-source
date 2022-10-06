@@ -1,0 +1,35 @@
+# Waa'ee maatii dubbachuu
+
+##
+"Maatii qabduu?"
+
+##
+"Eeyyee, aniifi abbaan manaakoo ijoollee durbaa lamaa fi ilma tokko qabna."
+
+##
+"Anis ijoollee durbaa lama qaba, garuu wal hiikneerra."
+
+##
+"Ijoolleen durbaa keessan umriin isaanii meeqa?"
+
+##
+"Miinaan umuriin ishee waggaa afuri. Mana barumsaa duraa deemti. Miiriyaam waggaa kudhan waan ta'teef mana barumsaa deemti."
+
+##
+"Ijoolleen koo hundi mana barumsaa jiru. Ilmi koo bara dhufu ni eebbifama."
+
+##
+"Sun waan guddaadha! Akka malee saffisaan guddatu. Booda maal gochuu barbaada?"
+
+##
+"Inni hojii argachuu barbaada, garuu kanaa mannaa gara yunivarsiitii deemuu qabda jedheen."
+
+##
+"Yaada gaariidha. Ijoolleen koos gaaf tokko gara yunivarsiitii akka deeman abdiin qaba."
+
+##
+* License: CC BY
+* Text: Espen Stranger-Johannessen
+* Illustration: n/a
+* Translation: Muhammed Berisso
+* Language: om
