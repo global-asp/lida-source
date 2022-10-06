@@ -22,7 +22,7 @@ Ein dag sa han til meg at han kjeda seg når han var åleine heime, så han best
 Eg veit ikkje kva framtida vil bringe. Planen min er å byrje på ein annan skule, men mannen min vil ikkje at eg skal gjere det. Han planlegg å flytte lengre vekk for å gjere det vanskeleg for meg. Eg vil gjere motstand, men eg veit ikkje korleis. Det er ikkje så lett å bu i utlandet med ein gammal mann slik eg ein gang såg for meg.
 
 ##
-* *License: *CC BY
-* *Text: *Aranya
-* *Illustration: Sunniva *Høiby-Øiset
-* *Language: *nn
+* License: CC BY
+* Text: Aranya
+* Illustration: Sunniva Høiby-Øiset
+* Language: nn
