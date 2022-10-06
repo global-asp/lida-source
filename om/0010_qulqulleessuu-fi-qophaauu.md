@@ -1,4 +1,4 @@
-# Qulqulleessuu fi qophaa'uu.
+# Qulqulleessuu fi qophaa'uu
 
 ##
 Harka isaa ni dhiqa.

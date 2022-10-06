@@ -1,4 +1,4 @@
-# Maatii koo.
+# Maatii koo
 
 ##
 Kun maatii kooti.

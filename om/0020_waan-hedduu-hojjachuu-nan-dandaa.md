@@ -1,4 +1,4 @@
-# Waan hedduu hojjachuu nan danda'a.
+# Waan hedduu hojjachuu nan danda'a
 
 ##
 Nyaata bilcheessuu nan danda'a.

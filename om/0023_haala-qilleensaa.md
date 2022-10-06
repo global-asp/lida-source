@@ -25,5 +25,5 @@ Ni hoo'a.
 * License: CC BY-NC
 * Text: Espen Stranger-Johannessen
 * Illustration: Tuva Akselsen Sandersen, Josefine Madsen
-* Translation: Muhammed
+* Translation: Muhammed Berisso
 * Language: om
