@@ -22,7 +22,7 @@ Han kjører til nærmeste apotek.
 «De koster ni euro. Men du bør gå til tannlegen.»
 
 ##
-«Okey, jeg skal ringe tannlegen i morgen tidlig.»
+«OK, jeg skal ringe tannlegen i morgen tidlig.»
 
 ##
 «Hvis du trenger sterkere medisin, må du ha en resept fra tannlegen eller legen din.»
