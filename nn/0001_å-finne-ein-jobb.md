@@ -25,7 +25,7 @@ Alisha må jobba på ein restaurant som ein del av utdanninga. Ho får ikkje lø
 Ho legg til informasjon om kurset på CV-en sin. Ein CV er ei skildring av alt arbeidet ho har gjort og alle kursa ho har tatt.
 
 ##
-Neste gang Alisha skal på jobbintervju på ein restaurant, blir ho tilboden jobben. Det er hardt arbeid. Ho må ofte jobba om kvelden, når barna hennar er heime frå skulen.
+Neste gang Alisha skal på jobbintervju på ein restaurant, blir ho tilbode jobben. Det er hardt arbeid. Ho må ofte jobba om kvelden, når barna hennar er heime frå skulen.
 
 ##
 Ho er stolt av at ho har fått ein jobb så ho kan kjøpa mat og klede til familien sin for sine eigne pengar.
