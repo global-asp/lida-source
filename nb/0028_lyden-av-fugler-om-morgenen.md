@@ -13,10 +13,10 @@ Yulia tilpasset seg det nye hjemmet godt, og hun begynte å jobbe som hjemmehjel
 En dag begynte han å kjefte på Yulia. Senere begynte han å dytte henne. Volden økte med skriking og slag, særlig når han var full. Yulia var redd for seg selv og for datteren, men hun visste ikke hva hun skulle gjøre.
 
 ##
-Da Yulia omsider måtte dra til legevakten på sykehuset med brukket arm, fortalte de henne at partnervold var et stort problem i Portugal. De sa også at det var ulovlig og at hun burde anmelde det til politiet.
+Da Yulia omsider måtte dra til legevakten på sykehuset med brukket arm, fortalte de henne at partnervold var et stort problem i Portugal. De sa også at det var ulovlig og, at hun burde anmelde det til politiet.
 
 ##
-Yulia var utslitt og ville ikke at den lille datteren hennes skulle vokse opp i et hjem hvor hun var vitne til vold daglig. Yulia innså at tegnene på mishandling hadde vært der hele tiden, selv om det så veldig forskjellige ut.
+Yulia var utslitt og ville ikke at den lille datteren hennes skulle vokse opp i et hjem hvor hun var vitne til vold daglig. Yulia innså at tegnene på mishandling hadde vært der hele tiden, selv om de så veldig forskjellige ut.
 
 ##
 Yulia dro til et krisesenter, hvor hun følte seg tryggere enn hun hadde gjort på lenge. Hun hadde ikke følt seg sånn siden hun ble vekket av lyden av fugler om morgenen.
