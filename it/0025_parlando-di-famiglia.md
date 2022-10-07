@@ -7,7 +7,7 @@
 "Sì, mio marito ed io abbiamo due figlie e un figlio."
 
 ##
-"Anch'io ho due figlie ma sono divorziato."
+"Anch'io ho due figlie ma sono divorziata."
 
 ##
 "Quanti anni hanno le tue figlie?"
