@@ -27,5 +27,5 @@ Etter en lang stund fikk det harde arbeidet vårt resultater. Et stort budfirma 
 ##
 * License: CC BY
 * Text: LIDA Italia
-* Illustration: n/a
+* Illustration: Billie Cejka Risnes
 * Language: nb

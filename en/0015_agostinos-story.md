@@ -27,5 +27,5 @@ After a long time all our hard work paid off. One big delivery company had to pa
 ##
 * License: CC BY
 * Text: LIDA Italia
-* Illustration: n/a
+* Illustration: Billie Cejka Risnes
 * Language: en

@@ -30,5 +30,5 @@
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
-* Illustration: n/a
+* Illustration: Billie Cejka Risnes
 * Language: nn

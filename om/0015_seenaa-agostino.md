@@ -27,6 +27,6 @@ Yeroo dheeraa booda hojiin keenya hundi buʼaa argamsiise. Dhaabbanni geejjibaa 
 ##
 * License: CC BY
 * Text: LIDA Italia
-* Illustration: n/a
+* Illustration: Billie Cejka Risnes
 * Translation: Muhammed Berisso
 * Language: om

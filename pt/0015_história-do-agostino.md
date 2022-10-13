@@ -27,6 +27,6 @@ Depois de muito tempo, todo o nosso trabalho árduo valeu a pena. Uma grande emp
 ##
 * License: CC BY
 * Text: LIDA Italia
-* Illustration: n/a
+* Illustration: Billie Cejka Risnes
 * Translation: Marta Pinto
 * Language: pt

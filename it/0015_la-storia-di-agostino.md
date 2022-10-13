@@ -27,6 +27,6 @@ Dopo parecchio tempo il nostro duro lavoro ha dato dei frutti. Una grande aziend
 ##
 * License: CC BY
 * Text: LIDA Italia
-* Illustration: n/a
+* Illustration: Billie Cejka Risnes
 * Translation: Andrea Ciasca Marra
 * Language: it

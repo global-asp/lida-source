@@ -30,6 +30,6 @@
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
-* Illustration: n/a
+* Illustration: Billie Cejka Risnes
 * Translation: João Caramelo
 * Language: pt
