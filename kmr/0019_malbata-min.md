@@ -1,4 +1,4 @@
-# Malbata Min
+# Malbata min
 
 ##
 Ev malbata min e.
@@ -25,5 +25,5 @@ Keça min bes du salî ye.
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Vilius Aistis Vilimas
-* Translation: Hebun Stembar
+* Translation: Hebûn Stembar
 * Language: kmr
