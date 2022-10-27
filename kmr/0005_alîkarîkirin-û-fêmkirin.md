@@ -1,4 +1,4 @@
-# Alîkarî kirin û fêmkirin
+# Alîkarîkirin û fêmkirin
 
 ##
 "Spas!"
@@ -25,9 +25,7 @@
 "Ez dikarim alîkariya te bikim?"
 
 ##
-"Hûn dikarin alîkariya min bikin, ji kerema xwe?"
-
-"Belê, helbet!"
+"Hûn dikarin alîkariya min bikin, ji kerema xwe?" "Belê, helbet!"
 
 ##
 "Gelo ez dikarim vê bigirim, ji kerema xwe?" "Belê, helbet!"
