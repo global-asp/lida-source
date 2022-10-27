@@ -7,7 +7,7 @@ Ali's shirt is old. He needs a new one.
 He goes to the shopping mall to look for new clothes.
 
 ##
-In the shopping mall he cannot find the clothing store. 
+In the shopping mall he cannot find the clothing store.
 
 ##
 He goes into a shop to ask for directions. "Where can I buy clothes?" he asks.
