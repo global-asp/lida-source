@@ -4,8 +4,7 @@
 Selamawit 29 salî ye. Wê zaroka xwe ya yekem li Eritreyê anî dinyayê. Wê û malbata xwe li wir zehmetiyeke dijwar derbas kirin, ji ber vê yekê wan biryar da ku biçin Îtalyayê.
 
 ##
-Inga beriya ku bibe 19 salî mala xwe terikand.
-Ew çû Norwecê û zaroka xwe ya yekem li wir anî dinyayê.
+Inga beriya ku bibe 19 salî mala xwe terikand. Ew çû Norwecê û zaroka xwe ya yekem li wir anî dinyayê.
 
 ##
 Dema ku Selamawit bi zaroka xwe ya duyemîn ducanî bû, wê meraq kir bê ka zarokanîna li welatekî din çawa ye.

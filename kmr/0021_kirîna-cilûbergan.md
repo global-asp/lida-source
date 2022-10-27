@@ -25,5 +25,5 @@ Ew li şûna wî, pantolonekî nû dikire ji ber ku ew di erzaniyê de ne. Ew bi
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Sara Sahar Haidari
-* Translation: Hebun Stembar
+* Translation: Hebûn Stembar
 * Language: kmr

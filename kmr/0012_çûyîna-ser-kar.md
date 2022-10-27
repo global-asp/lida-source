@@ -4,7 +4,7 @@
 Alarm lê dixe. Wextê şiyarbûnê ye.
 
 ##
-Ez ji xewê radibe.
+Ew ji xewê radibe.
 
 ##
 Ew diçe serşokê.

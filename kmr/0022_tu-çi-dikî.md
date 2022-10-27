@@ -10,7 +10,7 @@ Tu dimeşî.
 Ew dinivîse.
 
 ##
-Ez radikeve.
+Ew radikeve.
 
 ##
 Ew dixwe.

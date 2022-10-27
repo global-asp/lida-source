@@ -13,7 +13,7 @@ Em koçî Norwecê bûn û min dest bi dibistanê kir ku ez norwecî hîn bibim.
 Ji dema ku ez hatim Norwecê heta niha hema bibêje qet pereyê min çênebû. Carekê hevserê min ji bo firavînê pere da min, lê ji ber ku pereyê min kêm bû, min ew hilanî. Hevalên min ên li dibistanê dixwazin alîkariya min bikin ku ez karekî bibînim, lê hevserê min dibêje ez nikarim. Ew bawer dike ku xebitîna wekî paqijkerekê ji bo min ne maqûl e.
 
 ##
-Li şûna wî karekî din ji min re guncav dibîne-- avakirina gerajekê. Ew patron bû û min her tişt kir. Ji ber ku nexweş bû nikaribû zêde tiştekî bike. Ji pereyê ku ji avakirina gerajê bi dest xistibû, wî tu tişt neda min.
+Li şûna wî karekî din ji min re guncav dibîne -- avakirina gerajekê. Ew patron bû û min her tişt kir. Ji ber ku nexweş bû nikaribû zêde tiştekî bike. Ji pereyê ku ji avakirina gerajê bi dest xistibû, wî tu tişt neda min.
 
 ##
 Rojekê wî got ku dema ew li malê tenê dimîne aciz dibe, ji ber vê yekê wî biryar da ku em kûçikekî bistînin. Min kûçikek nedixwest ji ber ku ez piştî dibistanê diwestiyam û spartekên min hebûn. Wî got ku ew ê her roj kûçik derxe derve û kûçik bibe gerê, lê di dawiyê de ez neçar mam ku hem kûçik û hem jî hevserê xwe yê kal xwedî bikim.

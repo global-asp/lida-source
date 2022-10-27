@@ -22,7 +22,7 @@ Di qezayan de her roj gelek kesên teslîmkar birîndar dibin. Paşê, piştî k
 Li gel kuryeyên ji şîrketên din, min li sendîkayeke herêmî kursek li ser mafên karkeran girt. Wan şêwirmendiya hiqûqî bê pere pêşkêşî me kirin. Ji bo ku em zêdetir werin naskirin û mafên xwe bi dest bixin, me têkoşînek da.
 
 ##
-Piştî demeke dirêj hemû keda me bi ser ket. Şîrketeke mezin a teslîmatê neçar ma ku cezayekî mezin bide û karên daîmî bide karkeran. Yekem car bû ku bûyereke wiha li seranserê cîhanê diqewime. Wisa dixuyê ku tişt dest bi başbûnê dikin.
+Piştî demeke dirêj hemû keda me bi ser ket. Şîrketeke mezin a teslîmatê neçar ma ku cezayekî mezin bide û karên daîmî bide karkeran. Yekem car bû ku bûyereke wiha li seranserê cîhanê diqewime. Wisa dixuyê ku tişt ber bi başbûnê ve diçin.
 
 ##
 * License: CC BY

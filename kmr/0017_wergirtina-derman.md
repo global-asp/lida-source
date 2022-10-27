@@ -10,7 +10,7 @@ Pêdivî ye ku ew bijîşkê xwe yê diranan bibîne, lê pêşî jê re tiştek
 Bi erebeyê diçe dermanxaneya herî nêzîk.
 
 ##
-Dibêje: “Êşa diranê min heye. Tiştekî we ji bo wê heye?"
+"Êşa diranê min heye," dibêje. "Tiştekî we ji bo wê heye?"
 
 ##
 "Belê, li vir çend dermanên êşê hene. Ji bo van dermanan reçete hewce nake."
@@ -34,5 +34,5 @@ Dibêje: “Êşa diranê min heye. Tiştekî we ji bo wê heye?"
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Sara Rumen Krotev
-* Translation: Hebun Stembar
+* Translation: Hebûn Stembar
 * Language: kmr

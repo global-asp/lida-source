@@ -28,7 +28,7 @@ Ew li paldankên xwe digerin. Hundir tarî ye ji ber ku fîlm dest pê kiriye.
 Ew rûdinin û li fîlm temaşe dikin.
 
 ##
-Fîlmekî romantîk e. cureyê fîlman ê herî zêde jê hez dikin, ev e.
+Fîlmekî romantîk e. Cureyê fîlman ê herî zêde jê hez dikin, ev e.
 
 ##
 Piştî fîlm, xatir ji hev dixwazin û diçin malê.
