@@ -19,7 +19,7 @@ Jeg får ingen betalt ferie, ingen sykepenger, nesten ingen rettigheter i det he
 Mange sykkelbud blir skadet i ulykker daglig. Så, da et 25 år gammel sykkelbud ble påkjørt av en bil og døde, begynte myndighetene å legge merke til oss. Det er synd at noen måtte dø for at det skulle skje.
 
 ##
-Sammen med sykkelbud fra andre firmaer tok jeg et kurs om arbeidstakeres rettigheter ved en lokal fagforening. De tilbød oss gratis juridisk rådgivning. Vi kjempet for å få mer anerkjennelse og rettigheter.
+Sammen med sykkelbud fra andre firmaer tok jeg et kurs om arbeidstakeres rettigheter hos en lokal fagforening. De tilbød oss gratis juridisk rådgivning. Vi kjempet for å få mer anerkjennelse og rettigheter.
 
 ##
 Etter en lang stund fikk det harde arbeidet vårt resultater. Et stort budfirma måtte betale en stor bot og ansette arbeidere i faste stillinger. Det var første gang det skjedde noe sted i verden. Det ser ut til at ting begynner å bli bedre.
