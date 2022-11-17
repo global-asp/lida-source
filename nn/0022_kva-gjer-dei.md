@@ -13,7 +13,7 @@ Han skriv.
 Ho søv.
 
 ##
-Ho et.
+Han et.
 
 ##
 Vi les.
