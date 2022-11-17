@@ -28,7 +28,7 @@ Ho drikk brusen.
 Boran tar sukker i kaffien sin.
 
 ##
-Han rører i kaffien.
+Han røyrer i kaffien.
 
 ##
 Han drikk han.

@@ -26,4 +26,3 @@ Kva slags musikk liker du?
 * Text: Espen Stranger-Johannessen
 * Illustration: Sara Rumen Krotev
 * Language: nn
-

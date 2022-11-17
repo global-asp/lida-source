@@ -7,16 +7,16 @@ Edson vart fødd i Angola, rett etter at landet vart sjølvstendig. Han var ein 
 Mora hans var redd ho skulle miste han, så ho bestemte seg for å sende han til Portugal for å bu med ei tante. Ho trudde at han ville vere trygg der.
 
 ##
-Det var veldig vanskeleg i byrjinga sidan Edson sakna det varme vêret, den tradisjonelle maten, og mest av alt klemmane og kyssa til mora.
+Det var veldig vanskeleg i byrjinga sidan Edson sakna det varme vêret, den tradisjonelle maten, og mest av alt klemmane og kyssa frå mora.
 
 ##
 Han snakka ikkje portugisisk så godt, og det var veldig vanskeleg å følgje med i timane og samtalane til klassekameratane. Han lurte på om det eigentleg var ein god idé å komme til Portugal.
 
 ##
-Ein dag la ein lærar merke til kor god han var i basketball. Han byrje på eit basketballag og gjorde det veldig bra. Han vart populær på skulen og fekk mange venner. Han vart òg meir sjølvsikker.
+Ein dag la ein lærar merke til kor god han var i basketball. Han byrja på eit basketballag og gjorde det veldig bra. Han vart populær på skulen og fekk mange venner. Han vart òg meir sjølvsikker.
 
 ##
-No som han er vaksen, trenar Edson flyktningbarn og andre som står i fare for å bli utestengt frå samfunnet. Ein gang hadde høgda hans gjort at han var i fare for å bli barnesoldat. No har høgda hans vorte ein styrke for å hjelpe andre til å føle seg trygge.
+No som han er vaksen, trener Edson flyktningbarn og andre som står i fare for å bli utestengt frå samfunnet. Ein gong hadde høgda hans gjort at han var i fare for å bli barnesoldat. No har høgda hans vorte ei styrke for å hjelpe andre til å kjenne seg trygge.
 
 ##
 * License: CC BY

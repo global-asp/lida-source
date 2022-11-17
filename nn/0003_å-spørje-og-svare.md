@@ -1,7 +1,7 @@
 # Å spørje og svare
 
 ##
-«Eg vil ha den.»
+«Eg vil ha denne.»
 
 ##
 «Har du ...?»
@@ -19,7 +19,7 @@
 «Ja, takk!»
 
 ##
-«Kan eg få sjå på den?»
+«Kan eg få sjå på denne?»
 
 ##
 «Ver så god.»

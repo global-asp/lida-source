@@ -29,4 +29,3 @@ Eg kan le!
 * Text: Espen Stranger-Johannessen
 * Illustration: Selma Buer Hanstad
 * Language: nn
-

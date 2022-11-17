@@ -1,7 +1,7 @@
 # Å ete ute
 
 ##
-Kip vil eta nudlar.
+Kip vil ete nudlar.
 
 ##
 Kip spør ein venn om å bli med han.
@@ -16,7 +16,7 @@ Dei finn ein stad som sel nudlar.
 Kip og vennen hans finn eit bord.
 
 ##
-Dei set seg og ber kelneren komma.
+Dei set seg og ber kelneren komme.
 
 ##
 Kelneren kjem. Kip bestiller nudlar.
@@ -31,7 +31,7 @@ Dei får eitt glas kvar.
 Kelneren kjem med maten.
 
 ##
-Dei tar på saus og salt, og rører i nudlane.
+Dei tar på saus og salt, og røyrer i nudlane.
 
 ##
 Kip og vennen hans et nudlane. Det smaker veldig godt.

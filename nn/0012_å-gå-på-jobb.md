@@ -22,7 +22,7 @@ Ho dusjar og vaskar håret.
 Ho tørkar seg med eit handkle.
 
 ##
-Ho kler på seg. Ho tar på seg eit skjørt og ei bluse.
+Ho kler på seg. Ho tar på seg eit skjørt og ein bluse.
 
 ##
 Ho tar opp veska.

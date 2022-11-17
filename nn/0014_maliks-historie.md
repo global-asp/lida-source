@@ -7,10 +7,10 @@ Eg heiter Malik og eg er 39 år gammal. Eg vart fødd i Afghanistan. Religionen 
 I mange år har folk som tilhøyrer religionen min vorte forfølgd. Dette har vore veldig vanskeleg for familien min.
 
 ##
-For nokre år sidan var det krig. Eg var redd for å bli drepe. Eg forlét familien min og prøvde å dra til Europa for å starte eit nytt liv.
+For nokre år sidan var det krig. Eg var redd for å bli drepen. Eg forlét familien min og prøvde å dra til Europa for å starte eit nytt liv.
 
 ##
-Eg gjekk mange kilometer. Nokon gangar hadde eg verken mat eller ein stad å sove. Nokon av dei eg reiste med, døydde.
+Eg gjekk mange kilometer. Nokre gongar hadde eg verken mat eller ein stad å sove. Nokre av dei eg reiste med, døydde.
 
 ##
 Til slutt kom eg fram. Eg trefte nokre folk frå heimlandet mitt som hjelpte meg. Eg veit ikkje kva eg ville ha gjort utan dei.

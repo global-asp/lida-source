@@ -19,7 +19,7 @@ Ei kvinne ringer ambulansen. «Det har skjedd ei ulykke. Kom fort!»
 Ambulansen kjem veldig raskt.
 
 ##
-To menn legg Carlos på ein båra.
+To menn legg Carlos på ei båre.
 
 ##
 Dei løftar Carlos inn i ambulansen.

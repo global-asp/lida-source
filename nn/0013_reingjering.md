@@ -1,7 +1,7 @@
 # Reingjering
 
 ##
-Først feiar han golvet med eit kost.
+Først feiar han golvet med ein kost.
 
 ##
 Så støvsyg han. Støvsugaren fungerer godt.
@@ -38,4 +38,3 @@ Han ryddar. No er det reint og pent.
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
 * Language: nn
-
