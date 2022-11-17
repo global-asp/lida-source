@@ -19,7 +19,7 @@ Butikkmedarbeidaren peikar på den andre sida av kjøpesenteret. Klesbutikken er
 Ali går inn og leitar etter ei skjorte. Skjortene er for store for han, og ganske dyre.
 
 ##
-Han kjøper ein ny bukse i staden fordi ho er på tilbod. Han bestemmer seg for å kjøpe ei skjorte neste månad når han får løn.
+Han kjøper ei ny bukse i staden fordi ho er på tilbod. Han bestemmer seg for å kjøpe ei skjorte neste månad når han får lønn.
 
 ##
 * License: CC BY
