@@ -7,7 +7,7 @@ Kip vil ete nudlar.
 Kip spør ein venn om å bli med han.
 
 ##
-Dei leitar etter ein stad dei kan eta.
+Dei leitar etter ein stad dei kan ete.
 
 ##
 Dei finn ein stad som sel nudlar.
