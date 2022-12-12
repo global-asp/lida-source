@@ -29,7 +29,7 @@ Entrambe le donne hanno partorito bambini sani. Selamawit ha avuto un altro masc
 
 ##
 * License: CC BY
-* Text: LIDA Italia
+* Text: LIDA Norge
 * Illustration: Sara Dorthea Johannesen
 * Translation: Andrea Ciasca Marra
 * Language: it

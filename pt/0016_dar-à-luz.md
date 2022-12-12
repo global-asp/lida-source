@@ -29,7 +29,7 @@ Ambas as mulheres deram à luz bebés saudáveis. A Selamawit teve outro filho, 
 
 ##
 * License: CC BY
-* Text: LIDA Italia
+* Text: LIDA Norge
 * Illustration: Sara Dorthea Johannesen
 * Translation: Ana Costa
 * Language: pt

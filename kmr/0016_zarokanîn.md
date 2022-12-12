@@ -29,7 +29,7 @@ Her du jinan jî zarokên tendurist anîn dinyayê. Kurekî din ê Selamawit ç�
 
 ##
 * License: CC BY
-* Text: LIDA Italia
+* Text: LIDA Norge
 * Illustration: Sara Dorthea Johannesen
 * Translation: Hebûn Stembar
 * Language: kmr

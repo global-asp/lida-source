@@ -29,6 +29,6 @@ Both women gave birth to healthy babies. Selamawit had another son, while Inga h
 
 ##
 * License: CC BY
-* Text: LIDA Italia
+* Text: LIDA Norge
 * Illustration: Sara Dorthea Johannesen
 * Language: en
