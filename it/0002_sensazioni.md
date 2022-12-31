@@ -1,7 +1,7 @@
 # Sensazioni
 
 ##
-"Ho paura".
+"Ho paura."
 
 ##
 "Ahi!"

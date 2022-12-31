@@ -1,10 +1,10 @@
-# Parlando del tempo
+# Parlare del tempo
 
 ##
 "Comincia a fare freddo. Che temperatura c'è?"
 
 ##
-"Nove gradi. E' ancora autunno, ma presto sarà inverno."
+"Nove gradi. È ancora autunno, ma presto sarà inverno."
 
 ##
 "Non vedo l'ora che arrivi la primavera, ma preferisco l'estate, quando il tempo è bello e caldo."

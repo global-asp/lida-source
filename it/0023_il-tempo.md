@@ -4,7 +4,7 @@
 C'è il sole.
 
 ##
-E' nuvoloso.
+È nuvoloso.
 
 ##
 Sta piovendo.

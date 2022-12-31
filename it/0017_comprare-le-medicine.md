@@ -1,4 +1,4 @@
-# Medicine
+# Comprare le medicine
 
 ##
 Tom ha mal di denti. Un dente gli fa molto male.
@@ -7,19 +7,19 @@ Tom ha mal di denti. Un dente gli fa molto male.
 Deve andare dal dentista, ma prima gli occorre qualcosa per il dolore.
 
 ##
-Va alla farmacia più vicina.
+Guida fino alla farmacia più vicina.
 
 ##
-"Ho mal di denti" dice. "Avete qualcosa per il dolore?"
+"Ho mal di denti," dice. "Avete qualcosa per il dolore?"
 
 ##
-"Si, ci sono degli antidolorifici per i quali non c'è bisogno di ricetta medica."
+"Si, ecco degli antidolorifici. Non c'è bisogno di ricetta medica per comprarli."
 
 ##
 "Grazie. Quanto costano?"
 
 ##
-"Nove euro. Però dovresti andare da un dentista."
+"Costano nove euro. Però dovresti andare da un dentista."
 
 ##
 "Okay, chiamerò il mio dentista domani."

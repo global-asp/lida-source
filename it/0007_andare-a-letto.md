@@ -1,19 +1,19 @@
-# Andando a letto
+# Andare a letto
 
 ##
 Lui è stanchissimo.
 
 ##
-E' ora di andare a letto.
+È ora di andare a letto.
 
 ##
-Prima va in bagno.
+Va in bagno.
 
 ##
 Si lava i denti.
 
 ##
-Va nella stanza da letto.
+Va nella camera da letto.
 
 ##
 Si spoglia.

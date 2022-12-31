@@ -1,4 +1,4 @@
-# Igiene personale
+# Lavarsi e prepararsi
 
 ##
 Lui si lava le mani.
@@ -10,7 +10,7 @@ Si lava la faccia.
 Si lava i denti.
 
 ##
-Si fa la barba
+Si fa la barba.
 
 ##
 Si fa la doccia.

@@ -19,7 +19,7 @@ Il negoziante indica l'altro lato del centro. Il negozio di abbigliamento è sul
 Ali entra e cerca una camicia. Le camicie sono troppo grandi per lui, e piuttosto care.
 
 ##
-Intanto compra un paio di pantaloni perchè sono in offerta. Decide di comprare la camicia il mese successivo, quando riceve il suo stipendio.
+Invece compra un paio di pantaloni perchè sono in offerta. Decide di comprare la camicia il mese successivo, quando riceve il suo stipendio.
 
 ##
 * License: CC BY

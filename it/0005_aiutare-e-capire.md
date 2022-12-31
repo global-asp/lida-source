@@ -16,23 +16,19 @@
 "Non capisco."
 
 ##
-"E' giusto?" "Sì."
+"È giusto?" "Sì."
 
 ##
-"E' giusto?" "No."
+"È giusto?" "No."
 
 ##
 "Ti posso aiutare?"
 
 ##
-"Per favore, mi aiuti?"
-
-"Sì, naturalmente!"
+"Per favore, mi aiuti?" "Sì, naturalmente!"
 
 ##
-"Mi dai quello, per favore?"
-
-"Sì, certo!"
+"Mi dai quello, per favore?" "Sì, certo!"
 
 ##
 "Grazie!"

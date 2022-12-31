@@ -1,7 +1,7 @@
-# Al lavoro
+# Andare al lavoro
 
 ##
-Suona la sveglia. E' ora di alzarsi.
+Suona la sveglia. È ora di alzarsi.
 
 ##
 Lei si alza.
@@ -34,7 +34,7 @@ Prende la borsa e va al lavoro.
 Va al lavoro a piedi.
 
 ##
-Arriva all'ufficio dove lavora.
+Arriva al lavoro. Lavora in un ufficio.
 
 ##
 * License: CC BY-NC-SA

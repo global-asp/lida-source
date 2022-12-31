@@ -1,13 +1,13 @@
-# Pulizie
+# Fare le pulizie
 
 ##
-Per prima cosa, lui spazza il pavimento con la scopa.
+Per prima cosa lui spazza il pavimento con la scopa.
 
 ##
 Poi passa l'aspirapolvere. L'aspirapolvere funziona bene.
 
 ##
-Poi, prende un secchio d'acqua e un mocio.
+Poi prende un secchio d'acqua e un mocio.
 
 ##
 Lava il pavimento col mocio.

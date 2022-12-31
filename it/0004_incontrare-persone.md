@@ -1,21 +1,19 @@
-# Incontri
+# Incontrare persone
 
 ##
 "Salve!" "Ciao!"
 
 ##
-"Arrivederci!"
+"Ciao!" "Arrivederci!"
 
 ##
 "Lui è Kama."
 
 ##
-"Ciao, sono Kama."
-
-"Piacere di conoscerti, Kama."
+"Ciao, sono Kama." "Piacere di conoscerti, Kama."
 
 ##
-Squilla il telefono
+Squilla il telefono.
 
 ##
 "Pronto."
@@ -24,13 +22,13 @@ Squilla il telefono
 "Salve, sono Sara."
 
 ##
-Lui riattacca
+Lui riaggancia.
 
 ##
 "Benvenuto!"
 
 ##
-"Entra."
+"Entra pure."
 
 ##
 "Mi spiace."

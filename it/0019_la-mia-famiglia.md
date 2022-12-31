@@ -16,7 +16,7 @@ Mia moglie si chiama Mona.
 Ho due figli.
 
 ##
-Mio figlio ha 5 anni.
+Mio figlio ha cinque anni.
 
 ##
 Mia figlia ha solo due anni.

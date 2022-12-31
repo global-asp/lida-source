@@ -1,4 +1,4 @@
-# Domande e risposte
+# Domandare e rispondere
 
 ##
 "Per favore, vorrei quello lì."

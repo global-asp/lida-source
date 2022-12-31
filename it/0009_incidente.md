@@ -1,19 +1,19 @@
-# Incidenti
+# Incidente
 
 ##
-Carlos guida uno scooter. Va veloce.
+Carlos guida uno scooter. Lui va veloce.
 
 ##
-C'è acqua per terra. La strada è scivolosa.
+L’asfalto è bagnato. La strada è scivolosa.
 
 ##
-Perde il controllo dello scooter e cade per terra.
+Lui perde il controllo dello scooter e cade a terra.
 
 ##
 Carlos è ferito gravemente.
 
 ##
-Una donna chiama l'ambulanza "C'è stato un incidente. Fate presto!"
+Una donna chiama l'ambulanza. "C'è stato un incidente. Fate presto!"
 
 ##
 L'ambulanza arriva velocemente.
@@ -22,13 +22,13 @@ L'ambulanza arriva velocemente.
 Due uomini mettono Carlos su una barella.
 
 ##
-Lo sollevano dentro l'ambulanza.
+Lo sistemano nell'ambulanza.
 
 ##
 L'ambulanza va all'ospedale.
 
 ##
-Un'infermiera porta Carlos dentro l'ospedale.
+Un'infermiera porta Carlos nell'ospedale.
 
 ##
 Lo medica.

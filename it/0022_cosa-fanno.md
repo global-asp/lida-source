@@ -1,4 +1,4 @@
-# Che stanno facendo?
+# Cosa fanno?
 
 ##
 Io sto parlando.
@@ -13,7 +13,7 @@ Lui sta scrivendo.
 Lei sta dormendo.
 
 ##
-Lui/lei sta mangiando.
+Lui sta mangiando.
 
 ##
 Noi stiamo leggendo.

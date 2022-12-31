@@ -34,7 +34,7 @@ La cameriera porta il cibo.
 Loro aggiungono salsa e sale e girano le tagliatelle.
 
 ##
-Kip e il suo amico mangiano le tagliatelle. Sono delizione.
+Kip e il suo amico mangiano le tagliatelle. Sono deliziose.
 
 ##
 Beve l'acqua.

@@ -1,13 +1,13 @@
-# Andando al Caffè
+# Andare al bar
 
 ##
 Boran e sua figlia fanno una passeggiata.
 
 ##
-Arrivano a un Caffè ed entrano.
+Arrivano in un bar ed entrano.
 
 ##
-Al Caffè, il cameriere indica loro un tavolo.
+Al bar, il cameriere indica loro un tavolo.
 
 ##
 Boran ordina un caffè.
@@ -22,7 +22,7 @@ Il cameriere porta il loro ordine.
 Versa la soda in un bicchiere.
 
 ##
-Lei beve la soda.
+Beve la soda.
 
 ##
 Boran mette lo zucchero nel suo caffè.
@@ -37,10 +37,10 @@ Lo beve.
 Boran chiede il conto.
 
 ##
-Paga al cameriere
+Paga al cameriere.
 
 ##
-Boran e sua figlia vanno via dal Caffè.
+Boran e sua figlia escono dal bar.
 
 ##
 * License: CC BY-NC-SA
