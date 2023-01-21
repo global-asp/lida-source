@@ -19,7 +19,7 @@ A sua filha pede um refrigerante.
 O empregado traz-lhes o pedido.
 
 ##
-Serve-lhe o refrigerante num copo.
+Serve o refrigerante num copo.
 
 ##
 Ela bebe o refrigerante.

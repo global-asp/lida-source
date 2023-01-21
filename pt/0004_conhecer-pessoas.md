@@ -1,49 +1,49 @@
 # Conhecer pessoas
 
 ##
-Oi! Olá!
+"Oi!" "Olá!"
 
 ##
-Tchau! Adeus!
+"Tchau!" "Adeus!"
 
 ##
-Este é o Kama.
+"Este é o Kama."
 
 ##
-Olá, eu sou o Kama. Prazer em conhecer, Kama.
+"Olá, eu sou o Kama." "Prazer em conhecer, Kama."
 
 ##
 O telefone está a tocar.
 
 ##
-Olá.
+"Olá."
 
 ##
-Olá, daqui é a Sara.
+"Olá, daqui é a Sara."
 
 ##
 Ele desliga.
 
 ##
-Bem-vindo!
+"Bem-vindo!"
 
 ##
-Por favor, entre.
+"Por favor, entre."
 
 ##
-Desculpe.
+"Desculpe."
 
 ##
-Não tem problema.
+"Não tem problema."
 
 ##
-Desculpe, por favor.
+"Desculpe, por favor."
 
 ##
-Um momento, por favor.
+"Um momento, por favor."
 
 ##
-Este é o Ali. Esta é a Leila.
+"Este é o Ali." "Esta é a Leila."
 
 ##
 * License: CC BY-NC-SA

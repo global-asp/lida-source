@@ -7,7 +7,7 @@
 "Não sei."
 
 ##
-"Onde está...?"
+"Onde fica...?"
 
 ##
 "Por ali."

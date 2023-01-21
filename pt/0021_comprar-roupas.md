@@ -1,7 +1,7 @@
-# comprar roupas
+# Comprar roupas
 
 ##
-A camisa do Ali está velha. Precisa de comprar uma nova.
+A camisa do Ali está velha. Precisa comprar uma nova.
 
 ##
 Vai ao centro comercial à procura de roupas novas.
@@ -10,16 +10,16 @@ Vai ao centro comercial à procura de roupas novas.
 No centro comercial não consegue encontrar a loja de roupa.
 
 ##
-Entra numa loja para pedir orientações. "Onde posso comprar roupas?" Pergunta
+Entra numa loja para pedir orientações. "Onde posso comprar roupas?" pergunta.
 
 ##
-A empregada da loja aponta para o outro lado do centro comercial. A loja de roupa é no lado oposto.
+A empregada da loja aponta para o outro lado do centro comercial. A loja de roupa é no lado oposto!
 
 ##
 O Ali vai e procura uma camisa. As camisas são grandes demais para ele e muito caras.
 
 ##
-Em vez da camisa, ele compra um novo par de calças porque estão em saldos. Decide que irá comprar a camisa no próximo mês, quando ganhar ou seu salário.
+Em vez da camisa, ele compra um novo par de calças porque estão em saldos. Decide que irá comprar a camisa no próximo mês, quando ganhar o seu salário.
 
 ##
 * License: CC BY

@@ -4,7 +4,7 @@
 "Eu estou assustado."
 
 ##
-"Ouch!"
+"Ai!"
 
 ##
 "Estás bem?"

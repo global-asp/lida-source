@@ -7,7 +7,7 @@ Primeiro, ele limpa o chão com uma vassoura.
 Depois aspira. O aspirador funciona bem.
 
 ##
-Depois recebe um balde com água e uma esfregona.
+Depois vai buscar um balde com água e uma esfregona.
 
 ##
 Ele limpa o chão.
@@ -28,7 +28,7 @@ Ele esfrega uma mancha suja no chão com a esponja e uma parte do produto de lim
 Depois ele lava a janela.
 
 ##
-A sua sala de estar, está muito desarrumada.
+A sua sala de estar está muito desarrumada.
 
 ##
 Ele arruma. Agora está agradável e limpa.

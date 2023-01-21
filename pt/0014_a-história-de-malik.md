@@ -10,7 +10,7 @@ Desde há muitos anos, as pessoas que pertencem à minha religião têm sido per
 Há alguns anos atrás, houve uma guerra. Tive medo de ser morto. Deixei a minha família para ir para a Europa e começar uma nova vida.
 
 ##
-Caminhei durante muitos quilómetros. Por vezes não tinha comida e não tinha onde ficar. Algumas das pessoas com quem viajei morreram.
+Caminhei durante muitos quilómetros. Por vezes, não tinha comida e não tinha onde ficar. Algumas das pessoas com quem viajei morreram.
 
 ##
 Finalmente, cheguei. Conheci algumas pessoas do meu próprio país que me ajudaram. Não sei o que teria feito sem elas.
@@ -25,7 +25,7 @@ Estudei durante vários anos, no início para aprender a língua. Foi difícil, 
 Depois de estudar, comecei a trabalhar. Primeiro trabalhei num restaurante, e depois tornei-me professor porque quero ajudar outras pessoas.
 
 ##
-Espero voltar um dia ao Afeganistão. Muitas pessoas lá precisam de ajuda, e eu quero ajudá-las.
+Espero voltar um dia ao Afeganistão. Muitas pessoas precisam de ajuda lá e eu quero ajudá-las.
 
 ##
 * License: CC BY

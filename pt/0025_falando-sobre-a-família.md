@@ -16,7 +16,7 @@
 "Mina tem quatro anos. Ela anda no jardim de infância. Miriam tem dez anos, já anda na escola."
 
 ##
-"Todos os meus filhos andam na escola. O meu filho vai concluir a escola no próximo ano"
+"Todos os meus filhos andam na escola. O meu filho vai concluir a escola no próximo ano."
 
 ##
 "Isso é fantástico! Eles crescem tão depressa. O que é que ele quer fazer a seguir?"
@@ -25,7 +25,7 @@
 "Ele quer arranjar um emprego, mas eu digo-lhe que em vez disso devia ir para a Universidade."
 
 ##
-"É uma boa ideia. Eu também espero que algum dia as minhas crianças vão para a universidade."
+"É uma boa ideia. Eu também espero as minhas filhas vão para a universidade um dia."
 
 ##
 * License: CC BY

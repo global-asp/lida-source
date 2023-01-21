@@ -7,7 +7,7 @@ A Alisha precisa de encontrar um emprego porque a sua família precisa de dinhei
 A Alisha não trabalhou no seu país de origem, mas ela cozinha bem e gosta de conversar com as pessoas.
 
 ##
-Talvez ela pudesse trabalhar num restaurante? A Alisha pesquisa na internet por anúncios de emprego.
+Talvez ela pudesse trabalhar num restaurante? A Alisha pesquisa na Internet por anúncios de emprego.
 
 ##
 Ela encontra um anúncio para chefe. Que é alguém que cozinha num restaurante.

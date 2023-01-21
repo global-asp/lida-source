@@ -19,13 +19,13 @@ Ambas as mulheres tinham ouvido dizer que, na maioria dos países europeus, as m
 O médico fez alguns testes e descobriu que Selamawit tinha um tipo de diabetes que algumas mulheres grávidas têm. Ela tinha de comer alimentos saudáveis e de fazer exercício. A Selamawit ficou contente por ter ido mais cedo ao médico, antes de ela e o seu bebé ficarem doentes.
 
 ##
-Quando a vizinha de Inga soube que ela estava a tentar ter um bebé, disse-lhe para consultar um/a médico/a assim que ela estivesse grávida. Dessa forma, ela poderia certificar-se de que ela e o seu bebé estavam saudáveis. A médica disse-lhe para tomar ácido fólico, uma vitamina que é importante para as mulheres grávidas.
+Quando a vizinha de Inga soube que ela estava a tentar ter um bebé, disse-lhe para consultar uma médica assim que ela estivesse grávida. Dessa forma, ela poderia certificar-se de que ela e o seu bebé estavam saudáveis. A médica disse-lhe para tomar ácido fólico, uma vitamina que é importante para as mulheres grávidas.
 
 ##
-A Inga e a sua médica concordaram que ela se encontraria com uma parteira para fazer exames regulares durante a sua gravidez. A parteira deu-lhe conselhos sobre alimentação e descanso, e informações sobre como se manter a si e ao seu bebé seguros e bem.
+A Inga e a sua médica concordaram que ela se encontraria com uma parteira para fazer exames regulares durante a sua gravidez. A parteira deu-lhe conselhos sobre alimentação e descanso e informações sobre como se manter a si e ao seu bebé seguros e bem.
 
 ##
-Ambas as mulheres deram à luz bebés saudáveis. A Selamawit teve outro filho, enquanto a Inga teve uma filha. Os seus maridos estavam muito orgulhosos, e falaram a todas as pessoas que conheciam sobre as suas esposas fortes e filhos saudáveis.
+Ambas as mulheres deram à luz bebés saudáveis. A Selamawit teve outro filho, enquanto a Inga teve uma filha. Os seus maridos estavam muito orgulhosos e falaram a todas as pessoas que conheciam sobre as suas esposas fortes e filhos saudáveis.
 
 ##
 * License: CC BY

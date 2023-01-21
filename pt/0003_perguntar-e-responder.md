@@ -16,7 +16,7 @@
 "Gostaria de provar?"
 
 ##
-"Sim, por favor."
+"Sim, por favor!"
 
 ##
 "Posso ver esta, por favor?"

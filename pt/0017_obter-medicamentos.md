@@ -19,13 +19,13 @@ Ele conduz até à farmácia mais próxima.
 "Obrigado. Quanto é que custam?"
 
 ##
-"Custam nove euros. Mas deve consultar um/a dentista."
+"Custam nove euros. Mas deve consultar um dentista."
 
 ##
 "Está bem, vou ligar ao meu dentista amanhã de manhã."
 
 ##
-"Se precisar de medicamentos mais fortes, terá de obter uma receita do seu dentista ou médico/a."
+"Se precisar de medicamentos mais fortes, terá de obter uma receita do seu dentista ou médico."
 
 ##
 "Obrigado! Adeus."

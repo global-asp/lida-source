@@ -1,16 +1,16 @@
 # Comer fora
 
 ##
-Kip gosta de comer noodles.
+Kip gosta de comer massinhas.
 
 ##
-Kip pergunta a um amigo se ele se quer juntar a ele.
+Kip pergunta a um amigo se quer juntar-se a ele.
 
 ##
 Procuram um lugar para comer.
 
 ##
-Encontram um lugar que vende noodles.
+Encontram um lugar que vende massinhas.
 
 ##
 Kip e o amigo encontram uma mesa.
@@ -19,10 +19,10 @@ Kip e o amigo encontram uma mesa.
 Sentam-se e chamam pela empregada de mesa.
 
 ##
-A empregada de mesa vem. Kip pede noodles.
+A empregada de mesa vem. Kip pede massinhas.
 
 ##
-O amigo também pede noodles.
+O amigo também pede massinhas.
 
 ##
 Ambos pedem um copo com água.
@@ -31,10 +31,10 @@ Ambos pedem um copo com água.
 A empregada de mesa traz a comida.
 
 ##
-Eles juntaram molho e sal, e mexeram os noodles.
+Eles juntaram molho e sal, e mexeram as massinhas.
 
 ##
-Kip e o amigo comem as noodles. Estão deliciosas.
+Kip e o amigo comem as massinhas. Estão deliciosas.
 
 ##
 Ele bebe água.

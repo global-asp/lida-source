@@ -25,7 +25,7 @@ Estás a ouvir.
 Estão a conduzir.
 
 ##
-Toda a gente está a fazer alguma coisa!
+Todos estão a fazer alguma coisa!
 
 ##
 * License: CC BY
