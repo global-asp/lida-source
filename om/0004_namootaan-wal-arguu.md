@@ -1,16 +1,22 @@
 # Namootaan wal arguu
 
 ##
-"Akkam!" "Akkam!"
+"Akkam!"
+
+"Akkam!"
 
 ##
-"Nagaatti!" "Nagaatti!"
+"Nagaatti!"
+
+"Nagaatti!"
 
 ##
 "Kun Kamaa dha."
 
 ##
-"Akkam, ani Kamaa dha." "Si waliin wal arguun koo na gammachiise Kamaa."
+"Akkam, ani Kamaa dha."
+
+"Si waliin wal arguun koo na gammachiise Kamaa."
 
 ##
 Bilbilli bilbilaa jira.
@@ -43,7 +49,9 @@ Bilbila isaa cufe.
 "Yeroo tokko maaloo."
 
 ##
-"Kun Aliidha." "Kun Leilaadha."
+"Kun Aliidha."
+
+"Kun Leilaadha."
 
 ##
 * License: CC BY-NC-SA

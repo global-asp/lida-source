@@ -16,19 +16,27 @@
 "Ez fêm nakim."
 
 ##
-"Ev rast e?" "Belê."
+"Ev rast e?"
+
+"Belê."
 
 ##
-"Ev rast e?" "Na."
+"Ev rast e?"
+
+"Na."
 
 ##
 "Ez dikarim alîkariya te bikim?"
 
 ##
-"Hûn dikarin alîkariya min bikin, ji kerema xwe?" "Belê, helbet!"
+"Hûn dikarin alîkariya min bikin, ji kerema xwe?"
+
+"Belê, helbet!"
 
 ##
-"Gelo ez dikarim vê bigirim, ji kerema xwe?" "Belê, helbet!"
+"Gelo ez dikarim vê bigirim, ji kerema xwe?"
+
+"Belê, helbet!"
 
 ##
 "Spas!"

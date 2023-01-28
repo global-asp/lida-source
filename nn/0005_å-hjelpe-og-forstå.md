@@ -16,19 +16,27 @@
 «Eg forstår ikkje.»
 
 ##
-«Er dette rett?»  «Ja.»
+«Er dette rett?»
+
+«Ja.»
 
 ##
-«Er dette rett?»  «Nei.»
+«Er dette rett?»
+
+«Nei.»
 
 ##
 «Treng du hjelp?»
 
 ##
-«Kan du hjelpe meg?»  «Ja, sjølvsagt!»
+«Kan du hjelpe meg?»
+
+«Ja, sjølvsagt!»
 
 ##
-«Kan eg få han?»  «Ja, sjølvsagt!»
+«Kan eg få han?»
+
+«Ja, sjølvsagt!»
 
 ##
 «Takk skal du ha!»

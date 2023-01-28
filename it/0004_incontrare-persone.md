@@ -1,16 +1,22 @@
 # Incontrare persone
 
 ##
-"Salve!" "Ciao!"
+"Salve!"
+
+"Ciao!"
 
 ##
-"Ciao!" "Arrivederci!"
+"Ciao!"
+
+"Arrivederci!"
 
 ##
 "Lui è Kama."
 
 ##
-"Ciao, sono Kama." "Piacere di conoscerti, Kama."
+"Ciao, sono Kama."
+
+"Piacere di conoscerti, Kama."
 
 ##
 Squilla il telefono.
@@ -43,7 +49,9 @@ Lui riaggancia.
 "Un attimo, per favore."
 
 ##
-"Questo è Ali." "Questa è Leila."
+"Questo è Ali."
+
+"Questa è Leila."
 
 ##
 * License: CC BY-NC-SA

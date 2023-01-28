@@ -16,19 +16,27 @@
 "Naaf hin galle."
 
 ##
-"Kun sirriidhaa?" "Eeyyee."
+"Kun sirriidhaa?"
+
+"Eeyyee."
 
 ##
-"Kun sirriidhaa?" "Lakki."
+"Kun sirriidhaa?"
+
+"Lakki."
 
 ##
 "Si gargaaruu nan danda'aa?"
 
 ##
-"Maaloo, na gargaaruu dandeessaa?" "Eeyyee kaa!"
+"Maaloo, na gargaaruu dandeessaa?"
+
+"Eeyyee kaa!"
 
 ##
-"Maaloo, sana argachuu nan danda'aa?" "Eeyyee kaa!"
+"Maaloo, sana argachuu nan danda'aa?"
+
+"Eeyyee kaa!"
 
 ##
 "Galatoomi!"
