@@ -4,7 +4,7 @@
 I miei due fratelli ed io siamo arrivati in Norvegia nel dicembre del 2016. Indossavamo abiti estivi perché pensavamo che in Norvegia avrebbe fatto caldo come in Somalia. Ma quando arrivammo in aeroporto stava nevicando. Avevamo freddo, il clima era gelido. Sebbene avessimo portato varie valigie, c'erano solo abiti estivi dentro.
 
 ##
-Nonostante il freddo, ero contenta di essere venuta in Norvegia. Avrei finalmente riabbracciato mia madre, che non vedevo da sei anni. Mia mamma e due sue amiche erano venute a prenderci. Quando la abbiamo viste siamo scoppiate a piangere per la gioia. Ci hanno portato nella cittadina dove vive mia madre.
+Nonostante il freddo, ero contenta di essere venuta in Norvegia. Avrei finalmente riabbracciato mia madre, che non vedevo da sei anni. Mia mamma e due sue amiche erano venute a prenderci. Quando le abbiamo viste siamo scoppiate a piangere per la gioia. Ci hanno portato nella cittadina dove vive mia madre.
 
 ##
 I primi giorni in quella cittadina sono stati molto strani. Nevicava, faceva freddo e non c'era molto da vedere. Le strade erano completamente vuote. Le poche persone che incontravo sembravano fredde e poco amichevoli. In Somalia c'è gente dappertutto, quindi qui ogni cosa sembrava estranea. Mia madre e le sue amiche ci hanno fatto dei regali, e poi lei ci ha portato ad acquistare vestiti invernali.

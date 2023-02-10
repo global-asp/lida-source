@@ -37,7 +37,7 @@ Lo beve.
 Boran chiede il conto.
 
 ##
-Paga al cameriere.
+Paga il cameriere.
 
 ##
 Boran e sua figlia escono dal bar.

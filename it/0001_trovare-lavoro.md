@@ -25,7 +25,7 @@ Alisha deve lavorare in un ristorante come parte del corso di formazione. Non vi
 Lei inserisce i dettagli del corso nel suo C.V. Un C.V. è la descrizione dei lavori che ha fatto e dei corsi che ha frequentato.
 
 ##
-La volta dopo che Alisha si presenta a un colloquio di lavoro ad un ristorante, ottiene il posto. È un lavoro duro. Spesso deve lavorare di sera, quando i suoi figli tornano a casa da scuola.
+La volta dopo che Alisha si presenta a un colloquio di lavoro in un ristorante, ottiene il posto. È un lavoro duro. Spesso deve lavorare di sera, quando i suoi figli tornano a casa da scuola.
 
 ##
 Lei è orgogliosa di avere un lavoro, per poter comprare cibo e vestiti per la sua famiglia con il suo denaro.
