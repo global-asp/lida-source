@@ -1,4 +1,4 @@
-# Tagitaanka shaleemada.
+# Tagitaanka shaleemada
 
 ##
 Mai waxay raadinaysaa filim ay daawado. Waxay rabtaa inay shaleemada aado iyada iyo saaxibadeeda ugu qaalisan, Lisa.

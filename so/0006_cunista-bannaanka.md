@@ -1,4 +1,4 @@
-# Cunista bannaanka.
+# Cunista bannaanka
 
 ##
 Kip waxay ka hesaa inuu cuno baasto.
@@ -34,7 +34,7 @@ Kabayeeriga waxay keentay cuntada.
 Waxay ku dareen suugo iyo milix, kadibna walaaqeen baastada.
 
 ##
-Kip iyo saaxiibkiis waxay cuneen baastada. Way macaan tahay.
+Kip iyo saaxiibkiis waxay cuneen baastada. Way macaaneed.
 
 ##
 Waxuu cabay biyihiisa.

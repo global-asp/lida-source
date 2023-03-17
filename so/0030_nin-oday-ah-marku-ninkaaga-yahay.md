@@ -1,4 +1,4 @@
-# Nin oday ah marku ninkaaga yahay.
+# Nin oday ah marku ninkaaga yahay
 
 ##
 Waxaan u maleeynaye in ragga norwiijiga ay yihiin ragga ugu fiican adduunka, laakiin taasi run maaha! Kahor intaanan la kulmin ninka noqday ninkayga, waxaan ka shaqeeynaye warshad ku taal Bangkok, wuxa ku noolaa Pattaya. Waxaan ku kulanay internetka oo aan ugu dambeyntii noqonnay lamaane.

@@ -1,4 +1,4 @@
-# Seexashada.
+# Seexashada
 
 ##
 Aad buu u daalan yahay.

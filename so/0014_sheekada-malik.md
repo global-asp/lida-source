@@ -1,4 +1,4 @@
-# Sheekada Malik.
+# Sheekada Malik
 
 ##
 Magacaygu waa Malik, waxaan ahay 39 jir. Waxaan ku dhashay Afghanistan. Diintaydu way ka duwan tahay diinta ugu weyn ee Afghanistan.

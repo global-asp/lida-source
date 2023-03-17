@@ -1,31 +1,25 @@
-# La kulanka dadka.
+# La kulanka dadka
 
 ##
-"Hi!"
-
-"Helo!"
+"Salaam Calaykum!" "Wacalaykumu Salaam!"
 
 ##
-"Nabadgeliyo!"
-
-"Nabadgeliyo!"
+"Nabadgeliyo!" "Nabadgeliyo!"
 
 ##
 "Kani wa Kama."
 
 ##
-"Hi, waxaan ahay Kama."
-
-"Waan ku faraxsanahay inaan kula kulmo, Kama."
+"Haa, waxaan ahay Kama." "Waan ku faraxsanahay inaan kula kulmo, Kama."
 
 ##
 Taleefanka ayaa dhacaya.
 
 ##
-"Hello."
+"Assalamu calaykum."
 
 ##
-"Hi, waa anigoo ah Sara."
+"Haa waa anigoo ah Sara."
 
 ##
 Wuu gooyay.
@@ -37,7 +31,7 @@ Wuu gooyay.
 "Fadlan soo gal."
 
 ##
-"Waan ka xumahay"
+"Waan ka xumahay."
 
 ##
 "Dhibmalahan."
@@ -49,9 +43,7 @@ Wuu gooyay.
 "Hal daqiiqo, fadlan."
 
 ##
-"Kani waa Ali."
-
-"Tani waa Leila."
+"Kani waa Ali." "Tani waa Leila."
 
 ##
 * License: CC BY-NC-SA

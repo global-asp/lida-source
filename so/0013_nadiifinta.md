@@ -1,4 +1,4 @@
-# Nadiifinta.
+# Nadiifinta
 
 ##
 Marka hore, waxa uu dhulka ku xaaqayaa xaaqin.

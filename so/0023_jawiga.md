@@ -1,4 +1,4 @@
-# Jawiga.
+# Jawiga
 
 ##
 Waa qorax.

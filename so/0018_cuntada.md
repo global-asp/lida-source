@@ -1,4 +1,4 @@
-# Cuntada.
+# Cuntada
 
 ##
 Waxuu cunayaa pizza. Waa dhadhan fiicantahay.
@@ -19,7 +19,7 @@ Ma cunto hilibka. Waxay tahay kuwa khudaarta cuna.
 Looska ma cuno. Waxuu ku qabaa xasaasiyad.
 
 ##
-Cunno ayeey karinayaan. Way udgoon tahay.
+Cunno ayeey karinayaan. Way udgoon tahay!
 
 ##
 * License: CC BY

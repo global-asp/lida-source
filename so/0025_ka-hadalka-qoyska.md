@@ -1,4 +1,4 @@
-# Ka hadalka qoyska.
+# Ka hadalka qoyska
 
 ##
 "Qoys ma leedahay?"

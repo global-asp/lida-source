@@ -1,4 +1,4 @@
-# Qaadashada daawada.
+# Qaadashada daawada
 
 ##
 Tom iliga ayaa xanuunaya. Iligkiisu aad buu u xanuunayaa.

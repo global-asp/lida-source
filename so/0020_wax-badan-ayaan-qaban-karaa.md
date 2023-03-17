@@ -1,4 +1,4 @@
-# Wax badan ayaan qaban karaa.
+# Wax badan ayaan qaban karaa
 
 ##
 Cunno ayaan karin karaa.
@@ -22,7 +22,7 @@ Waan heesi karaa.
 Caruur ayaaan ilaalin karaa.
 
 ##
-Waan qosli karaa.
+Waan qosli karaa!
 
 ##
 * License: CC BY

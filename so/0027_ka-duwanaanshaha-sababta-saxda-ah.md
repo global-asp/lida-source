@@ -1,4 +1,4 @@
-# Ka duwanaanshaha sababta saxda ah.
+# Ka duwanaanshaha sababta saxda ah
 
 ##
 Edson waxa uu ku dhashay Angola, wax yar uun ka dib markii uu dalku xornimada qaatay. Wuxuu ahaa wiil aad u dheer. Dhererkiisa awgeed ayuu kuwa kale kaga duwanaa. Dadkii hubka siin jiray carruurta si ay ugu dagaalamaan askar ahaan dagaaladii sokeeye waxay doonayeen wiilal isagoo kale ah.

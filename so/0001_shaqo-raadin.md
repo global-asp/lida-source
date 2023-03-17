@@ -1,7 +1,7 @@
-# Shaqo raadis.
+# Shaqo raadin
 
 ##
-Alisha waxay u baahan tahay inay shaqo hesho, waayo qoyskeedu waxay u baahan yihiin lacag cunto iyo dhar.
+Alisha waxay u baahan tahay inay shaqo hesho, waayo qoyskeedu waxay u baahan yihiin lacag ay ku iibsadan cunto iyo dhar.
 
 ##
 Alisha kamay shaqaynin waddankeedii, laakiin waxay ku fiican tahay cunto karinta waxayna jeceshahay inay dadka la hadasho.

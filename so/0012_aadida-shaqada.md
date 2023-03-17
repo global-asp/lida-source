@@ -1,4 +1,4 @@
-# Aadida shaqada.
+# Aadida shaqada
 
 ##
 Saacada ayaa dhacday. Waa waqtigii la kici lahaa.

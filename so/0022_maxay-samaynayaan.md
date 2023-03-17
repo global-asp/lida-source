@@ -25,7 +25,7 @@ Waad dhagaysanaysaa.
 Way wadaan.
 
 ##
-Qof kastaa wax ayuu samaynayaa.
+Qof kastaa wax ayuu samaynayaa!
 
 ##
 * License: CC BY

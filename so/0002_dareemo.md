@@ -1,10 +1,10 @@
-# Dareemo.
+# Dareemo
 
 ##
 "Waan cabsanayaa."
 
 ##
-"Ouch"
+"Ax!"
 
 ##
 "Ma fiicantahay?"
@@ -25,7 +25,7 @@
 "Waan hurdaysanahay."
 
 ##
-"Waan harranahay."
+"Waan harradanahay."
 
 ##
 "Taasi waa ceeb."

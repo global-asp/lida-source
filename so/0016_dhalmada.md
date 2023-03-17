@@ -1,4 +1,4 @@
-# Dhalmada.
+# Dhalmada
 
 ##
 Selamawit waa 29 jir. Ilmaheedii ugu horreeyay ayay ku dhashay dalka Eritrea. Ayada iyo qoyskeeda ayaa halkaas waqti adag kala kulmay, markaas ayay go’aansadeen inay Talyaaniga aadaan.
@@ -29,7 +29,7 @@ Labada haweenba waxay dhaleen ilmo caafimaad qaba. Selamawit waxay dhashay wiil 
 
 ##
 * License: CC BY
-* Text: LIDA Norge
+* Text: LIDA Italia
 * Illustration: Sara Dorthea Johannesen
 * Translation: Mohamed Abdirashid
 * Language: so

@@ -1,4 +1,4 @@
-# Gadashada dharka.
+# Gadashada dharka
 
 ##
 Shaadhka Ali waa uu dhamaaday. Mid cusub ayuu u baahan yahay.

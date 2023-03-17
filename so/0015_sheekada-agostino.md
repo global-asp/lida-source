@@ -1,4 +1,4 @@
-# Sheekada Agostino.
+# Sheekada Agostino
 
 ##
 Magacaygu waa Agostino, waxaan ahay 51 jir. Shaqadaydu waa in aan cunto ku geeyo baaskiil. Waxaan leeyahay laba gabdhood, laakiin badanaa ma wada hadalno. Aniga iyo hooyadood ma wada noolin sababtoo ah waanu kala tagnay.

@@ -1,4 +1,4 @@
-# Nadiifsan hadana diyaarsan.
+# Nadiifsan hadana diyaarsan
 
 ##
 Gacmihiisu ayuu dhaqaa.

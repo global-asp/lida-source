@@ -1,7 +1,7 @@
-# Tagitaanka kafateeriyaha.
+# Tagitaanka kafateeriyaha
 
 ##
-Boran iyo inantiisii ​​ayaa socod ku maqan.
+Boran iyo inantiisii ayaa socod ku maqan.
 
 ##
 Waxay yimaadeen meel kafateeri ah, oo ay galeen.
@@ -13,7 +13,7 @@ Kabayeeriga ayaa tusay miis kafateeriyaha dhexdeeda.
 Boran waxuu dalbaday qaxwo.
 
 ##
-Gabadhiisii ​​waxay dalbatay soodha.
+Gabadhiisii waxay dalbatay soodha.
 
 ##
 Kabayeerigu wuxuu keenaa dalabkooda.
@@ -40,7 +40,7 @@ Boran ayaa waydiisanaya biilka.
 Wuxuu ku bixinayaa kabayeeriga.
 
 ##
-Booran iyo inantiisii ​​waxay ka baxeen kafateeriyaha.
+Boran iyo inantiisii waxay ka baxeen kafateeriyaha.
 
 ##
 * License: CC BY-NC-SA

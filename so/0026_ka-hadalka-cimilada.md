@@ -1,4 +1,4 @@
-# Ka hadalka cimilada.
+# Ka hadalka cimilada
 
 ##
 "Maalmuhu waxay bilaabmayaan inay qaboow noqdaan. Waa maxay heerkulka?"
@@ -13,7 +13,7 @@
 "Waxba kama qabo qabowga, laakin ma jecli roobka iyo dabaysha."
 
 ##
-"Bal ee daruurahaas gudcurka ah, berrito roob baa da'aya, oo weliba dabaylo badan baa iman doona. Waxaa laga yabaa inuu iman doono duufaan."
+"Bal eeg daruurahaas gudcurka ah, berrito roob baa da'aya, oo weliba dabaylo badan baa iman doona. Waxaa laga yabaa inuu iman doono duufaan."
 
 ##
 "Ma filayo inay dhacdo. Runtii ma jecli cimilada xun, gaar ahaan gugaca iyo hillaaca. Waxaan ka baqayaa in hillaacu inuu igu dhaco."

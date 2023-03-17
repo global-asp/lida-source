@@ -1,10 +1,10 @@
-# Codka shimbiraha subaxdii.
+# Codka shimbiraha subaxdii
 
 ##
 Yulia, ninkeeda iyo gabadhooda yar waxay ku noolaayeen tuulo yar oo xasilloon oo ku taal Ukraine. Yulia waxay aad u jeclayd in subax walba kusoo kacdo dhawaaqa shimbiraha. Marna uma malaynayn inay guri ka fog degi doonto, ama aanay ku toosin dhawaqa shimbiraha subaxdii.
 
 ##
-Ninkeeda ayaa had iyo jeer ka caban jiray inuu lacag ku filan aan haysan, wuxuuna bilaabay inuu si aad ah u cabbo khamriga. Waxay go'aansadeen inay nasiibkooda ku tijaabiyaan Portugal. Waxaa laga yaabaa in ay halkaas ka heli karaan lacag badan si ay guri u dhistaan ​​oo ay mustaqbal wanaagsan ugu sameeyaan qoyskooda.
+Ninkeeda ayaa had iyo jeer ka caban jiray inuu lacag ku filan aan haysan, wuxuuna bilaabay inuu si aad ah u cabbo khamriga. Waxay go'aansadeen inay nasiibkooda ku tijaabiyaan Portugal. Waxaa laga yaabaa in ay halkaas ka heli karaan lacag badan si ay guri u dhistaan oo ay mustaqbal wanaagsan ugu sameeyaan qoyskooda.
 
 ##
 Yulia waxay si fiican ula qabsatay gurigeeda cusub, waxayna bilowday inay ka shaqeyso sidii nadiifiye. Macaamiisheeda ayaa runtii aad uga mahadceliyey dadaalkeeda iyo hab-dhaqankeeda wanaagsan. Dhanka kale ninkeeda waxa uu dareemay in laga tagayo. Dhibaatada khamriga awgeed, loo-shaqeeyayaashu ma aaminaan isaga mana siin doonaan shaqo.

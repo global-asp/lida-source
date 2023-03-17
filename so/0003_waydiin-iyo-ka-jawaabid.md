@@ -1,4 +1,4 @@
-# Waydiin iyo ka jawaabid.
+# Waydiin iyo ka jawaabid
 
 ##
 "Waxan rabi lahaa midkaas, fadlan."
@@ -16,7 +16,7 @@
 "Ma rabi laheed qaarkan?"
 
 ##
-"Haa,fadlan!"
+"Haa, fadlan!"
 
 ##
 "Ma arki karaa midkaas, fadlan?"

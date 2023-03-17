@@ -1,4 +1,4 @@
-# Qoyskayga.
+# Qoyskayga
 
 ##
 Kani waa qoyskayga.
