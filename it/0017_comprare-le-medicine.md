@@ -13,7 +13,7 @@ Guida fino alla farmacia più vicina.
 "Ho mal di denti," dice. "Avete qualcosa per il dolore?"
 
 ##
-"Si, ecco degli antidolorifici. Non c'è bisogno di ricetta medica per comprarli."
+"Sì, ecco degli antidolorifici. Non c'è bisogno di ricetta medica per comprarli."
 
 ##
 "Grazie. Quanto costano?"

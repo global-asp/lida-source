@@ -25,7 +25,7 @@
 "Lui vuole trovare lavoro, ma io invece gli dico di andare all'università."
 
 ##
-"E' una buona idea. Anch'io spero che i miei figli vadano all'università un giorno."
+"È una buona idea. Anch'io spero che i miei figli vadano all'università un giorno."
 
 ##
 * License: CC BY

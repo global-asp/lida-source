@@ -10,7 +10,7 @@ Suo marito si lamentava sempre di non avere abbastanza denaro e cominciò a ubri
 Yulia si adattò bene alla nuova casa, e cominciò a lavorare come donna delle pulizie. I suoi clienti apprezzavano molto il suo duro lavoro e il suo atteggiamento educato. Suo marito, invece, si sentiva sempre più emarginato. A causa del bere, i datori di lavoro non si fidavano di lui e non gli davano lavoro.
 
 ##
-Un giorno cominciò a gridare contro Yulia. Poi prese a spintonarla. Le urla e le botte si intensificarono, specialmente quando era ubriaco. Yulia aveva paura per sé e per sua figlia, ma non sapeva che fare.
+Un giorno cominciò a gridare contro Yulia. Poi prese a spintonarla. Le urla e le botte si intensificarono, specialmente quando era ubriaco. Yulia aveva paura per sé e per sua figlia, ma non sapeva cosa fare.
 
 ##
 Quando Yulia finì al Pronto Soccorso con un braccio rotto, le dissero che la violenza domestica era un grande problema in Portogallo. Le dissero anche che era un crimine, e che lei avrebbe dovuto denunciarlo alla polizia.

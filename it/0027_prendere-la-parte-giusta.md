@@ -16,7 +16,7 @@ Lui non parlava bene il portoghese ed aveva difficoltà a seguire le lezioni e l
 Un giorno un insegnante si accorse di quanto fosse bravo a giocare a basket. Allora è entrato in una squadra di basket e ha avuto un gran successo. È diventato popolare a scuola e ha fatto amicizie. È anche diventato più sicuro di sé.
 
 ##
-Ora che è adulto, Edson allena ragazzi rifugiati ed altre persone a rischio di emarginazione sociale. Un tempo per la sua altezza aveva rischiato di diventare un soldato-bambino. Adesso, la sua altezza gli dà la forza di aiutare gli altri a sentirsi al sicuro.
+Ora che è adulto, Edson allena ragazzi rifugiati ed altre persone a rischio di emarginazione sociale. Un tempo per la sua altezza aveva rischiato di diventare un bambino soldato. Adesso, la sua altezza gli dà la forza di aiutare gli altri a sentirsi al sicuro.
 
 ##
 * License: CC BY
