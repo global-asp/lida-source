@@ -13,7 +13,7 @@ Vi flyttet til Norge, og jeg begynte å gå på skole for å lære norsk. Det va
 Jeg har nesten ikke hatt penger siden jeg kom til Norge. Én gang ga han meg penger til lunsj, men siden jeg hadde så lite penger, beholdt jeg dem. Vennene mine på skolen vil hjelpe meg med å skaffe meg en jobb, men mannen min sier at jeg ikke kan det. Han synes ikke jobben som renholder passer for meg.
 
 ##
-I stedet hadde han en annen jobb for meg – å bygge en garasje. Han var sjefen og jeg gjorde alt. Han kunne ikke gjøre så mye fordi han var syk. Han ga meg ingen av pengene han tjente på å bygge garasjen.
+I stedet hadde han en annen jobb for meg -- å bygge en garasje. Han var sjefen og jeg gjorde alt. Han kunne ikke gjøre så mye fordi han var syk. Han ga meg ingen av pengene han tjente på å bygge garasjen.
 
 ##
 En dag sa han til meg at han kjedet seg når han var alene hjemme, så han bestemte seg for at vi skulle skaffe oss en hund. Jeg ville ikke ha en hund siden jeg var sliten etter skolen og hadde lekser. Han sa at han skulle gå tur med hunden hver dag, men til slutt måtte jeg passe både hunden og den gamle mannen min.

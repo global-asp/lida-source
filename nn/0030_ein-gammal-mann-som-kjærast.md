@@ -13,7 +13,7 @@ Vi flytta til Noreg, og eg byrja å gå på skule for å lære norsk. Det var va
 Eg har nesten ikkje hatt pengar sidan eg kom til Noreg. Éin gong gav han meg pengar til lunsj, men sidan eg hadde så lite pengar, behaldt eg dei. Vennene mine på skulen vil hjelpe meg med å skaffe meg ein jobb, men mannen min seier at eg ikkje kan det. Han synest ikkje jobben som reinhaldar passar for meg.
 
 ##
-I staden hadde han ein annan jobb for meg – å bygge ein garasje. Han var sjefen og eg gjorde alt. Han kunne ikkje gjere så mykje fordi han var sjuk. Han gav meg ingen av pengane han tente frå å bygge garasjen.
+I staden hadde han ein annan jobb for meg -- å bygge ein garasje. Han var sjefen og eg gjorde alt. Han kunne ikkje gjere så mykje fordi han var sjuk. Han gav meg ingen av pengane han tente frå å bygge garasjen.
 
 ##
 Ein dag sa han til meg at han kjeda seg når han var åleine heime, så han bestemte seg for at vi skulle skaffe oss ein hund. Eg ville ikkje ha ein hund sidan eg var sliten etter skulen og hadde lekser. Han sa at han skulle gå tur med hunden kvar dag, men til slutt måtte eg passe både hunden og den gamle mannen min.
