@@ -25,10 +25,10 @@ Ela seca-se com uma toalha.
 Ela veste-se. Ela veste uma saia e uma blusa.
 
 ##
-Ela pega na sua mala.
+Ela pega na mala.
 
 ##
-Ela pega na sua mala e sai para o trabalho.
+Ela pega na mala e sai para o trabalho.
 
 ##
 Ela vai a pé para o trabalho.

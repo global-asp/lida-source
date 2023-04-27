@@ -13,7 +13,7 @@
 "Que idade têm as tuas filhas?"
 
 ##
-"Mina tem quatro anos. Ela anda no jardim de infância. Miriam tem dez anos, já anda na escola."
+"A Mina tem quatro anos. Ela anda no jardim de infância. A Miriam tem dez anos, já anda na escola."
 
 ##
 "Todos os meus filhos andam na escola. O meu filho vai concluir a escola no próximo ano."
@@ -25,7 +25,7 @@
 "Ele quer arranjar um emprego, mas eu digo-lhe que em vez disso devia ir para a Universidade."
 
 ##
-"É uma boa ideia. Eu também espero as minhas filhas vão para a universidade um dia."
+"É uma boa ideia. Eu também espero que as minhas filhas vão para a universidade um dia."
 
 ##
 * License: CC BY

@@ -10,10 +10,10 @@ Os seus amigos Carlos e Anita também gostam de música.
 "Tulima, de que tipo de música gostas?" pergunta Carlos.
 
 ##
-"Eu gosto de música Ocidental, mas prefiro música do meu país, Etiópia."
+"Eu gosto de música Ocidental, mas prefiro música do meu país, a Etiópia."
 
 ##
-"Eu venho da Colômbia. Eu apenas ouço salsa. É ótima para dançar", diz Carlos.
+"Eu venho da Colômbia. Eu apenas ouço salsa. É ótima para dançar," diz Carlos.
 
 ##
 Anita diz, "Eu gosto de canções românticas e de música que me faça feliz."

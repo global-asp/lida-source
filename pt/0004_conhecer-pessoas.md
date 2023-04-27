@@ -1,22 +1,16 @@
 # Conhecer pessoas
 
 ##
-"Oi!"
-
-"Olá!"
+"Oi!" "Olá!"
 
 ##
-"Tchau!"
-
-"Adeus!"
+"Tchau!" "Adeus!"
 
 ##
 "Este é o Kama."
 
 ##
-"Olá, eu sou o Kama."
-
-"Prazer em conhecer, Kama."
+"Olá, eu sou o Kama." "Prazer em conhecê-lo, Kama."
 
 ##
 O telefone está a tocar.
@@ -40,7 +34,7 @@ Ele desliga.
 "Desculpe."
 
 ##
-"Não tem problema."
+"Não há problema."
 
 ##
 "Desculpe, por favor."
@@ -49,9 +43,7 @@ Ele desliga.
 "Um momento, por favor."
 
 ##
-"Este é o Ali."
-
-"Esta é a Leila."
+"Este é o Ali." "Esta é a Leila."
 
 ##
 * License: CC BY-NC-SA

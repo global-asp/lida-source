@@ -22,7 +22,7 @@ A ambulância chega muito rápido.
 Dois homens colocam o Carlos numa maca.
 
 ##
-Levantam o Carlos para a ambulância.
+Levam o Carlos para a ambulância.
 
 ##
 A ambulância vai para o hospital.

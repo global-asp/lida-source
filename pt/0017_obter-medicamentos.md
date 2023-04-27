@@ -1,7 +1,7 @@
 # Obter medicamentos
 
 ##
-O Tom tem uma dor de dentes. O seu dente dói muito.
+O Tom tem uma dor de dentes. O dente dói-lhe muito.
 
 ##
 Ele precisa de ir ao dentista, mas primeiro precisa de algo para as dores.
@@ -10,7 +10,7 @@ Ele precisa de ir ao dentista, mas primeiro precisa de algo para as dores.
 Ele conduz até à farmácia mais próxima.
 
 ##
-"Tenho uma dor de dentes", diz ele. "Tem alguma coisa para isto?"
+"Tenho uma dor de dentes," diz ele. "Tem alguma coisa para isso?"
 
 ##
 "Sim, aqui estão alguns analgésicos. Não precisa de receita médica para estes."

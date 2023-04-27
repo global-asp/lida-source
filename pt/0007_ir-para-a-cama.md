@@ -10,13 +10,13 @@ Está na hora de ir para a cama.
 Vai à casa de banho.
 
 ##
-Escova os seus dentes.
+Escova os dentes.
 
 ##
 Vai para o quarto.
 
 ##
-Tira a sua roupa.
+Tira a roupa.
 
 ##
 Senta-se na cama.

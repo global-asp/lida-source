@@ -25,7 +25,7 @@ Serve o refrigerante num copo.
 Ela bebe o refrigerante.
 
 ##
-Boran coloca açúcar no seu café.
+Boran coloca açúcar no café.
 
 ##
 Ele mexe o café.

@@ -13,13 +13,13 @@ Depois vai buscar um balde com água e uma esfregona.
 Ele limpa o chão.
 
 ##
-Esvazia o caixote do lixo e coloca um novo saco dentro dele.
+Esvazia o caixote do lixo e coloca um novo saco.
 
 ##
 Ele leva o lixo para fora.
 
 ##
-Ele precisa de luvas, uma esponja, e algum produto de limpeza.
+Ele precisa de luvas, uma esponja, e de um produto de limpeza.
 
 ##
 Ele esfrega uma mancha suja no chão com a esponja e uma parte do produto de limpeza.
@@ -31,7 +31,7 @@ Depois ele lava a janela.
 A sua sala de estar está muito desarrumada.
 
 ##
-Ele arruma. Agora está agradável e limpa.
+Ele arruma-a. Agora está agradável e limpa.
 
 ##
 * License: CC BY-NC-SA

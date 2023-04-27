@@ -1,7 +1,7 @@
 # História do Agostino
 
 ##
-O meu nome é Agostino e tenho 51 anos. O meu trabalho é fazer entregas de comida, andando de bicicleta. Tenho duas filhas, mas raramente falamos. Eu e a mãe delas já não vivemos juntos porque nos divorciamos.
+O meu nome é Agostino e tenho 51 anos. O meu trabalho é fazer entregas de comida, em bicicleta. Tenho duas filhas, mas raramente falamos. Eu e a mãe delas já não vivemos juntos porque nos divorciámos.
 
 ##
 Vivo com a minha mãe, porque depois do divórcio, não consigo pagar uma renda. Nesta cidade, a renda é muito cara.
@@ -10,7 +10,7 @@ Vivo com a minha mãe, porque depois do divórcio, não consigo pagar uma renda.
 Há alguns meses eu trabalhava como zelador para uma empresa. Reparava coisas que estivessem partidas, carregava caixas e ajudava quem precisasse. Um dia a empresa despediu-me. Não compreendi porquê.
 
 ##
-Vi muitas pessoas a fazer entregas de comida andando de bicicleta. Eu sei andar de bicicleta, então bati à porta da empresa de entregas. Ofereceram-me três euros por cada entrega. Faço 40€ por dia, 60€ se tiver muita sorte e os clientes me derem uma gorjeta.
+Vi muitas pessoas a fazer entregas de comida em bicicleta. Eu sei andar, então bati à porta da empresa de entregas. Ofereceram-me três euros por cada entrega. Faço 40€ por dia, 60€ se tiver muita sorte e os clientes me derem uma gorjeta.
 
 ##
 Não tenho férias pagas, ou baixa médica, e quase nenhum direito. Penso que isso não está certo, mas eu preciso do emprego. A maioria dos trabalhadores são imigrantes de todo o mundo.

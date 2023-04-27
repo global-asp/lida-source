@@ -10,13 +10,13 @@ A sua mãe teve medo que o levassem, por isso decidiu enviá-lo para viver em Po
 No início foi muito difícil, pois Edson sentiu falta do tempo quente, da comida tradicional e, acima de tudo, dos abraços e beijos da sua mãe.
 
 ##
-Ele não falava bem Português e tinha muita dificuldade em acompanhar as aulas e as conversas dos seus colegas de turma. Questionava-se se, afinal, teria sido uma boa ideia ter vindo para Portugal.
+Ele não falava bem português e tinha muita dificuldade em acompanhar as aulas e as conversas dos seus colegas de turma. Questionava-se se, afinal, teria sido uma boa ideia ter vindo para Portugal.
 
 ##
 Um dia, um professor reparou como ele jogava bem basquetebol. Entrou para uma equipa e teve muito sucesso. Tornou-se popular na escola e fez amigos. Também se tornou mais confiante.
 
 ##
-Agora que é adulto, Edson treina crianças refugiadas e outras que estão em risco de serem excluídas. Outrora, a sua altura colocou-o em risco de se tornar uma criança-soldado. Agora, dá-lhe força para ajudar os outros a sentirem-se seguros.
+Agora que é adulto, Edson treina crianças refugiadas e outras que estão em risco de exclusão. Outrora, a sua altura colocou-o em risco de se tornar uma criança-soldado. Agora, dá-lhe força para ajudar os outros a sentirem-se seguros.
 
 ##
 * License: CC BY
