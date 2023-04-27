@@ -4,7 +4,7 @@
 Carlos guida uno scooter. Lui va veloce.
 
 ##
- L’asfalto è bagnato. La strada è scivolosa.
+L’asfalto è bagnato. La strada è scivolosa.
 
 ##
 Lui perde il controllo dello scooter e cade a terra.
