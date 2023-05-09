@@ -22,7 +22,7 @@ Jeg begynte å lære språket, men det var vanskelig. Jeg visste at det å snakk
 Jeg studerte i flere år, til å begynne med for å lære språket. Det var krevende, men jeg liker å lære nye ting.
 
 ##
-Etter studiene begynte jeg å jobbe. Først jobbet jeg i en restaurant, og deretter ble jeg lærer fordi jeg ville hjelpe andre.
+Etter studiene begynte jeg å jobbe. Først jobbet jeg på en restaurant, og deretter ble jeg lærer fordi jeg ville hjelpe andre.
 
 ##
 Jeg håper jeg kan dra tilbake til Afghanistan en dag. Mange folk der trenger hjelp, og jeg vil gjerne hjelpe dem.
