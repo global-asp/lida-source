@@ -10,7 +10,7 @@ Mannen hennes klaget alltid over mangelen på penger, og han begynte å drikke m
 Yulia tilpasset seg det nye hjemmet godt, og hun begynte å jobbe som hjemmehjelp. Kundene hennes satte virkelig pris på arbeidet hennes og den høflige innstillingen hennes. Mannen hennes, derimot, følte seg stadig mer oversett. På grunn av alkoholproblemet hans stolte ikke arbeidsgivere nok på ham til å gi ham arbeid.
 
 ##
-En dag begynte han å kjefte på Yulia. Senere begynte han å dytte henne. Volden økte med skriking og slag, særlig når han var full. Yulia var redd for seg selv og for datteren, men hun visste ikke hva hun skulle gjøre.
+En dag begynte han å kjefte på Yulia. Senere begynte han å dytte henne. Volden økte med skriking og slag, særlig når han var full. Yulia var redd for seg selv og for datteren sin, men hun visste ikke hva hun skulle gjøre.
 
 ##
 Da Yulia omsider måtte dra til legevakten på sykehuset med brukket arm, fortalte de henne at partnervold var et stort problem i Portugal. De sa også at det var ulovlig, og at hun burde anmelde det til politiet.
