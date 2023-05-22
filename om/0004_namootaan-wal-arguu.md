@@ -11,27 +11,27 @@
 "Nagaatti!"
 
 ##
-"Kun Kamaa dha."
+"Kun Kamaadha."
 
 ##
-"Akkam, ani Kamaa dha."
+"Akkam, ani Kamaadha."
 
-"Si waliin wal arguun koo na gammachiise Kamaa."
-
-##
-Bilbilli bilbilaa jira.
+"Si waliin wal arguu kootiif gammadeera, Kamaa."
 
 ##
-"Heloo."
+Bilbilli bilbilamaa jira.
 
 ##
-"Akkam, kun Saaraadha."
+"Akkam."
+
+##
+"Akkam, tun Saaraadha."
 
 ##
 Bilbila isaa cufe.
 
 ##
-"Baga nagaan dhufte!"
+"Baga nagaan dhufte !"
 
 ##
 "Maaloo seeni."
@@ -43,15 +43,15 @@ Bilbila isaa cufe.
 "Rakkoo hin qabu."
 
 ##
-"Dhiifama maaloo."
+"Dhiifama, maaloo."
 
 ##
-"Yeroo tokko maaloo."
+"Yeroo tokko, maaloo."
 
 ##
 "Kun Aliidha."
 
-"Kun Leilaadha."
+"Tun Le’ilaadha."
 
 ##
 * License: CC BY-NC-SA

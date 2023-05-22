@@ -25,7 +25,7 @@ Of gogsa.
 Rifeensa isaa ni filata.
 
 ##
-Qeensa quba isaa ni mura.
+Qeensa quba isaa ni qorata.
 
 ##
 * License: CC BY-NC-SA

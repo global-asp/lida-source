@@ -22,19 +22,19 @@ Shawaarii fudhattee rifeensa ishees dhiqatti.
 Fooxaadhaan of gogsiti.
 
 ##
-Isheen ni uffatti. wandabboo fi shamiiza uffatti.
+Isheen ni uffatti. Wandabboo fi shamiiza uffatti.
 
 ##
-Borsaa harkaa ishee ol kaafti.
+Boorsaa harkaa ishee fudhatti.
 
 ##
-Borsaa harkaa ishee fudhattee hojiif baati.
+Boorsaa harkaa ishee fudhattee hojiif baati.
 
 ##
 Miilaan gara hojii deemti.
 
 ##
-Hojii dhufti. Waajjira tokko keessa hojjetti.
+Eddoo hojii gesetti. Waajjira tokko keessa hojjetti.
 
 ##
 * License: CC BY-NC-SA

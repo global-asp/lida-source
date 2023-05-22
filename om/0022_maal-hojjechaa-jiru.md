@@ -1,7 +1,7 @@
 # Maal hojjechaa jiru?
 
 ##
-Ani dubachaa jira.
+Ani dubachaan jira.
 
 ##
 Ati deemaa jirta.
@@ -13,13 +13,13 @@ Inni barreessaa jira.
 Isheen Rafaa jirti.
 
 ##
-Nyaachaa jira
+Nyaachaa jira.
 
 ##
-Nuti dubbisaa jirra
+Nuti dubbisaa jirra.
 
 ##
-Dhaggeeffataa jirtu.
+Dhaggeeffataa jirta.
 
 ##
 Konkolaachisaa jiru.

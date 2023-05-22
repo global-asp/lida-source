@@ -4,7 +4,7 @@
 Inni baay'ee dadhabeera.
 
 ##
-Yeroon itti rafnu amma.
+Yeroon kan hirribaati.
 
 ##
 Inni gara mana fincaanii ni deema.
@@ -13,7 +13,7 @@ Inni gara mana fincaanii ni deema.
 Ilkaan isaa buruushiin dhiqa.
 
 ##
-kutaa ciisichaa ni seena.
+Kutaa ciisichaa ni seena.
 
 ##
 Uffata isaa ni baafata.

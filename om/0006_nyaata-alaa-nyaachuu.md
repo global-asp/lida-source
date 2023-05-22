@@ -1,10 +1,10 @@
 # Nyaata alaa nyaachuu
 
 ##
-Kip akka waan nuudiloota nyaachaa jiruutti itti dhagahame.
+Kiipi noodilii nyaachu barbaade.
 
 ##
-Kip hiriyyaa isaa tokko akka itti makamu gaafate.
+Kiipi hiriyyaa isaa tokko akka itti makamu gaafate.
 
 ##
 Bakka nyaata itti nyaatan barbaadan.
@@ -13,28 +13,28 @@ Bakka nyaata itti nyaatan barbaadan.
 Bakka wayii kan nuudiliin itti gurguramu argatu.
 
 ##
-Kiip fi hiriyaan isaa minjaala tokko argatu.
+Kiipi fi hiriyyaan isaa minjaala tokko argatu.
 
 ##
-Isaanis taa'anii nama nyaata dhiheessu sana waamu.
+Isaanis taa'anii keessummeessaa waamu.
 
 ##
-Namni nyaata dhiheessu ni dhufa. Kip nuudilii ajaja.
+Keessummeessaan ni dhufa. Kiipi nuudilii ajaja.
 
 ##
-Hiriyaan isaas nuudilii ajaja.
+Hiriyyaan isaas nuudilii ajaja.
 
 ##
 Tokkoon tokkoon isaanii koochoo bishaanii fudhatu.
 
 ##
-Namni nyaata dhiheessu nyaata sana fida.
+Keessummeessaan nyaata ni fida.
 
 ##
-Ittoo nyaata mi'eessuu fi soogidda itti dabalanii, nuudiila sanas sochoosu.
+Ittoo nyaata mi'eessuu fi soogidda itti dabalanii, nuudiila sanas waliin makuu.
 
 ##
-Kiip fi hiriyaan isaa nuudilia sana nyaatu. Mi'aawaa dha.
+Kiipi fi hiriyyaan isaa nuudila sana nyaatu. Mi'aawaa dha.
 
 ##
 Bishaan isaa ni dhuga.

@@ -4,16 +4,16 @@
 Tulimaan muuziqaa ni jaallatti. Guyyaa guyyaan dhaggeeffatti.
 
 ##
-Hiriyoonni ishee Kaarlos fi Aniitaanis muuziqaa ni jaallatu.
+Hiriyyoonni ishee Kaarloosii fi Aniitaanis muuziqaa ni jaallatu.
 
 ##
-"Tulimaa, muuziqaa akkamii jaallatta?" jedhee gaafate Kaarlos.
+"Tulimaa, muuziqaa akkamii jaallatta?" jedhee gaafate Kaarloos.
 
 ##
 "Muuziqaa warra dhihaa nan jaalladha, garuu muuziqaa biyya koo Itoophiyaa irran filadha."
 
 ##
-"Ani Kolumbiyaa irraan dhufe. Saalsaa qofa dhaggeeffadha. Shubbisaaf baayyee gaariidha," jedhe Kaarlos.
+"Ani Kolumbiyaa irraan dhufe. Saalsaa qofa dhaggeeffadha. Shubbisaaf baayyee gaariidha," jedhe Kaarloos.
 
 ##
 Aniitaan, "Sirboota jaalalaa fi muuziqaa na gammachiisu nan jaalladha" jetti.

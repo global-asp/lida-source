@@ -13,7 +13,7 @@
 "Ijoolleen durbaa keessan umriin isaanii meeqa?"
 
 ##
-"Miinaan umuriin ishee waggaa afuri. Mana barumsaa duraa deemti. Miiriyaam waggaa kudhan waan ta'teef mana barumsaa deemti."
+"Miinaan umriin ishee waggaa afuri. Mana barumsaa oolmaa daa’imanii deemti. Miiriyaam waggaa kudhan waan taateef mana barumsaa deemti."
 
 ##
 "Ijoolleen koo hundi mana barumsaa jiru. Ilmi koo bara dhufu ni eebbifama."

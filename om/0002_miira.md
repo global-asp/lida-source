@@ -4,16 +4,16 @@
 "Ani sodaadheera."
 
 ##
-"Aawuch!"
+"Ah Ah!"
 
 ##
 "Nagaadha mitii ati?"
 
 ##
-"Garaan koo na dhukkuba."
+"Garaa na dhukkuba."
 
 ##
-"Dhukkubbii mataa qaba."
+"Mataa na dhukkuba."
 
 ##
 "Beela'eera."
@@ -22,7 +22,7 @@
 "Ani dadhabeera."
 
 ##
-"Hirribaan natti dhagahama."
+"Hirribatu na qaba."
 
 ##
 "Ani Dheebodheera."

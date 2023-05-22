@@ -7,7 +7,7 @@
 "Digrii sagal dha. Ammallee birraadha, garuu yeroo dhiyootti qorra ta'a."
 
 ##
-"Birraa hawwiidhaan eeggadha, garuu bona irra filadha, yeroo gaarii fi ho'aa ta'etti nan filadha."
+"Arfaasaa hawwiidhaan eeggadha, garuu ganna irra filadha, yeroo gaarii fi ho'aa ta'etti nan filadha."
 
 ##
 "Qorri na hin dhibu. Roobaa fi qilleensi kan natti hin tolleedha."
@@ -16,7 +16,7 @@
 "Dumessa dukkanaa'aa sana ilaali. Boru ni rooba. Innis baay'ee qilleensa ni qabaata. Tarii obomboleettiin ni jiraata."
 
 ##
-"Akka hin taane abdiin qaba. Dhuguma haala qilleensaa hamaa hin jaalladhu, keessattuu guungummii balaqqeessaa fi balaqqeessaa. Balaqqeessaan na rukutuu mala jedheen sodaadha."
+"Akka hin taane abdiin qaba. Dhuguma haala qilleensaa hamaa hin jaalladhu, keessattuu guungummii fi balaqqeessaa. Balaqqeessaan na rukutuu mala jedheen sodaadha."
 
 ##
 * License: CC BY

@@ -13,10 +13,10 @@ Inni guyyaa guyyaan ruuzii nyaata.
 Kuduraa ni jaallatti.
 
 ##
-Foon hin nyaattu. Isheen nama vegetarian taateedha.
+Foon hin nyaattu. Isheen vejeteeriyanii dha.
 
 ##
-Ocholoonii hin nyaatu. Isaaniif alarjii qaba.
+Ocholoonii hin nyaatu. Isaaf alarjii qaba.
 
 ##
 Nyaata bilcheessaa jiru. Urgaa gaarii qaba!

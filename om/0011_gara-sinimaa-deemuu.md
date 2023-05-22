@@ -1,34 +1,34 @@
 # Gara sinimaa deemuu
 
 ##
-Mai fiilmii ilaaluuf barbaaddi. Hiriyaa ishee gaarii Liisaa waliin gara sinimaa deemuu barbaaddi.
+Maayiin fiilmii ilaaluuf barbaaddi. Hiriyyaa ishee gaarii Liisaa waliin gara sinimaa deemuu barbaaddi.
 
 ##
-Mai iskuutara ishee fudhattee gara sinimaa deemti. Achitti wal arguuf walii galaniiru.
+Maayiin iskuutara ishee fudhattee gara sinimaa deemti. Achitti wal arguuf walii galaniiru.
 
 ##
-Sinimaa irratti nagaa gaafatu. Fiilmii kana arguuf gammachuu guddaatu itti dhagahama.
+Sinimaa irratti nagaa gaafatu. Fiilmii kana arguuf gammachuu guddaatu itti dhagahame.
 
 ##
-Mai iddoo tikkeettii bitan irraa lamaan isaaniif tikkeettii bitte.
+Maayiin iddoo tikkeettii bitan irraa lamaan isaaniif tikkeettii bitte.
 
 ##
 Akkasumas baaldii guddaa fandhishaa bitatte.
 
 ##
-Liisaan fandishaa fudhattee Maayi ammoo soodaa qaruuraa lama bitte.
+Liisaan fandishaa fudhattee Maayiin ammoo soodaa qaruuraa lama bitte.
 
 ##
 Fiilmii kana ilaaluuf osoo hin seenin dura tikkeettii isaanii agarsiisan.
 
 ##
-Teessoo isaanii barbaadu. Fiilmiin sun duraan waan jalqabeef dukkanaa'eera.
+Teessoo isaanii barbaadu. Fiilmiin sun dursee waan jalqabeef dukkanaa'eera.
 
 ##
 Fiilmii kana ilaaluuf taa'an.
 
 ##
-Fiilmii jaalalaa ti. Sun gosa isaan jaallatanidha.
+Fiilmii jaalalaati. Sun gosa isaan jaallatanidha.
 
 ##
 Fiilmii booda nagaa walitti dhaamanii gara manaatti deebi'u.

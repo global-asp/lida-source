@@ -10,7 +10,7 @@
 "Eessa jira...?"
 
 ##
-"Gara san."
+"karaa san."
 
 ##
 "Naaf hin galle."

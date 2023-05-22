@@ -7,10 +7,10 @@ Kun maatii kooti.
 Kun abbaa kiyya.
 
 ##
-Kun Haadha kooti.
+Tun Haadha kooti.
 
 ##
-Haati manaa koo Moonaa jedhamti.
+Haati manaa koo Monaa jedhamti.
 
 ##
 Ani Ijoollee lama qaba.

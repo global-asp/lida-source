@@ -1,16 +1,16 @@
 # Qulqulleessuu
 
 ##
-Jalqaba, haraadhaan lafa qulqulleessa.
+Jalqaba, haraadhaan lafa haxaawa.
 
 ##
-Sana booda vaakiyuum godha. Vaakiyuumiin qulqulleessituu akka gaariitti hojjeta.
+Sana booda qulqulleessa. Qulqulleessituun akka gaariitti hojjeta.
 
 ##
 Sana booda baaldii bishaanii fi miiccuu tokko fidata.
 
 ##
-lafa ni miica.
+Lafa ni miica.
 
 ##
 Baaldii haraan itti gatamu sana duwwaa godhee boorsaa haaraa keessa kaa'a.
@@ -19,13 +19,13 @@ Baaldii haraan itti gatamu sana duwwaa godhee boorsaa haaraa keessa kaa'a.
 Balfa sana ni baasa.
 
 ##
-Guwaantii harkaa, ispoonjii fi qulqulleessituu tokko tokko isa barbaachisa.
+Guwaantii harkaa, ispoonjii fi qulqulleessituu tokko tokko isabarbaachisa.
 
 ##
 Bakka xuraa'aa lafa jiru ispoonjii fi qulqulleessituu tokko tokkoon ni dhiqa.
 
 ##
-Sana booda foddaa sana qulqulleessa.
+Sana booda foddaa qulqulleessa.
 
 ##
 Kutaan jireenyaa isaa baayyee waliin-dha'amaa dha.

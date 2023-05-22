@@ -1,13 +1,13 @@
 # Seenaa Maalik
 
 ##
-Malik jedhama umuriin koo waggaa 39 dha. Afgaanistaan keessatti dhaladhe. Amantiin koo amantii guddaa Afgaanistaan keessa jiru irraa adda.
+Maalik jedhama umuriin koo waggaa 39 dha. Afgaanistaan keessatti dhaladhe. Amantiin koo amantii guddaa Afgaanistaan keessa jiru irraa adda.
 
 ##
 Waggoota dheeraaf namoonni amantii koo taʼan ariʼamaa turan. Kun maatii kootiif baayʼee itti ulfaateera.
 
 ##
-Waggoota muraasa dura waraanni ni ture. Ani akkan ajjeefamu sodaadheen ture. Maatii koo dhiisee Awurooppaa dhaqee jireenya haaraa jalqabuuf ture.
+Waggoota muraasa dura waraanni ni ture. Ani ni ajjeefama jedhee sodaadheen ture. Maatii koo dhiisee Awurooppaa dhaqee jireenya haaraa jalqabuuf ture.
 
 ##
 Kiilomeetira hedduu miilaan deeme. Yeroo tokko tokko nyaata hin qabu ture, bakkan buluus hin qabu ture. Namoonni ani waliin imalaa ture tokko tokko du'aniiru.

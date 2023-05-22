@@ -22,7 +22,7 @@ Sirbuu nan danda'a.
 Ijoollee kunuunsuu nan danda'a.
 
 ##
-Kolfuu nan danda'a.
+Kolfuu nan danda'a!
 
 ##
 * License: CC BY

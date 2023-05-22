@@ -1,31 +1,31 @@
 # Gara kaaffee deemuu
 
 ##
-Booraniifi intalli isaa deemsaaf bahanii jiru.
+Boraanii fi intalli isaa deemsaaf bahanii jiru.
 
 ##
 Gara kaaffee tokkoo dhufanii, seenan.
 
 ##
-Kaaffee keessatti namni nyaata dhiheessu minjaala tokkotti isaan agarsiise.
+Kaaffee keessatti keessummeessaan minjaala tokko isaanitti agarsiisa.
 
 ##
-Booraan buna ajaje.
+Boraan buna ajaja.
 
 ##
 Intalli isaa soodaa ajajje.
 
 ##
-Namni nyaata dhiheessu ajaja isaanii fide.
+Keessummeessaan ajaja isaanii fida.
 
 ##
-Soodaa sana gara koochootti dhangalaase.
+Soodaa sana gara koochootti dhangalaasa.
 
 ##
-Sodaa sana dhugde.
+Soodaa sana dhugde.
 
 ##
-Booraan buna isaa keessatti sukkaara buuse .
+Boraan buna isaa keessatti sukkaara buuse.
 
 ##
 Innis buna sana ni sochoose.
@@ -34,13 +34,13 @@ Innis buna sana ni sochoose.
 Innis ni dhuge.
 
 ##
-Booran waraqaa qarshii gaafate.
+Boraan waraqaa kaffaltii gaafate.
 
 ##
-Nama nyaata dhiheessu sanaaf kaffaltii kaffale.
+Keessummeessaaf kaffaltii kaffale.
 
 ##
-Booraniifi intalli isaa kaaffee sana keessaa ba'an.
+Boraanii fi intalli isaa kaaffee sana keessaa ba'an.
 
 ##
 * License: CC BY-NC-SA

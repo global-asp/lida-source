@@ -1,16 +1,16 @@
 # Balaa
 
 ##
-Kaarlos iskuutara yaabbatee deema. Saffisaan oofa.
+Kaarloos iskuutara yaabbatee deema. Saffisaan oofa.
 
 ##
-Karaa irra bishaantu jira. Daandiin kan mucucaachisuudha.
+Karaa irra bishaantu jira. Daandiin mucucaataadha.
 
 ##
-Iskuutara to'achuu dhabee kufe.
+Iskuutara to'achuu dadhabeekufe.
 
 ##
-Kaarlos akka malee miidhameera.
+Kaarloos akka malee miidhameera.
 
 ##
 Dubartiin tokko ambulaansii waamti. "Balaan mudateera. Dafii koottu!"
@@ -19,31 +19,31 @@ Dubartiin tokko ambulaansii waamti. "Balaan mudateera. Dafii koottu!"
 Ambulaansiin baayyee dafee dhufe.
 
 ##
-Namoonni lama Kaarlosiin siree irra kaaʼan.
+Namoonni lamaa Kaarloosiin siree irra kaaʼan.
 
 ##
-Kaarlos gara ambulaansii keessa ol harkisu.
+Kaarloos gara ambulaansii keessa ol harkisu.
 
 ##
-Ambulaansiin gara hospitaalaatti konkolaataa oofaa deeme.
+Ambulaansiin gara hospitaalaatti deema.
 
 ##
-Narsiin tokko Kaarlos hospitaala geessite.
+Narsiin tokko Kaarloosiin hospitaala geessite.
 
 ##
 Isheenis isa yaalte.
 
 ##
-Miilli Kaarlos baayyee miidhame, innis yaaddoo keessa jira.
+Miilli Kaarloosii baayyee miidhame, innis yaaddoo keessa jira.
 
 ##
-Doktooronni lama miila isaa baqaqsanii hodhu.
+Doktoroonni lama miila isaa baqaqsanii hodhu.
 
 ##
 Warri isaas isa daawwatu. Balaan kun akkamitti akka mudate isa gaafatu.
 
 ##
-Konkolaataan gara manaatti isa geessan. Kaarlos ulee fayyadamaa jira.
+Konkolaataan gara manaatti isa geessan. Kaarloos ulee fayyadamaa jira.
 
 ##
 * License: CC BY-NC-SA

@@ -19,7 +19,7 @@
 "Eeyyen, maaloo!"
 
 ##
-"Isa sana arguu nan danda'aa, maaloo?"
+"Isa sana ilaaluu nan danda'aa, maaloo?"
 
 ##
 "Kunoo Ilaali."
