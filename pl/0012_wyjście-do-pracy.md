@@ -1,0 +1,44 @@
+# Wyjście do pracy
+
+##
+Budzik dzwoni. Czas wstawać.
+
+##
+Kobieta wstaje z łóżka.
+
+##
+Idzie do łazienki.
+
+##
+Myje zęby.
+
+##
+Płucze usta.
+
+##
+Bierze prysznic i myje włosy.
+
+##
+Wyciera się ręcznikiem.
+
+##
+Ubiera się. Zakłada spódnicę i bluzkę.
+
+##
+Podnosi swoją torebkę.
+
+##
+Bierze swoją torebkę i wychodzi do pracy.
+
+##
+Idzie do pracy.
+
+##
+Przychodzi do swojej pracy do biura.
+
+##
+* License: CC BY-NC-SA
+* Text: Espen Stranger-Johannessen
+* Illustration: Aakanee
+* Translation: Jagoda
+* Language: pl
