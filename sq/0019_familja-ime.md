@@ -10,7 +10,7 @@ Ky është babai im.
 Kjo është nëna ime.
 
 ##
-Bashkëshortja ime quhet Mona.
+Bashkëshortja ime e ka emrin Mona.
 
 ##
 Kam dy fëmijë.
@@ -19,7 +19,7 @@ Kam dy fëmijë.
 Djali im është pesë vjeç.
 
 ##
-Vajza ime është vetëm dy vjeç.
+Vajza ime është vetëm dy vjeçe.
 
 ##
 * License: CC BY
