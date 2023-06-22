@@ -1,34 +1,34 @@
 # Jausmai
 
 ##
-Aš bijau.
+„Aš bijau“.
 
 ##
-Auč!
+„Auč!“
 
 ##
-Ar tau viskas gerai?
+„Ar tau viskas gerai?“
 
 ##
-Man skauda pilvą.
+„Man skauda pilvą“.
 
 ##
-Man skauda galvą.
+„Man skauda galvą“.
 
 ##
-Aš alkanas.
+„Aš alkanas“.
 
 ##
-Aš pavargęs.
+„Aš pavargęs“.
 
 ##
-Jaučiuosi mieguistas.
+„Jaučiuosi mieguistas“.
 
 ##
-Jaučiu troškulį.
+„Jaučiu troškulį“.
 
 ##
-Kaip gaila.
+„Kaip apmaudu“.
 
 ##
 * License: CC BY-NC-SA
