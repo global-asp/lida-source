@@ -10,20 +10,34 @@ ISO | Language name
 --- | -------------
 am | Amharic
 ar | Arabic
-ckb | Sorani
+ckb | Kurdish (Sorani)
 en | English
+es | Spanish
+fa | Persian
+fr | French
+hi | Hindi
 it | Italian
-kmr | Kurmanji
-nb | Norwegian
-nn | Nynorsk
+kmr | Kurdish (Kurmanji)
+lt | Lithuanian
+nb | Norwegian (Bokmål)
+nn | Norwegian (Nynorsk)
 om | Oromo
+pl | Polish
 prs | Dari
 ps | Pashto
 pt | Portuguese
+ro | Romanian
+ru | Russian
 so | Somali
+sq | Albanian
+sw | Swahili
+th | Thai
 ti | Tigrinya
+tl | Tagalog
+tr | Turkish
 uk | Ukrainian
 ur | Urdu
+zh | Chinese (Mandarin)
 
 For community translations of the LIDA story collection into other languages not included in the list above, see the [Global LIDA](https://github.com/global-asp/global-lida) project.
 
