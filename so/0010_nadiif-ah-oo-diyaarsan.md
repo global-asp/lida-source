@@ -1,31 +1,31 @@
-# Nadiifsan hadana diyaarsan
+# Nadiif ah oo diyaarsan
 
 ##
-Gacmihiisu ayuu dhaqaa.
+Waxa uu maydhayaa gacmihiisa.
 
 ##
-Wajigiisa ayuu dhaqaa.
+Waxa uu maydhayaa wejigiisa.
 
 ##
-Wuu cadayayaa.
+Waxa uu cadaynayaa ilkihiisa.
 
 ##
-Wuu xiirtaa.
+Wuu xiiranayaa.
 
 ##
 Wuu qubaystaa.
 
 ##
-Timaha ayuu dhaqaa.
+Waxa uu maydhayaa timihiisa.
 
 ##
 Wuu is qallajiyaa.
 
 ##
-Timaha ayuu shanleeyaa.
+Waxa uu feedhanayaa timihiisa.
 
 ##
-Cidiyaha ayuu iskajaraa.
+Cidiyaha ayuu iska gurayaa.
 
 ##
 * License: CC BY-NC-SA

@@ -13,7 +13,7 @@ Tani waa hooyaday.
 Xaaskayga magaceedu waa Mona.
 
 ##
-Waxaan leeyahay laba caruur.
+Waxaan leeyahay laba carruur ah.
 
 ##
 Wiilkaygu waa 5 sanno jir.

@@ -13,7 +13,7 @@ Wuu qorayaa.
 Way hurudaa.
 
 ##
-Wuu cunayaa.
+Wuu cunnayaa.
 
 ##
 Waanu akhrinaynaa.

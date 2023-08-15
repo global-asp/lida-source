@@ -16,16 +16,16 @@
 "Mina waa afar jir, waxay aadaa iskoolka barbaarinta, Miriam waa toban jir, marka waxay aadaa iskoolka."
 
 ##
-"Dhammaan caruurteyda waxay dhigtaan iskool, wiilkaygu wuxuu qalin jabin doonaa sanadka soo socda."
+"Dhammaan carruurteyda waxay dhigtaan iskoolka, wiilkaygu wuxuu qalin jabin doonaa sanadka soo socda."
 
 ##
-"Taasi waa wax weyn! Waxay u koraan si degdeg ah. Muxuu rabaa inuu sameeyo ka dib?"
+"Taasi waa wax weyn! Waxay u koreen si degdeg ah. Muxuu rabaa inuu sameeyo ka dib?"
 
 ##
 "Wuxuu rabaa inuu shaqo helo, laakiin waxaan u sheegaa inuu jaamacad galo."
 
 ##
-"Taasi waa fikrad wanaagsan, waxaan sidoo kale rajeynayaa in caruurteyda ay jaamacad geli doonaan maalin."
+"Taasi waa fikrad wanaagsan, waxaan sidoo kale rajeynayaa in carruurteyda ay jaamacad geli doonaan isku maalin."
 
 ##
 * License: CC BY

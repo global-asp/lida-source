@@ -19,7 +19,7 @@ Waxaan ku hadli karaa 3 luqadood.
 Waan heesi karaa.
 
 ##
-Caruur ayaaan ilaalin karaa.
+Carruur ayaan illaalin karaa.
 
 ##
 Waan qosli karaa!

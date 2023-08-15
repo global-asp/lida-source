@@ -16,7 +16,7 @@
 "Madaxa ayaa ixanuunaya."
 
 ##
-"Waan gaajaysannahay."
+"Waan gaajoonayaa."
 
 ##
 "Waan daalanahay."

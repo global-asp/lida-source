@@ -1,16 +1,16 @@
-# Cunista bannaanka
+# Banaanka wax ku cunnaya
 
 ##
-Kip waxay ka hesaa inuu cuno baasto.
+Kip wuxuu dareemayaa inuu cunnayo xoogaa baasto dhaadheer ah.
 
 ##
-Kip waxa uu ka codsanayaa saaxiibkiisa inay isasoo racaan.
+Kip waxa uu ka codsanayaa saaxiibkiis inay is racaan.
 
 ##
-Waxay raadinayaan meel ay wax ka cunaan.
+Waxay raadinayaan meel ay wax ka cunnaan.
 
 ##
-Waxay heleen meel baasto lagu iibiyo.
+Waxay raadinayaan meel lagu iibinayo baasto.
 
 ##
 Kip iyo saaxiibkiis waxay heleen miis.
@@ -19,28 +19,28 @@ Kip iyo saaxiibkiis waxay heleen miis.
 Way fadhiisteen kadibna u yeedheen kabayeeriga.
 
 ##
-Kabayeeriga way timaaday. Kip wuxuu dalbaday baasto.
+Kabayeeriga way u timi. Kip wuxuu dalbaday baasto.
 
 ##
-Saxiibkiis isna waxuu dalbaday baasto.
+Saxiibkiis ayaa isna dalbanaya baasto sidoo kale.
 
 ##
-Labaduba waxay helayeen koob biyo ah.
+Mid kastaana wuxuu helayaa koob biyo ah.
 
 ##
-Kabayeeriga waxay keentay cuntada.
+Kabayeeriga waxay u keentay cuntada.
 
 ##
-Waxay ku dareen suugo iyo milix, kadibna walaaqeen baastada.
+Waxay ku dareen suugo iyo milix, kadibna isku walaaqeen baastada.
 
 ##
-Kip iyo saaxiibkiis waxay cuneen baastada. Way macaaneed.
+Kip iyo saaxiibkiis waxay cunneen baastadii. Aad bayna u macaanayd.
 
 ##
-Waxuu cabay biyihiisa.
+Waxa uu cabbay biyihiisa.
 
 ##
-Waxay bixiyeen biilka.
+Waxay iska bixiyeen lacagtii biilka.
 
 ##
 * License: CC BY-NC-SA

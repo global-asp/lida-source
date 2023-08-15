@@ -1,31 +1,31 @@
 # Nadiifinta
 
 ##
-Marka hore, waxa uu dhulka ku xaaqayaa xaaqin.
+Marka hore, waxa uu xaaqinka ku nadiifinayaa dhulka.
 
 ##
-Kadibna wuu nadiifinayaa. Nadiifiyaha ayaa si fiican u shaqeeya.
+Kadibna waxa uu faakuumka ku nadiifinaya. Faakuumkuna waxa uu u shaqaynaa si fiican.
 
 ##
-Kadibna wuxuu qaadanayaa baaldi biyo ah iyo xaaqin.
+Kadibna waxa uu soo qaadanayaa baaldi biyo ah iyo qalabka. Wax lagu nadiifiyo.
 
 ##
-Dhulka ayuu masaxayaa.
+Waxa uu masaxayaa sagxada.
 
 ##
-Qashinkii wuu faaruqiyay oo bac cusub ayuu galiyay.
+Waxa uu dhammaan ka nadiifiyay qashinkii oo bac cusub ku guray.
 
 ##
-Qashinka wuu soo saaray.
+Waxa uu soo saarayaa qashinka.
 
 ##
-Wuxuu u baahan yahay galoofyada, isbuunyada, iyo qaar kalo nadiifiya ah.
+Waxa uu u baahan yahay galoofyada, buushka ah, iyo qaar kaloo nadiifiye ah.
 
 ##
-Meel wasakh ah ayuu dhulka ku xoqayaa isbuunyada iyo qaar ka mid ah nadiifiyaha.
+Waxa uu dhulka ka xoqayaa buushka meel wasakh ah, iyo qaar kaloo ka mid ah kuwa wax nadiifiya.
 
 ##
-Kadibna daaqadda ayuu nadiifiyay.
+Kadibna waxa uu nadiifinayaa daaqada.
 
 ##
 Qolkiisa fadhiga aad buu iskugu qasan yahay.

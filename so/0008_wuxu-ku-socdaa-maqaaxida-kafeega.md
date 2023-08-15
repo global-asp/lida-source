@@ -1,28 +1,28 @@
-# Tagitaanka kafateeriyaha
+# Wuxu ku socdaa maqaaxida kafeega
 
 ##
-Boran iyo inantiisii ayaa socod ku maqan.
+Boran iyo inantiisii waxay socod ugu maqanyihiin banaanka.
 
 ##
 Waxay yimaadeen meel kafateeri ah, oo ay galeen.
 
 ##
-Kabayeeriga ayaa tusay miis kafateeriyaha dhexdeeda.
+Kabayeeriga ayaa tusay miis kafateeriyaha dhexdeeda ah.
 
 ##
-Boran waxuu dalbaday qaxwo.
+Boran wuxuu dalbaday shaah/kafee.
 
 ##
-Gabadhiisii waxay dalbatay soodha.
+Gabadhiisu waxay dalbatay sharaabka soodhaha leh.
 
 ##
-Kabayeerigu wuxuu keenaa dalabkooda.
+Kabayeerigu wuxuu u keenay dalabkooda.
 
 ##
 Wuxuu ku shubay soodhada galaaska.
 
 ##
-Waxay cabtay soodhada.
+Waxay cabtay sharaabkii soodhada.
 
 ##
 Boran waxa ay ku shubaysaa sokor kafeega.
@@ -31,13 +31,13 @@ Boran waxa ay ku shubaysaa sokor kafeega.
 Kafeega ayuu walaaqayaa.
 
 ##
-Waa uu cabayaa.
+Waa uu cabbayaa.
 
 ##
-Boran ayaa waydiisanaya biilka.
+Boran waxay waydiisay biilka.
 
 ##
-Wuxuu ku bixinayaa kabayeeriga.
+Waxa uu biilka siinayaa kabayeeriga.
 
 ##
 Boran iyo inantiisii waxay ka baxeen kafateeriyaha.

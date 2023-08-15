@@ -1,7 +1,7 @@
-# Aadida shaqada
+# Shaqada tegayaa
 
 ##
-Saacada ayaa dhacday. Waa waqtigii la kici lahaa.
+Waa waqtigii la kici lahaa. Oo saacada ayaa alarmigu dhacayaa.
 
 ##
 Way kacday.
@@ -10,31 +10,31 @@ Way kacday.
 Waxay aadaysaa musqusha.
 
 ##
-Waxay cadayanaysaa ilkaheeda.
+Waxay cadayanaysaa ilkeheeda.
 
 ##
 Waxay luqluqatay afkeeda.
 
 ##
-Way qubaysatay oo timaheeda maydhay.
+Way qubaysatay oo waxay maydhaysaa timeheeda.
 
 ##
 Waxay isku qalajisay shukumaanka.
 
 ##
-Way dhar xiratay.Waxay xiratay goono iyo funaanad.
+Waa ay lebisanaysaa oo waxay xidhatay goonno iyo funaanad.
 
 ##
-Waxay qaadatay boorsadeeda.
+Boorso gacmeedkeeda ayey soo qaadanaysaa.
 
 ##
-Borsadeeda ayeey qaadatay kadibna guriga ka baxday.
+Waxay qaadatay boorso gacmeedkeeda oo ay shaqada ku tagaysaa.
 
 ##
-Shaqada ayeey usocotay.
+Waxay u lugaynaysaa shaqadeeda.
 
 ##
-Shaqada ayay timaaday. Waxay ka shaqeysaa xafiis.
+Shaqada ayay timi. Waxayna ka shaqeysaa xafiis.
 
 ##
 * License: CC BY-NC-SA

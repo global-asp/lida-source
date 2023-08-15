@@ -1,34 +1,34 @@
-# Seexashada
+# Wuu Hurdo tegayaa
 
 ##
 Aad buu u daalan yahay.
 
 ##
-Waa waqtigii la seexan lahaa.
+Waa waqtigii la hurdo tegayey.
 
 ##
-Wuxuu aadayaa suuliga.
+Waxa uu gelayaa suuliga.
 
 ##
-Wuxuu cadayanayaa ilkaha.
+Waxa uu cadayanayaa ilkihiisa.
 
 ##
 Qolka hurdada ayuu galaa.
 
 ##
-Dharka ayuu iska siibaa.
+Dharka ayuu iska saarayaa.
 
 ##
-Sariirta ayuu dul fadhiistaa.
+Waxa uu dul fadhiistay sariirta.
 
 ##
 Wuxuu daawadaa TVga.
 
 ##
-TVga ayuu damiyay.
+Wuxu damiyay TVga.
 
 ##
-Wuu seexdaa.
+Wuu hurdo tegayaa.
 
 ##
 Wuu riyoonayaa.

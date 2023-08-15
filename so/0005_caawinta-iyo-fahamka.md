@@ -16,27 +16,19 @@
 "Ma fahmin."
 
 ##
-"Tani ma saxbaa?"
-
-"Haa."
+"Tani ma saxbaa?" "Haa."
 
 ##
-"Tani ma saxbaa?"
-
-"Maya."
+"Tani ma saxbaa?" "Maya."
 
 ##
 "Maku caawin karaa?"
 
 ##
-"Fadlan ma i caawin kartaa?"
-
-"Haa dabcan!"
+"Fadlan ma i caawin kartaa?" "Haa dabcan!"
 
 ##
-"Ma heli karaa taas, fadlan?"
-
-"Haa dabcan!"
+"Ma heli karaa taas, fadlan?" "Haa dabcan!"
 
 ##
 "Mahadsanid!"

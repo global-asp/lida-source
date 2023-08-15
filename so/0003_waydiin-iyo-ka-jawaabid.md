@@ -1,19 +1,19 @@
 # Waydiin iyo ka jawaabid
 
 ##
-"Waxan rabi lahaa midkaas, fadlan."
+"Waan jeclaan lahaa midkaas, fadlan."
 
 ##
 "Ma haysaa...?"
 
 ##
-"Caadi miyaa haddaan halkan fariisto?"
+"Ma caadi baa haddii aan halkan fadhiisto?"
 
 ##
-"Taasi way fiicantahay."
+"Way fiicnaan lahayd taasi."
 
 ##
-"Ma rabi laheed qaarkan?"
+"Ma jeclaan lahayd qaar ka mid ah tan?"
 
 ##
 "Haa, fadlan!"
@@ -22,7 +22,7 @@
 "Ma arki karaa midkaas, fadlan?"
 
 ##
-"Waa kukan."
+"Waa ku kan."
 
 ##
 * License: CC BY-NC-SA

@@ -4,10 +4,10 @@
 Tom iliga ayaa xanuunaya. Iligkiisu aad buu u xanuunayaa.
 
 ##
-Wuxuu u baahan yahay inuu arko dhakhtarka ilkaha, laakiin marka hore wuxuu u baahan yahay daawo xanuunka.
+Wuxuu u baahan yahay inuu arko dhakhtarka ilkaha, laakiin marka hore wuxuu u baahan yahay daawo xanuun baabi’iye ah.
 
 ##
-Wuxuu u socdaa farmashiyaha ugu dhow.
+Wuxuu u socdaa farmaysiga ugu dhow.
 
 ##
 "Iliga ayaa ixanuunaya," ayuu yidhi. "Wax ma u haysaan taas?"

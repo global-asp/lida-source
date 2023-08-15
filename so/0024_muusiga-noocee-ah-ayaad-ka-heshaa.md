@@ -1,13 +1,13 @@
 # Muusiga noocee ah ayaad ka heshaa?
 
 ##
-Tulima waxay jeceshahay muusikada. Maalin walba way dhegaysataa.
+Tulima waxay jeceshahay muusigada. Maalin walba way dhegaysataa.
 
 ##
 Saaxiibadeed Carlos iyo Anita sidoo kale waxay ka helaan muusigga.
 
 ##
-"Tulima, muusiko noocee ah ayaad ka heshaa?" ayuu Carlos weydiiyey.
+"Tulima, muusig noocee ah ayaad ka heshaa?" ayuu Carlos weydiiyey.
 
 ##
 "Waan ka helaa muusigga reer galbeedka, laakiin waxaan ka door bidaa muusigada dalkayga Itoobiya."
@@ -16,7 +16,7 @@ Saaxiibadeed Carlos iyo Anita sidoo kale waxay ka helaan muusigga.
 "Waxaan ka imid Columbia, kaliya waxaan dhagaystaa salsa. Waxay ku wanaagsan tahay dheesha," ayuu yidhi Carlos.
 
 ##
-Anita ayaa tiri, "Waxaan ka helaa heesaha jaceylka ah iyo muusiggada iga farxisa."
+Anita ayaa tiri, "Waxaan ka helaa heesaha jaceylka ah iyo muusigyada iga farxiya."
 
 ##
 Muusiga noocee ah ayaad ka heshaa?

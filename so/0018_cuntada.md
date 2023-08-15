@@ -1,25 +1,25 @@
 # Cuntada
 
 ##
-Waxuu cunayaa pizza. Waa dhadhan fiicantahay.
+Waxa uu cunayaa pizza. Way dhadhan fiicantahay.
 
 ##
 Waxay cunaysaa digaag. Way kulushahay.
 
 ##
-Waxuu cunaa bariis maalin walba.
+Waxa uu cunaa bariis maalin walba.
 
 ##
-Waxay jeceshahay cagaarka.
+Waxay jeceshahay khadaarta.
 
 ##
-Ma cunto hilibka. Waxay tahay kuwa khudaarta cuna.
+Ma cunto hilibka. Waxay ka mid tahay kuwa khudaarta cunna.
 
 ##
-Looska ma cuno. Waxuu ku qabaa xasaasiyad.
+Lawska ma cuno. Waxa uu ka qabaa xasaasiyad.
 
 ##
-Cunno ayeey karinayaan. Way udgoon tahay!
+Waxa ay karinayaan cunto. Way udgoon tahay!
 
 ##
 * License: CC BY

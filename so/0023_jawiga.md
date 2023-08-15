@@ -1,7 +1,7 @@
 # Jawiga
 
 ##
-Waa qorax.
+Waa qorrax.
 
 ##
 Waa daruuro.
@@ -10,7 +10,7 @@ Waa daruuro.
 Waa roob.
 
 ##
-Waa dabeelo.
+Waa dabaylo.
 
 ##
 Waa baraf.
@@ -19,7 +19,7 @@ Waa baraf.
 Waa qaboow.
 
 ##
-Waa kuleel.
+Waa kulayl.
 
 ##
 * License: CC BY
