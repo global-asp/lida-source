@@ -1,37 +1,37 @@
 # Paglilinis
 
 ##
-Nang una, nagwawalis siya ng sahig gamit ng walis.
+Una, nagwawalis siya ng sahig gamit ang walis.
 
 ##
-Pagkatapos nagvacuum siya. Ang vacuum cleaner ay gumagana ng maayos.
+Pagkatapos nag-vacuum siya. Gumagana ng maayos ang vacuum cleaner.
 
 ##
-Pagkatapos kumuha siya ng balde puno ng tubig at isang mop.
+Pagkatapos kumuha siya ng balde ng tubig at ng isang mop.
 
 ##
-Nilampasuhan niya sahig.
+Nilalampasuhan niya ang sahig.
 
 ##
-Kinuha niya ang laman ng bin at nilagyan ng bagong bag.
+Inalis niya ang laman ng bin at nilagyan ng bagong bag.
 
 ##
-Tinapon niya ang basura.
+Nilabas niya ang basura.
 
 ##
-Kinakailangan niya ng guwantes, espongha, at panglinis.
+Kailangan niya ng guwantes, espongha, at konting panglinis.
 
 ##
-Kinuskos niya ang maduming lugar sa sahig gamit ng espongha at panglinis.
+Kinukuskus niya ang maruming parte ng sahig gamit ang espongha at panlinis.
 
 ##
-Nilinisan niya ang bintana.
+Pagkatapos, naglilinis siya ng bintana.
 
 ##
-Magulo ang kanyang sala.
+Sobrang magulo ang kanyang sala.
 
 ##
-Inayos niya ito. Ngayon ito ay maganda na at malinis.
+Inayos niya ito. Ngayon, ito ay maganda at malinis na.
 
 ##
 * License: CC BY-NC-SA

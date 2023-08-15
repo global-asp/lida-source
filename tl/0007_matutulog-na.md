@@ -1,37 +1,37 @@
-# Pagtulog
+# Matutulog na
 
 ##
-Siya ay napakapagod.
+Sobrang pagod siya.
 
 ##
 Oras na para matulog.
 
 ##
-Pumunta siya sa palikuran.
+Pumunta siya sa banyo.
 
 ##
-Nagsipilyo siya ng kanyang ngipin.
+Nagsisipilyo siya ng kanyang ngipin.
 
 ##
-Pumunta siya sa kanyang kwarto.
+Papasok siya sa kwarto.
 
 ##
-Naghubad siya ng damit.
+Tinatanggal niya ang kanyang damit.
 
 ##
-Umupo siya sa kanyang kama.
+Umupo siya sa kama.
 
 ##
-Nanood siya ng telebesyon.
+Nanonood siya ng telebisyon.
 
 ##
-Pinatay niya ang telebesyon.
+Pinatay niya ang telebisyon.
 
 ##
-Natulog na siya.
+Matutulog na siya.
 
 ##
-Siya ay nanaginip.
+Nananaginip siya.
 
 ##
 * License: CC BY-NC-SA

@@ -7,13 +7,13 @@ Ito ang aking pamilya.
 Ito ang aking ama.
 
 ##
-Ito ang aking Ina.
+Ito ang aking ina.
 
 ##
 Ang pangalan ng aking asawa ay si Mona.
 
 ##
-Meyron kaming dalawang anak.
+Mayroon akong dalawang anak.
 
 ##
 Ang aking anak na lalaki ay limang taong gulang.

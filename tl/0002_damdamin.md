@@ -7,13 +7,13 @@
 "Aray!"
 
 ##
-"Ayos ka lng ba?"
+"Okey ka lang ba?"
 
 ##
-"Masakit ang aking tyan."
+"Masakit ang aking tiyan."
 
 ##
-"Mayroon akong sakit sa ulo."
+"Masakit ang ulo ko."
 
 ##
 "Gutom ako."
@@ -25,7 +25,7 @@
 "Inaantok ako."
 
 ##
-"Uhaw Ako."
+"Uhaw ako."
 
 ##
 "Nakakahiya naman."

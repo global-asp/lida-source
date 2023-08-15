@@ -1,34 +1,34 @@
-# Kukuha ng Gamot
+# Pagkuha ng Gamot
 
 ##
-Nangingilo ang ngipin ni Tom. Napakasakit ng kanyang ngipin!
+Masakit ang ngipin ni Tom. Napakasakit ng kanyang ngipin.
 
 ##
-Kailangan niyang pumunta sa dentista ngunit, kailangan niya munang humanap ng lunas sa sakit.
+Kailangan niyang pumunta sa dentista ngunit kailangan niya munang humanap ng lunas sa sakit.
 
 ##
-Siya ay nagmaneho papunta sa pinakamalapit na butika.
+Nagmamaneho siya papunta sa pinakamalapit na botika.
 
 ##
-"Masakit ang aking ngipin," sabi ni Tom. "May lunas po ba kayo para dito?"
+"Masakit ang ngipin ko," sabi ni Tom. "Mayroon ka bang gamot para d 'yan?"
 
 ##
-"Opo, eto may painkillers kami. Hindi mo na kailangan nang reseta para dito."
+"Oo, eto may painkillers kami. Hindi mo na kailangan ng reseta para dito."
 
 ##
-"Maraming salamat! Magkano po ba ang presyo?"
+"Salamat! Magkano ang mga ito?"
 
 ##
-"Nagkakahalaga ito ng siyam na euro, ngunit kailangan mong magpatingin sa dentista."
+"Nagkakahalaga ang mga ito ng siyam na euro, ngunit kailangan mong magpatingin sa dentista."
 
 ##
-"Sige po, tatawagin ko ang aking dentista bukas ng umaga."
+"Sige, tatawagan ko ang aking dentista bukas ng umaga."
 
 ##
-"Kapagkailangan mo ng masmabisang gamot, kukuha ka dapat ng reseta sa iyong dentista o sa iyong doctor."
+"Kapag kailangan mo ng mas mabisang gamot, kukuha ka dapat ng reseta sa iyong dentista o sa iyong doktor."
 
 ##
-"Maraming salamat po! Paalam."
+"Salamat! Paalam."
 
 ##
 * License: CC BY

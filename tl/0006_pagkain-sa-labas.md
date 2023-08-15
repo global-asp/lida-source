@@ -1,46 +1,46 @@
-# Kumain sa Labas
+# Pagkain sa Labas
 
 ##
-Gusto ni Kip na kumain ng pansit sa labas.
+Gusto ni Kip na kumain ng pansit.
 
 ##
-Inimbitahan ni Kip ang kanyang kaibigan na sumama sa kanya.
+Nagtanong si Kip sa isang kaibigan na sumama sa kanya.
 
 ##
-Naghanap sila ng makakainan.
+Naghahanap sila ng makakainan.
 
 ##
-Nakakuta sila ng isang pwesto na nagbebenta ng pansit.
+Nakahanap sila ng isang lugar na nagbebenta ng pansit.
 
 ##
-Naghanap sila ng mesa.
+Nakahanap ng mesa si Kip at ang kanyang kaibigan.
 
 ##
-Sila ay umupo at tumawag ng weyter.
+Umupo sila at tinawag ang waiter.
 
 ##
-Dumating na ang weyter. Nagorder si Kip ng pancit.
+Dumating ang waiter. Nag-order si Kip ng pansit.
 
 ##
-Nagorder din ang kanyang kaibigan ng pancit.
+Nag-order din ang kanyang kaibigan ng pansit.
 
 ##
 Kumuha sila ng tig-isang baso ng tubig.
 
 ##
-Bumalik ang weyter dala ang kanilang pagkain.
+Dala ng waiter ang pagkain.
 
 ##
-Tinimplahan nila ang kanilang pancit ng sarsa at asin, tiyaka ito hinalo.
+Nagdagdag sila ng sawsawan, asin, at hinalo ang pansit.
 
 ##
-Kumain na si Kip at ang kanyang kaibigan ng pancit. Ito ay napakasarap.
+Kumakain si Kip at ang kanyang kaibigan ng pansit. Masarap ito.
 
 ##
-Uminom siya ng tubig.
+Umiinom siya ng kanyang tubig.
 
 ##
-Binayaran nila ang bill.
+Nagbabayad sila ng bill.
 
 ##
 * License: CC BY-NC-SA

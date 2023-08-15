@@ -1,28 +1,28 @@
-# Maraming Bagay Akong Kanyang Gawin
+# Marami akong Magagawa
 
 ##
-Ako ay marunong magluto.
+Kaya kong magluto.
 
 ##
-Ako ay marunong magbisikleta.
+Kaya kong mag-bisikleta.
 
 ##
-Ako ay marunong manahi.
+Kaya kong manahi.
 
 ##
-Kaya kong magtrabaho ng husto.
+Kaya kong magtrabaho ng mabuti.
 
 ##
-Marunong akong magsalita ng tatlong wika.
+Nakakapagsalita ako ng tatlong wika.
 
 ##
-Marunong akong kumanta.
+Kaya kong kumanta.
 
 ##
-Marunong akong mag-alaga ng mga bata.
+Kaya kong mag-alaga ng mga bata.
 
 ##
-Marunong akong tumawa.
+Kaya kong tumawa!
 
 ##
 * License: CC BY

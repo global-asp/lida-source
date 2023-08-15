@@ -1,7 +1,7 @@
-# Pagkikipagkapwa Tao
+# Pagkikipagkapwa-tao
 
 ##
-"Hi!" "Kamusta!"
+"Hi!" "Hello!"
 
 ##
 "Paalam!" "Paalam!"
@@ -10,7 +10,7 @@
 "Ito si Kama."
 
 ##
-"Hi, Ako si Kama." "Ikinagagalak kitang makilala Kama."
+"Hi, ako si Kama." "Masaya akong makilala ka, Kama."
 
 ##
 Tumutunog ang telepono.
@@ -31,7 +31,7 @@ Binaba niya ang tawag.
 "Pasok ka."
 
 ##
-"Pasensya po."
+"Pasensya na."
 
 ##
 "Walang problema."
@@ -43,7 +43,7 @@ Binaba niya ang tawag.
 "Sandali lang, po."
 
 ##
-"Ito ay si Ali." "Ito ay si Leila."
+"Si Ali ito." "Si Leila ito."
 
 ##
 * License: CC BY-NC-SA

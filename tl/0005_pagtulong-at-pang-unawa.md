@@ -1,37 +1,37 @@
-# Pagtulong at Pag-unawa
+# Pagtulong at Pang-unawa
 
 ##
-"Maraming Salamat!"
+"Maraming salamat!"
 
 ##
 "Hindi ko alam."
 
 ##
-"Nasaan po ba ang...?"
+"Nasaan ba ang...?"
 
 ##
-"Papunta doon."
+"Papunta roon."
 
 ##
-"Hindi ko maitindihan."
+"Hindi ko maintindihan."
 
 ##
-"Tama po ba ito?" "Opo."
+"Tama ba ito?" "Oo."
 
 ##
-"Tama po ba ito?" "Hindi po."
+"Tama ba ito?" "Hindi."
 
 ##
-"Maaari ba kitang tulungan?"
+"Pwede ba kitang tulungan?"
 
 ##
-"Pakiusap po, pwede mo ba akong tulungan?" "Opo, syempre!"
+"Pwede mo ba akong tulungan?" "Oo, siyempre!"
 
 ##
-"Pwede po bang makuha iyan?" "Opo, syempre!"
+"Pwede ko bang makuha iyon?" "Oo, siyempre!"
 
 ##
-"Maraming Salamat!"
+"Maraming salamat!"
 
 ##
 * License: CC BY-NC-SA

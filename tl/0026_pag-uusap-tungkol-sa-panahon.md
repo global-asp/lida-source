@@ -1,22 +1,22 @@
-# Pag-uusap Patungkol sa Panahon
+# Pag-uusap Tungkol sa Panahon
 
 ##
-"Masmalamig na ang mga darating na araw. Ano ang temperature?"
+"Mas malamig na ang mga darating na araw. Ano ang temperatura?"
 
 ##
 "Nine degrees. Taglagas pa ngayon ngunit malapit na ang taglamig."
 
 ##
-"Inaabangan ko ang tagsibol pero mas gusto ko ang taginit, kung saan ang panahon ay maganda at mainit-init."
+"Inaabangan ko ang tagsibol pero mas gusto ko ang tag-init, kung saan ang panahon ay maganda at mainit-init."
 
 ##
-"Hindi ko alintana ang lamig. Hindi lamang Ako husto sa ulan at hangin."
+"Hindi alintana ang lamig sa akin. Ayoko ng ulan at hangin."
 
 ##
-"Tingnan mo ang mga maiitim na ulap. Uulan bukas. Magiging sobrang lakas ng hangin din. Parang may bagong darating."
+"Tingnan mo ang mga ulap. Uulan bukas. Magiging malakas din ang hangin. Parang may bagyong darating."
 
 ##
-"Sana hindi naman. Ayoko ng masamang panahon, lalo na Ang kulob at kidlat. Natatakot ako na matamaan ng kidlat."
+"Sana hindi naman. Ayoko ng masamang panahon, lalo na ang kulog at kidlat. Natatakot ako na baka matamaan ako ng kidlat."
 
 ##
 * License: CC BY

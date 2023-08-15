@@ -1,31 +1,31 @@
 # Malinis at Handa
 
 ##
-Hinuhuhagan niya ng kanyang kamay.
+Naghuhugas siya ng kanyang kamay.
 
 ##
-Naghilamos siya ng kanyang mukha.
+Naghihilamos siya ng kanyang mukha.
 
 ##
-Nagsipilyo siya ng kanyang ngipin.
+Nagsisipilyo siya ng kanyang ngipin.
 
 ##
-Siya ay nagahit.
+Nag-aahit siya.
 
 ##
-Siya ay naligo.
+Naliligo siya.
 
 ##
-Naghugas siya ng kanyang buhok.
+Naghuhugas siya ng kanyang buhok.
 
 ##
-Pinatuyo niya ang kanyang sarili.
+Pinapatuyo niya ang kanyang sarili.
 
 ##
-Nagsuklay siya ng kanyang buhok.
+Nagsusuklay siya ng kanyang buhok.
 
 ##
-Nangupit ng kanyang mga kuko.
+Pinuputol niya ang kanyang mga kuko.
 
 ##
 * License: CC BY-NC-SA

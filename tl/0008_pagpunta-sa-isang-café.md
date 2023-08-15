@@ -1,46 +1,46 @@
 # Pagpunta sa isang Café
 
 ##
-Si Boran at ang kanyang anak na babae ay lumabas para mamasyal.
+Lumabas para mamasyal si Boran at ang kanyang anak na babae.
 
 ##
-Napadaan sila sa isang café at pumasok.
+Nakarating sila sa isang café at pumasok.
 
 ##
-Sa loob ng café ipinakita Sila ng weyter sa mesa.
+Sa café dinala sila ng waiter sa isang table.
 
 ##
-Umorder si Boran ng kape.
+Nag-order si Boran ng kape.
 
 ##
-Ang anak niyang babae Aya umorder ng soda.
+Nag-order ng soda ang anak niyang babae.
 
 ##
-Dinala ng weyter ang kanilang mga order.
+Dinala ng waiter ang kanilang order.
 
 ##
 Ibinuhos niya ang soda sa isang baso.
 
 ##
-Ininum niya ang soda.
+Umiinom siya ng soda.
 
 ##
-Nilagyan ni Boran ng asukal ang kanyang kape.
+Naglalagay si Boran ng asukal sa kanyang kape.
 
 ##
-Hinalo niya ang kape.
+Hinahalo niya ang kape.
 
 ##
-Ininum niya ito.
+Iniinom niya ito.
 
 ##
 Hiningi ni Boran ang bill.
 
 ##
-Binayaran niya ang weyter.
+Binabayaran niya ang waiter.
 
 ##
-Si Boran at ang kanyang anak ay umalis sa café.
+Umalis sa café si Boran at ang kanyang anak.
 
 ##
 * License: CC BY-NC-SA

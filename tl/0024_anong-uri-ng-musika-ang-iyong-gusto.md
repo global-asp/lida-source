@@ -1,25 +1,25 @@
-# Anong Uri ng Musica ang Iyong Hilig?
+# Anong uri ng Musika ang iyong gusto?
 
 ##
-Mahilig sa musika si Tulima. Pinakikingan niya ito araw-araw.
+Mahilig sa musika si Tulima. Pinakikinggan niya ito araw-araw.
 
 ##
-Ang kanyang kaibigan na Sina Carlos at Anita ay mahilig din sa musika.
+Ang kanyang kaibigan na sina Carlos at Anita ay mahilig din sa musika.
 
 ##
-"Tulima, anong uri ng musika ang Iyong gusto?" tanong ni Carlos.
+"Tulima, anong uri ng musika ang iyong gusto?" tanong ni Carlos.
 
 ##
-"Mahilig ako sa western music, pero mashilig ko sa musika ng aking bansa, Ethiopia."
+"Mahilig ako sa western music, pero mas hilig ko ang musika ng aking bansa, Ethiopia."
 
 ##
-"Galing ako sa Columbia. Kaya salsa lamang ang aking pinakikingan. Ito ay mahusay para sa pagsasayaw," sabi ni Carlos.
+"Galing ako sa Columbia. Kaya salsa lamang ang aking pinakikinggan. Maganda ito para sa pagsasayaw," sabi ni Carlos.
 
 ##
-Pahabol ni Anita, "Mahilig naman ako sa mga kantang romantiko at musika na nagpapasaya sa akin."
+Sabi ni Anita, "Mahilig naman ako sa mga kantang romantiko at musika na nagpapasaya sa akin."
 
 ##
-Anong uri ng musika ang iyong hilig?
+Anong uri ng musika ang iyong gusto?
 
 ##
 * License: CC BY

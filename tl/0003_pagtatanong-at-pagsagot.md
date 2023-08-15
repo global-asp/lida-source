@@ -1,28 +1,28 @@
-# Pagtanong at Pagsagot
+# Pagtatanong at Pagsagot
 
 ##
-"Pwede bang makuha ang isang iyon, po?"
+"Gusto ko po iyon."
 
 ##
-"Meyron po ba kayong...?"
+"Mayroon ka bang…?"
 
 ##
-"Pwede po ba akong maki-upo dito?"
+"Pwede po ba ako umupo dito?"
 
 ##
 "Pwedeng pwede."
 
 ##
-"Gusto mo ba nito?"
+"Gusto mo ba ng mga ito?"
 
 ##
-"Opo!"
+"Oo!"
 
 ##
-"Pwede ko bang tingan iyan, po?"
+"Pwede ko bang makita iyon?"
 
 ##
-"Ito na po."
+"Nandito ka na."
 
 ##
 * License: CC BY-NC-SA

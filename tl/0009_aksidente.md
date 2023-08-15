@@ -1,49 +1,49 @@
 # Aksidente
 
 ##
-Nagmamaneho si Carlos sa kanyang scooter. Pinapatakbo niya ito ng mabilis.
+Nagmamaneho si Carlos ng scooter. Pinapatakbo niya ito nang mabilis.
 
 ##
-Ngunit dahil may tubig ang kanyang dinadaanan, kaya ito naging madulas.
+May tubig sa kalsada. Madulas ang kalsada.
 
 ##
-Nawalan siya ng balanse at natumba!
+Nawalan siya ng kontrol sa scooter at nahulog.
 
 ##
-Nasaktan ng husto si Carlos.
+Masyadong nasaktan si Carlos.
 
 ##
-May Isang babaeng mabilis na tumawag ng ambulansya. "Dalian niyo, nagka-aksidente dito bilis!"
+Isang babaeng ang tumawag ng ambulansya. "May nangyaring aksidente. Pumunta kayo agad!"
 
 ##
-At ang ambulansya ay mabilis na dumating.
+Mabilis na dumating ang ambulansya.
 
 ##
-Binuhat si Carlos ng dalawang lalake at inilagay sa isang stretcher.
+Dalawang lalaki ang naglagay kay Carlos sa isang stretcher.
 
 ##
-Pinasok nila si Carlos sa ambulansya.
+Binuhat nila si Carlos papasok sa ambulansya.
 
 ##
-Ang ambulansya ay nagmaneho papunta sa ospital.
+Nagmaneho papunta sa ospital ang ambulansya.
 
 ##
-Dinala ng nars si Carlos sa ospital.
+Isang nars ang nagdala kay Carlos sa loob ng ospital.
 
 ##
-At siya ay ginamot.
+Ginamot siya.
 
 ##
-Nag-alala si Carlos dahil sa sobrang sakit na nadarama ng kanyang paa.
+Sobrang sakit ng binti ni Carlos, at nag-aalala siya.
 
 ##
-Inoperahan ng dalawang doktor ang kanyang paa.
+Inoperahan ng dalawang doktor ang kanyang binti.
 
 ##
-Binista siya ng kanyang mga magulang. Napatanong sila kung paano nangyare ang aksidente.
+Binisita siya ng kanyang mga magulang. Tinanong siya kung paano nangyari ang aksidente.
 
 ##
-Habang gamit ni Carlos ang saklay, sinamahan nila siyang umuwi sa bahay.
+Hinatid siya pauwi. Ginagamit ni Carlos ang saklay.
 
 ##
 * License: CC BY-NC-SA

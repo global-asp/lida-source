@@ -1,25 +1,25 @@
 # Pagbili ng Damit
 
 ##
-Maluma na ang kamiseta ni Ali. Kailangan niya ng Bago.
+Luma na ang kamiseta ni Ali. Kailangan niya ng bago.
 
 ##
-Pumunta siya sa shopping mall upang humanap ng bagong damit.
+Pumunta siya sa shopping mall para maghanap ng bagong damit.
 
 ##
-Ngunit wala siyang may nakitang bilihan ng damit.
+Sa shopping mall, hindi niya mahanap ang tindahan ng mga damit.
 
 ##
-Pumasok siya sa isang pamilihan at nagtanong ng mga direksyon. "Saan po ba ako makabili ng mga damit?" tanong niya.
+Pumasok siya sa isang tindahan para magtanong ng direksyon. "Saan ako pwedeng bumili ng mga damit?" tanong niya.
 
 ##
-Tinuru ng tindero sa kabilang banda ng mall. Ang pamilihan ng damit ay nada kabila!
+Tinuro ng tindero ang kabilang dulo ng mall. Ang tindahan ng mga damit ay nasa tapat!
 
 ##
-Pumasok si Ali sa loob at humanap ng kamiseta. Ang mga tamit ay napakalaki kumpara sa kaniya, at ang mahal ng presyo.
+Pumasok si Ali sa loob at humanap ng t-shirt. Ang mga t-shirt ay napakalaki para sa kaniya at medyo mahal din.
 
 ##
-Bumili na lang siya ng isang bagong pares ng pantalon dahil naka-sale ang mga ito. Sa susunod na sahod na lamang siya bibili ng bagong kamiseta.
+Bumili na lang siya ng isang bagong pares ng pantalon dahil naka-sale ang mga ito. Sa susunod na sahod na lamang siya bibili ng bagong t-shirt.
 
 ##
 * License: CC BY

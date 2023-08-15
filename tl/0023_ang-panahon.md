@@ -1,25 +1,25 @@
-# Ang panahon
+# Ang Panahon
 
 ##
-Ay maaraw.
+Maaraw.
 
 ##
-Ay maulap.
+Maulap.
 
 ##
-Ay umuulan.
+Umuulan.
 
 ##
-Ay mahangin.
+Mahangin.
 
 ##
-Ay nagniniyebe.
+Nagniniyebe.
 
 ##
-Ay magunaw.
+Maginaw.
 
 ##
-Ay mainit.
+Mainit.
 
 ##
 * License: CC BY

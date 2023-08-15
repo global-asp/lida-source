@@ -1,4 +1,4 @@
-# Papunta sa Trabaho
+# Pagpasok sa Trabaho
 
 ##
 Tumunog ang alarm. Oras na para bumangon.
@@ -7,7 +7,7 @@ Tumunog ang alarm. Oras na para bumangon.
 Bumangon siya.
 
 ##
-Pumunta siya sa palikuran.
+Pumunta siya sa banyo.
 
 ##
 Nagsipilyo siya ng kanyang ngipin.
@@ -16,25 +16,25 @@ Nagsipilyo siya ng kanyang ngipin.
 Nagbanlaw siya ng bibig.
 
 ##
-Siya ay naligo at hinugasan ang kanyang buhok.
+Naligo siya at hinugasan ang kanyang buhok.
 
 ##
-Tinutuyo niya ang kanyang sarili gamit ng tuwalya.
+Pinapahiran niya ang kaniyang sarili ng tuwalya.
 
 ##
-Siya ay bumihis. Sumuot siya ng palda at blouse.
+Nagbihis siya. Nagsuot siya ng palda at blouse.
 
 ##
 Kinuha niya ang kanyang bag.
 
 ##
-Kinuha niya ang kanyang bag at umalis papuntang trabaho.
+Kinuha niya ang kanyang bag at lumabas papuntang trabaho.
 
 ##
-Naglakad papunta sa trabaho.
+Naglakad siya papunta sa trabaho.
 
 ##
-Dumating siya sa kanyang trabaho. Siya ay tumatrabaho sa opisina.
+Nakarating siya sa trabaho. Nagtatrabaho siya sa opisina.
 
 ##
 * License: CC BY-NC-SA

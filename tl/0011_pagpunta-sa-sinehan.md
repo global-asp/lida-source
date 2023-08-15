@@ -1,37 +1,37 @@
-# Papunta sa Sinehan
+# Pagpunta sa Sinehan
 
 ##
-Naghanap si Mai ng mga pelikulang pwedeng mapanuod. Dahil gusto niyang pumunta sa sinehan kasama ang kanyang matalik na kaibigan, si Lisa.
+Naghahanap si Mai ng isang pelikulang pwedeng panoorin. Gusto niyang pumunta sa sinehan kasama ang kanyang matalik na kaibigang si Lisa.
 
 ##
-Sumakay si Mai papunta sa sinehan gamit ng kanyang scooter. Napagkasunduan nilang magkita doon.
+Dinala ni Mai ang kanyang scooter papunta sa sinehan. Nagkasundo silang magkita doon.
 
 ##
-Binati nila ang isa't isa sa sinehan. Sabik na sabik na silang panoorin ang pelikula.
+Binati nila ang isa't isa sa sinehan. Sabik na sabik na silang mapanood ang pelikula.
 
 ##
-Si Mai ang bumili ng tiket nilang dalawa sa may counter ng tiket.
+Bumili si Mai ng mga tiket para sa kanilang dalawa sa may counter ng tiket.
 
 ##
-Bumili din siya ng malaking balde ng popcorn.
+Bumili rin siya ng malaking balde ng popcorn.
 
 ##
-Binitbit ni Lisa ang popcorn habang bumili si Mai ng dalawang bote ng soda.
+Kinuha ni Lisa ang popcorn habang bumibili si Mai ng dalawang bote ng soda.
 
 ##
-Pinakita nilang dalawa ang tiket sa tao bago sila tumuloy sa loob upang makapanood ng pelikula.
+Ipinakita nila ang kanilang mga tiket bago sila pumasok upang manood ng pelikula.
 
 ##
-Hinanap nila ang kanilang mga upuan. Madilim na sa loob dahil nagsimula na ang pelikula.
+Naghanap sila ng kanilang mga upuan. Madilim sa loob dahil nagsimula na ang pelikula.
 
 ##
 Umupo sila para manood ang pelikula.
 
 ##
-Ang pelikula ay tungkol sa pagmamahal, ito ay kanilang paburitong uri.
+Isang romantikong pelikula ito. Ito ang paboritong uri nila.
 
 ##
-Pagkatapos ng pelikula nagpaalam sila sa isa't isa at umuwi.
+Pagkatapos ng pelikula, nagpaalam sila at uuwi na.
 
 ##
 * License: CC BY-NC-SA
