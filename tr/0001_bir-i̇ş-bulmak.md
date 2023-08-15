@@ -1,34 +1,34 @@
-# Bir iş bulmak
+# Bir İş Bulmak
 
 ##
-Alisha'nın bir işe girmesi gerekiyor çünkü ailesinin yemek ve kıyafet alabilmek için paraya ihtiyacı var.
+Alisha'nın bir iş bulması gerekiyor çünkü ailesinin yemek ve kıyafet alabilmek için paraya ihtiyacı var.
 
 ##
-Alisha kendi ülkesindeyken hiç çalışmamıştı ancak yemek yapmakta ve insanlarla iletişim kurmakta iyiydi.
+Alisha kendi ülkesindeyken hiç çalışmamıştı fakat güzel yemekler yapabiliyor ve insanlarla konuşmaktan keyif alıyor.
 
 ##
-Belki bir restoranda çalışabilirdi? Alisha internetteki iş ilanlarını araştırmaya başlıyor.
+Belki de bir restoranda çalışabilirdi? Alisha internetteki iş ilanlarını araştırmaya başladı.
 
 ##
-Şef arayan bir iş ilanı buluyor. Şefler restoranlarda yemek pişiren kişilerdir.
+Karşısına "Şef Aranıyor" yazan bir iş ilanı çıktı. Eğer işe kabul edilirse bu bir restoranda yemek pişireceği anlamına geliyordu.
 
 ##
-Restorana iş görüşmesi için gidiyor. Restoran müdürü ona şef olmak için eğitim almış birini aradıklarını söylüyor.
+Restorana iş görüşmesi için gittiğinde, restoran müdürü ona şef olmak için eğitim almış birini aradıklarını söylüyor.
 
 ##
-Alisha hayal kırıklığına uğruyor ancak, "Yemek ve misafirperverlik" isimli bir kurs almaya başlıyor. Bu kursun ona bir restoranda iş bulmak için yardımcı olacağını umuyor.
+Alisha hayal kırıklığına uğruyor ancak, "Yemek ve Misafirperverlik" isimli bir kursa gitmeye başlıyor. Bu kursun ona bir restoranda iş bulabilmek için yardımcı olacağını umuyor.
 
 ##
-Alisha'nın eğitiminin bir parçası olarak bir restoranda çalışması gerekiyor. Çalıştığı için para almıyor ama iş deneyimi kazanıyor.
+Alisha'nın eğitiminin bir parçası olarak bir restoranda çalışması gerekiyor. Çalıştığı için para almıyor fakat iş deneyimi elde etmiş oluyor.
 
 ##
-Aldığı kursun detaylarını özgeçmişine ekliyor. Özgeçmiş, daha önce yaptığı işleri ve aldığı kursları yazdığı bir belgedir.
+Böylece Kursun detaylarını özgeçmişine eklemiş oluyor. Özgeçmiş, daha önce yaptığı işlerin ve gittiği kursların yer aldığı bir belge.
 
 ##
-Alisha bir sonraki iş görüşmesine gittiğinde ona bir iş teklif ediliyor. Bu iş biraz zor ve çoğunlukla akşamları çocukları okuldan döndüğünde çalışması gerekiyor.
+Alisha bir sonraki iş görüşmesine gittiğinde restoranda bir iş teklifi alıyor. Bu iş biraz zor ve çocukları okuldan döndüğünde, yani genellikle akşamları çalışması gerekiyor.
 
 ##
-En sonunda ailesine kendi kazandığı parayla yemek ve kıyafet alabileceği bir işe girdiği için kendiyle gurur duyuyor.
+Sonunda ailesine kendi kazandığı parayla yemek ve kıyafet alabileceği bir işe girdiği için kendisiyle gurur duyuyor.
 
 ##
 * License: CC BY

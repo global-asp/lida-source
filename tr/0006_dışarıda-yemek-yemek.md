@@ -1,10 +1,10 @@
-# Dışarıda yemek yemek
+# Dışarıda Yemek Yemek
 
 ##
-Kip noodle yemek istiyor.
+Kip'in canı noodle yemek istiyor.
 
 ##
-Kip bir arkadaşından eşlik etmesini istiyor.
+Kip bir arkadaşından kendisine eşlik etmesini rica ediyor.
 
 ##
 Yemek için bir yer arıyorlar.
@@ -16,7 +16,7 @@ Noodle satan bir yer buluyorlar.
 Kip ve arkadaşı bir masa buluyorlar.
 
 ##
-Oturuyorlar ve garsonu çağırıyorlar.
+Oturuyor ve garsonu çağırıyorlar.
 
 ##
 Garson geliyor. Kip noodle sipariş ediyor.
@@ -25,19 +25,19 @@ Garson geliyor. Kip noodle sipariş ediyor.
 Arkadaşı da noodle sipariş ediyor.
 
 ##
-İkisi de bir bardak su alıyor.
+İkisi de birer bardak su alıyor.
 
 ##
 Garson yemekleri getiriyor.
 
 ##
-Sos ile tuz ekliyorlar ve karıştırıyorlar.
+Noodle'ye sos ile tuz ekleyip karıştırıyorlar.
 
 ##
-Kip ve arkadaşı yemeklerini yiyorlar. Çok lezzetliler.
+Kip ve arkadaşı yemeklerini yiyorlar. Yemekleri leziz.
 
 ##
-Kip suyunu içiyor.
+O suyunu içiyor.
 
 ##
 Hesabı ödüyorlar.

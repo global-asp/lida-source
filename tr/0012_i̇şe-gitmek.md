@@ -1,4 +1,4 @@
-# İşe gitmek
+# İşe Gitmek
 
 ##
 Alarm çalıyor. Kalkma zamanı.
@@ -19,10 +19,10 @@ Ağzını çalkalıyor.
 Duş alıyor ve saçlarını yıkıyor.
 
 ##
-Vücudunu havluyla kuruluyor.
+Havluyla kurulanıyor.
 
 ##
-Giysilerini giyiyor. Bir etek ve bir bluz giyiyor.
+Üstünü giyiniyor. Bir etek ve bir bluz giyiyor.
 
 ##
 Çantasını alıyor.
@@ -34,7 +34,7 @@ Giysilerini giyiyor. Bir etek ve bir bluz giyiyor.
 İşe yürüyerek gidiyor.
 
 ##
-İş yerine varıyor. Bir ofiste çalışıyor.
+İş yerine varıyor. O, bir ofiste çalışıyor.
 
 ##
 * License: CC BY-NC-SA

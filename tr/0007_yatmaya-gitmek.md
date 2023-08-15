@@ -1,10 +1,10 @@
-# Yatağa gitmek
+# Yatmaya Gitmek
 
 ##
 O çok yorgun.
 
 ##
-Yatağa gitme vakti geldi.
+Yatmaya gitme vakti geldi.
 
 ##
 Banyoya gidiyor.

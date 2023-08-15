@@ -1,7 +1,7 @@
-# İlaç almak
+# İlaç Almak
 
 ##
-Tom'un dişi ağrıyor.
+Tom'un diş ağrısı var. Dişi çok ağrıyor.
 
 ##
 Dişçiye gitmesi gerekiyor ama önce acıyı dindirmek için bir şeye ihtiyacı var.
@@ -10,25 +10,25 @@ Dişçiye gitmesi gerekiyor ama önce acıyı dindirmek için bir şeye ihtiyac�
 Arabayla en yakın eczaneye gidiyor.
 
 ##
-"Dişim ağrıyor." diyor. "Bunun için bir şeyiniz var mı?"
+"Dişim ağrıyor. Bunun için bir şeyiniz var mı?" diyor.
 
 ##
-"Evet, işte ağrı kesici. Bunun için bir reçeteye ihtiyacın yok."
+"Evet, bu ağrı kesicileri alabilirsiniz. Bu ilaçlar için bir reçeteye ihtiyacınız yok."
 
 ##
 "Teşekkür ederim. Ne kadar tutuyor?"
 
 ##
-"9 euro tutuyor. Ama bir dişçiye görünmelisin."
+"9 avro tutuyor. Ama bir dişçiye görünmelisiniz."
 
 ##
 "Tamam, diş doktorumu yarın sabah arayacağım."
 
 ##
-"Eğer daha güçlü bir ilaca ihtiyacın olursa, diş doktorundan veya başka bir doktordan reçeteye ihtiyacın olacak."
+"Eğer daha güçlü bir ilaca ihtiyacınız olursa diş doktorunuzdan veya başka bir doktordan reçeteye ihtiyacınız olacak."
 
 ##
-"Teşekkür ederim! Görüşmek üzere."
+"Teşekkür ederim! Hoşça kalın."
 
 ##
 * License: CC BY

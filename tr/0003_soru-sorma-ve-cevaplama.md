@@ -1,7 +1,7 @@
-# Sormak ve cevaplamak
+# Soru Sorma ve Cevaplama
 
 ##
-"Onu alabilir miyim, lütfen?"
+"Şundan alabilir miyim, lütfen?"
 
 ##
 "... var mı?"
@@ -19,10 +19,10 @@
 "Evet, lütfen!"
 
 ##
-"Ona bakabilir miyim, lütfen?"
+"Şuna bakabilir miyim, lütfen?"
 
 ##
-"İşte burada."
+"Al bakalım."
 
 ##
 * License: CC BY-NC-SA

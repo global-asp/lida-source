@@ -1,4 +1,4 @@
-# Temiz ve hazır
+# Temiz ve Hazır
 
 ##
 Ellerini yıkıyor.

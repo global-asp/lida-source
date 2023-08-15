@@ -10,7 +10,7 @@ Hava bulutlu.
 Yağmur yağıyor.
 
 ##
-Hava rüzgarlı.
+Hava rüzgârlı.
 
 ##
 Kar yağıyor.

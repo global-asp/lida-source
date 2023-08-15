@@ -19,7 +19,7 @@ Karımın ismi Mona.
 Oğlum beş yaşında.
 
 ##
-Kızımsa sadece iki yaşında.
+Kızım sadece iki yaşında.
 
 ##
 * License: CC BY

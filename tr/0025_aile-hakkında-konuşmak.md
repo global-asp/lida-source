@@ -1,4 +1,4 @@
-# Aile hakkında konuşmak
+# Aile Hakkında Konuşmak
 
 ##
 "Ailen var mı?"

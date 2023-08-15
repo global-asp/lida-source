@@ -1,4 +1,4 @@
-# Bir çok şey yapabilirim
+# Birçok Şey Yapabilirim
 
 ##
 Yemek yapabilirim.

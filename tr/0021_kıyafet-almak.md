@@ -1,10 +1,10 @@
-# Kıyafet satın almak
+# Kıyafet Almak
 
 ##
 Ali'nin gömleği eskimiş. Yeni bir tanesine ihtiyacı var.
 
 ##
-Yeni kıyafetler bakmak için alışveriş merkezine gidiyor.
+Kendisine yeni kıyafetler bakmak için alışveriş merkezine gidiyor.
 
 ##
 Alışveriş merkezinde giyim mağazasını bulamıyor.
@@ -19,7 +19,7 @@ Satıcı alışveriş merkezinin diğer tarafını işaret ediyor. Giyim mağaza
 Ali mağazaya giriyor ve bir gömlek bakıyor. Gömlekler onun için çok büyük ve biraz pahalı.
 
 ##
-İndirimde olduğu için onun yerine yeni bir pantolon alıyor. Gelecek ay maaşını aldığında yeni bir gömlek almaya karar veriyor.
+İndirimde olduğu için gömlek yerine yeni bir pantolon alıyor. Gelecek ay maaşını aldığında yeni bir gömlek almaya karar veriyor.
 
 ##
 * License: CC BY

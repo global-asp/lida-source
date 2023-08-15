@@ -1,28 +1,28 @@
-# Sinemaya gitmek
+# Sinemaya Gitmek
 
 ##
-Mai seyretmek için filmlere bakıyor. En yakın arkadaşı Lisa ile sinemaya gitmek istiyor.
+Mai bir şeyler seyretmek için filmlere bakıyor. En yakın arkadaşı Lisa ile sinemaya gitmek istiyor.
 
 ##
-Arkadaşı ile orada buluşmaya karar veriyorlar ve Mai küçük motosikletiyle sinemaya gidiyor.
+Arkadaşı ile orada buluşmaya karar veriyorlar ve Mai skuteriyle sinemaya gitmek için yola koyuluyor.
 
 ##
-Sinemada selamlaşıyorlar. Filmi izlemek için çok heyecanlılar.
+Sinemada buluşuyorlar. Film için çok heyecanlılar.
 
 ##
 Mai gişeden ikisi için de bilet satın alıyor.
 
 ##
-Ayrıca kocaman bir kova mısır da alıyor.
+Ayrıca koca bir kova mısır da alıyor.
 
 ##
-Mai iki şişe gazoz alırken, Lisa da mısırı tutuyor.
+Mai iki şişe gazoz alırken Lisa da mısırı tutuyor.
 
 ##
-Filmi izlemek için sinema salonuna girerken biletlerini gösteriyorlar.
+Film için sinema salonuna girerken biletlerini gösteriyorlar.
 
 ##
-Film başladığı için sinema salonu karanlık. Koltuklarını arıyorlar.
+Film çoktan başladığı için sinema salonu karanlık. Koltuklarını arıyorlar.
 
 ##
 Koltuklarına oturup filmi izlemeye başlıyorlar.
@@ -31,7 +31,7 @@ Koltuklarına oturup filmi izlemeye başlıyorlar.
 Onların da en sevdiği tür olan romantik bir film izliyorlar.
 
 ##
-Film bittikten sonra vedalaşıp evlerine gidiyorlar.
+Film bittikten sonra vedalaşıp evlerine dönüyorlar.
 
 ##
 * License: CC BY-NC-SA

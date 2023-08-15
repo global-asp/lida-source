@@ -1,4 +1,4 @@
-# Kafeye gitmek
+# Kafeye Gitmek
 
 ##
 Boran ve kızı yürüyüş yapıyorlar.
@@ -7,22 +7,22 @@ Boran ve kızı yürüyüş yapıyorlar.
 Bir kafeye gidiyorlar ve içeri giriyorlar.
 
 ##
-Kafede, garson onlara bir masayı gösteriyor.
+Kafede garson onları bir masaya yönlendiriyor.
 
 ##
 Boran bir kahve sipariş ediyor.
 
 ##
-Kızı ise bir kola sipariş ediyor.
+Kızı ise bir gazoz sipariş ediyor.
 
 ##
 Garson siparişlerini getiriyor.
 
 ##
-Kolayı bir bardağa dolduruyor.
+Gazozu bir bardağa dolduruyor.
 
 ##
-Kızı kolayı içiyor.
+Kızı gazozunu içiyor.
 
 ##
 Boran kahvesine şeker koyuyor.

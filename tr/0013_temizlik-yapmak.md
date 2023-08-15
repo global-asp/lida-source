@@ -1,13 +1,13 @@
-# Temizlik yapmak
+# Temizlik Yapmak
 
 ##
-Öncelikle, yeri süpürgeyle süpürüyor.
+Önce yeri süpürgeyle bir süpürüyor.
 
 ##
-Sonrasında elektrikli süpürgeyi kullanıyor.. Elektrikli süpürge daha iyi temizliyor.
+Sonrasında ise elektrikli süpürgeyi kullanıyor. Elektrikli süpürge daha iyi temizliyor.
 
 ##
-Ondan sonra bir kova su ve paspası alıyor.
+Ondan sonra bir kova su ile paspası alıyor.
 
 ##
 Yerleri siliyor.
@@ -19,10 +19,10 @@ Yerleri siliyor.
 Çöpleri atıyor.
 
 ##
-Bir çift eldivene, bir süngere ve biraz temizleyiciye ihtiyacı var.
+Bir çift eldivene, bir süngere ve biraz da temizlik ürününe ihtiyacı var.
 
 ##
-Yerdeki kirli bir yeri sünger ve biraz temizleyiciyle ovuyor.
+Yerdeki kirli bir yeri sünger ve temizlik ürünüyle ovuyor.
 
 ##
 Sonra camı siliyor.
@@ -31,7 +31,7 @@ Sonra camı siliyor.
 Oturma odası çok dağınık.
 
 ##
-Oturma odasını topluyor. Şimdi temiz ve güzel.
+Oturma odasını topluyor. İşte şimdi temiz ve güzel oldu.
 
 ##
 * License: CC BY-NC-SA

@@ -1,25 +1,25 @@
 # Yemek
 
 ##
-Pizza yiyor. Çok lezzetli.
+O lezzetli bir pizza yiyor.
 
 ##
-Tavuk yiyor. Tadı baharatlı.
+O baharatlı bir tavuk yiyor.
 
 ##
 O her gün pilav yiyor.
 
 ##
-Sebze yemeyi seviyor.
+O sebze yemeyi seviyor.
 
 ##
-Hiç et yemiyor. O bir vejetaryan.
+Hiç et yemiyor. O bir vejetaryen.
 
 ##
-Yer fıstığı yemiyor çünkü alerjisi var.
+O yer fıstığı yemiyor çünkü alerjisi var.
 
 ##
-Yemek pişiriyorlar. Çok güzel kokuyor.
+Yemek pişiriyorlar. Çok güzel kokuyor!
 
 ##
 * License: CC BY

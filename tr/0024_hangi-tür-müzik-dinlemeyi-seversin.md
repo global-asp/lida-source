@@ -1,4 +1,4 @@
-# Hangi tür müzik dinlemeyi seversin?
+# Hangi Tür Müzik Dinlemeyi Seversin?
 
 ##
 Tulima müziğe bayılır. Her gün müzik dinler.
@@ -10,13 +10,13 @@ Arkadaşları Carlos ve Anita da müzik dinlemeyi çok sever.
 Carlos, "Tulima, hangi tür müzik dinlemeyi seversin?" diye soruyor.
 
 ##
-"Batı müziği dinlemeyi seviyorum ama ülkem Etiyopya'ya ait müzikleri dinlemeyi tercih ederim."
+"Batı müziği dinlemeyi seviyorum ama ülkem Etiyopya'ya ait müzikleri dinlemeyi tercih ediyorum."
 
 ##
-Carlos, "Kolombiyalıyım. Sadece salsa dinliyorum. Dans etmek için harika." diyor.
+Carlos, "Ben Kolombiyalıyım. Sadece salsa müziği dinliyorum. Dans etmek için harika." diyor.
 
 ##
-Anita ise, "Romantik müzik ve beni mutlu eden müzikleri dinlemeyi seviyorum." diyor.
+Anita ise, "Romantik şarkıları ve beni mutlu eden müzikleri dinlemeyi seviyorum," diye cevaplıyor.
 
 ##
 Sen hangi tür müzik dinlemeyi seversin?

@@ -1,4 +1,4 @@
-# Ne yapıyorlar?
+# Ne Yapıyorlar?
 
 ##
 Konuşuyorum.
@@ -13,7 +13,7 @@ Yazı yazıyor.
 Uyuyor.
 
 ##
-Mama yiyor.
+Yemek yiyor.
 
 ##
 Okuyoruz.
