@@ -22,12 +22,11 @@ Umiem śpiewać.
 Umiem opiekować się dziećmi.
 
 ##
-Umiem śmiać się!
+Umiem się śmiać!
 
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Selma Buer Hanstad
 * Translation: Agnieszka
-
 * Language: pl

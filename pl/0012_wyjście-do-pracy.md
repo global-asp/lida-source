@@ -4,7 +4,7 @@
 Budzik dzwoni. Czas wstawać.
 
 ##
-Kobieta wstaje z łóżka.
+Ona wstaje z łóżka.
 
 ##
 Idzie do łazienki.
@@ -34,7 +34,7 @@ Bierze swoją torebkę i wychodzi do pracy.
 Idzie do pracy.
 
 ##
-Przychodzi do swojej pracy do biura.
+Przychodzi do swojej pracy. Pracuje w biurze.
 
 ##
 * License: CC BY-NC-SA

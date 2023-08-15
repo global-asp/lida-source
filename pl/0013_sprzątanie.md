@@ -1,13 +1,13 @@
 # Sprzątanie
 
 ##
-Najpierw, mężczyzna zamiata podłogę miotłą.
+Najpierw, on zamiata podłogę miotłą.
 
 ##
 Potem odkurza. Odkurzacz działa sprawnie.
 
 ##
-Następnie bierze wiadro z wodą i mopa.
+Następnie bierze wiadro z wodą i mop.
 
 ##
 Myje podłogę przy pomocy mopa.
@@ -31,7 +31,7 @@ Potem myje okno.
 W jego salonie panuje duży bałagan.
 
 ##
-Mężczyzna posprzątał salon. Teraz jest przyjemny i czysty.
+On posprzątał salon. Teraz jest przyjemny i czysty.
 
 ##
 * License: CC BY-NC-SA

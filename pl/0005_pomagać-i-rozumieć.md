@@ -7,7 +7,7 @@
 "Nie wiem."
 
 ##
-" Gdzie jest...?"
+"Gdzie jest...?"
 
 ##
 "W tą stronę."
@@ -16,7 +16,7 @@
 "Nie rozumiem."
 
 ##
-"Czy to jest dobrze?" "Tak"
+"Czy to jest dobrze?" "Tak."
 
 ##
 "Czy to jest dobrze?" "Nie."

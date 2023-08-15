@@ -10,25 +10,25 @@ Musi udać się do dentysty, ale najpierw potrzebuje czegoś przeciwbólowego.
 Jedzie do najbliższej apteki.
 
 ##
-"Boli mnie ząb" - mówi. " "Czy ma pani coś na to?"
+"Boli mnie ząb." - mówi. "Czy ma pani coś na to?"
 
 ##
-"Tak, środki przeciwbólowe. Nie potrzebuje pan na nie recepty".
+"Tak, środki przeciwbólowe. Nie potrzebuje pan na nie recepty."
 
 ##
 "Dziękuję. Ile kosztują?"
 
 ##
-"Dziewięć euro, ale powinien pan umówić się na wizytę do dentysty".
+"Dziewięć euro, ale powinien pan umówić się na wizytę do dentysty."
 
 ##
-"Dobrze, zadzwonię do mojego dentysty jutro rano".
+"Dobrze, zadzwonię do mojego dentysty jutro rano."
 
 ##
-"Jeśli potrzebuje pan silniejszego leku, musisz otrzymać receptę od dentysty lub lekarza".
+"Jeśli potrzebuje pan silniejszego leku, musi pan otrzymać receptę od dentysty lub lekarza."
 
 ##
-"Dziękuję! Do widzenia".
+"Dziękuję! Do widzenia."
 
 ##
 * License: CC BY

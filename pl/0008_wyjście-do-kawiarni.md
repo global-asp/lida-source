@@ -1,7 +1,7 @@
 # Wyjście do kawiarni
 
 ##
-Boran i jego córka wychodzą na spacer.
+Boran i jego córka są na spacerze.
 
 ##
 Przychodzą do kawiarni i wchodzą do środka.

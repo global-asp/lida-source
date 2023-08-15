@@ -1,13 +1,13 @@
 # Uczucia
 
 ##
-"Boje się. "
+"Boje się."
 
 ##
 "Auuu!"
 
 ##
-Wszytko w porządku?
+"Wszystko w porządku?"
 
 ##
 "Boli mnie brzuch."

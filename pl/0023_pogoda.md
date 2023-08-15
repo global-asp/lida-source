@@ -4,7 +4,7 @@
 Jest słonecznie.
 
 ##
-Jest pochmurnie.
+Jest pochmurno.
 
 ##
 Pada deszcz.

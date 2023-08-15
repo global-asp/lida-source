@@ -1,10 +1,10 @@
-# Co robisz?
+# Co oni robią?
 
 ##
 Ja rozmawiam.
 
 ##
- Ty chodzisz.
+Ty chodzisz.
 
 ##
 On piszę.

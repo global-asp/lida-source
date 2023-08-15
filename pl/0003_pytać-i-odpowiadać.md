@@ -16,13 +16,13 @@
 "Czy chciałabyś trochę tego?"
 
 ##
-" Tak, poproszę?"
+"Tak, poproszę!"
 
 ##
-" Czy mogę zobaczyć tamtą?"
+"Czy mogę zobaczyć tamtą?"
 
 ##
-"Prosze bardzo."
+"Proszę bardzo."
 
 ##
 * License: CC BY-NC-SA

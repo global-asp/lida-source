@@ -13,10 +13,10 @@ On codziennie je ryż.
 Ona lubi warzywa.
 
 ##
-Ona nie je mięsa. Ona jest wegetarianką.
+Ona nie je mięsa. Jest wegetarianką.
 
 ##
-On nie je orzechów. On ma uczulenia na nie.
+On nie je orzechów. Ma na nie uczulenie.
 
 ##
 Oni gotują. To dobrze pachnie!

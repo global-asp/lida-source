@@ -13,7 +13,7 @@ Julia dobrze zaaklimatyzowała się w nowym domu i zaczęła pracować jako sprz
 Pewnego dnia zaczął krzyczeć na Julię. Potem zaczął ją popychać. Krzyki i bicie nasiliły się, zwłaszcza gdy był pijany. Julia bała się o siebie i swoją córkę, ale nie miała pojęcia, co może zrobić.
 
 ##
-Kiedy Julia musiała w końcu udać się na pogotowie ze złamaną ręką, powiedziano jej, że przemoc domowa jest ogromnym problemem w Portugalii. Powiedzieli również, że jest to przestępstwo i powinna zgłosić swoją sytuację na policję.
+Kiedy Julia musiała w końcu udać się na pogotowie ze złamaną ręką, powiedziano jej, że przemoc domowa jest ogromnym problemem w Portugalii. Powiedzieli również, że jest to przestępstwo i powinna zgłosić swoją sytuację policji.
 
 ##
 Julia była wyczerpana i nie chciała, aby jej córeczka dorastała w domu, w którym codziennie była świadkiem przemocy. Julia zdała sobie sprawę, że oznaki znęcania się nad nią były widoczne przez cały czas, nawet jeśli przybierały różne formy.

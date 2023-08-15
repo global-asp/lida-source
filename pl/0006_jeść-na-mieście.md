@@ -1,4 +1,4 @@
-# Jedzenie na mieście
+# Jeść na mieście
 
 ##
 Kip ma ochotę na makaron.
@@ -7,16 +7,16 @@ Kip ma ochotę na makaron.
 Kip zaprosił kolegę, żeby do niego dołączył.
 
 ##
-Oni szukali miejsca, żeby zjeść.
+Szukali miejsca, żeby zjeść.
 
 ##
-Oni znaleźli miejsce sprzedające makaron.
+Oni znaleźli miejsce gdzie sprzedają makaron.
 
 ##
 Kip z kolegą znaleźli stolik.
 
 ##
-Oni usiedli i zawołali kelnera.
+Usiedli i zawołali kelnera.
 
 ##
 Kelner podszedł. Kip zamówił makaron.
@@ -25,7 +25,7 @@ Kelner podszedł. Kip zamówił makaron.
 Jego kolega też zamówił makaron.
 
 ##
-Oni zamówili także szklankę wody.
+Obydwoje zamówili szklankę wody.
 
 ##
 Kelner przyniósł jedzenie.

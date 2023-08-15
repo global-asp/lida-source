@@ -1,31 +1,31 @@
 # Czysty i gotowy
 
 ##
-On myję ręce.
+On myje ręce.
 
 ##
-On myję twarz
+Myje twarz.
 
 ##
-On myję zęby.
+Myje zęby.
 
 ##
-On się goli.
+Goli się.
 
 ##
-On bierze prysznic.
+Bierze prysznic.
 
 ##
-On myję włosy.
+Myje włosy.
 
 ##
-On się osłusza.
+Osusza się.
 
 ##
-On czeszę włosy.
+Czesze włosy.
 
 ##
-On obcina paznokcie.
+Obcina paznokcie.
 
 ##
 * License: CC BY-NC-SA

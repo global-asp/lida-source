@@ -10,7 +10,7 @@ Czas kłaść się spać.
 On idzie do łazienki.
 
 ##
-Myję zęby.
+Myje zęby.
 
 ##
 Idzie do sypialni.

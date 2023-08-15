@@ -4,16 +4,16 @@
 "Hej!" "Cześć!"
 
 ##
-"Pa!" " Do widzenia!"
+"Pa!" "Do widzenia!"
 
 ##
-" To jest Kama."
+"To jest Kama."
 
 ##
 "Hej, Jestem Kama." "Miło mi Cię poznać, Kama."
 
 ##
-" Telefon dzwoni."
+"Telefon dzwoni."
 
 ##
 "Dzień dobry."
@@ -22,7 +22,7 @@
 "Cześć, tu Sara."
 
 ##
-" Rozłącza się."
+On się rozłącza.
 
 ##
 "Witam!"
@@ -37,13 +37,13 @@
 "Nie ma problemu."
 
 ##
-"Przepraszam"
+"Przepraszam."
 
 ##
-"Chwileczkę, prosżę zaczekać"
+"Chwileczkę, proszę zaczekać."
 
 ##
-" To jest Ali." "To jest Leila."
+"To jest Ali." "To jest Leila."
 
 ##
 * License: CC BY-NC-SA

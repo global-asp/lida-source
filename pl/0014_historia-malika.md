@@ -16,13 +16,13 @@ Szedłem przez wiele kilometrów. Czasem nie miałem jedzenia i gdzie się zatrz
 Wreszcie dotarłem. Spotkałem kilku ludzi z mojego kraju, którzy mi pomogli. Nie wiem co bym bez nich zrobił.
 
 ##
-Zacząłem się uczyć języka, ale był to trudne. Wiedziałem, że rozmawianie w tym języku jest ważne, aby dostać pracę.
+Zacząłem się uczyć języka, ale było to trudne. Wiedziałem, że rozmawianie w tym języku jest ważne, aby dostać pracę.
 
 ##
-Uczyłem się przez wiele lat, na początku, aby poznać język. Było ciężko, ale lubię uczyć się nowy rzeczy.
+Uczyłem się przez wiele lat, na początku, aby poznać język. Było ciężko, ale lubię uczyć się nowych rzeczy.
 
 ##
-Po uczeniu się zacząłem pracę. Pierw pracowałem w restauracji, a potem zostałem nauczycielem, ponieważ chciałem pomagać innym.
+Po uczeniu się zacząłem pracę. Najpierw pracowałem w restauracji, a potem zostałem nauczycielem, ponieważ chciałem pomagać innym.
 
 ##
 Mam nadzieję, że pewnego dnia wrócę do Afganistanu. Wiele ludzi tam potrzebuję pomocy i chcę im pomóc.
