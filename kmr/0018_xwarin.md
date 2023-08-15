@@ -16,7 +16,7 @@ Ew ji zebzeyan hez dike.
 Ew goşt naxwe. Ew vejeteryan e.
 
 ##
-Ew fistiqan naxwe. Alerjiya wî ji wan re heye.
+Ew Ji xwarina fistiqan dûr dikeve. Alerjiya wî ji wan re heye.
 
 ##
 Ew xwarinê dipêjin. Bêhna xweş jê tê!

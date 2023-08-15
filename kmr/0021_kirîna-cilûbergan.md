@@ -4,22 +4,22 @@
 Kirasê Elî kevn e. Pêdiviya wî bi yekî nû heye.
 
 ##
-Ew diçe navenda danûstandinê da ku li cilên nû bigere.
+Ew diçe navendê da ku cîlen nû bikire.
 
 ##
-Li navenda danûstandinê ew nikare firoşgeha cilan peyda bike.
+Nikare firoşgeha cilan li navendê bibîne.
 
 ##
 Ew diçe nav firoşgehekê da ku navnîşanê bipirse. "Ez dikarim ji ku cilan bikirim?" ew dipirse.
 
 ##
-Firoşkar îşaret bi aliyê din ê navenda danûstandinê dike. Firoşgeha cilûbergan li aliyê hember e!
+Xwediyê dikanê bi îşaretan ber bi aliyê dijberê navendê ve diçe. Li aliyê din firoşgeha cilan e.
 
 ##
 Elî diçe hundir û li kirasekî digere. Kiras jê re pir mezin in û pir biha ne.
 
 ##
-Ew li şûna wî, pantolonekî nû dikire ji ber ku ew di erzaniyê de ne. Ew biryar dide ku ew ê di meha bê de kirasekî bikire dema ku ew meaşê xwe bistîne.
+Di şûna wê de, ji ber ku ew di firotanê de ne, ew pantorek nû dikire. Dema ku ew meaşê xwe distîne meha din, ew biryar dide ku kirasekî bikire.
 
 ##
 * License: CC BY

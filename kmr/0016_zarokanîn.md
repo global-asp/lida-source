@@ -1,35 +1,35 @@
 # Zarokanîn
 
 ##
-Selamawit 29 salî ye. Wê zaroka xwe ya yekem li Eritreyê anî dinyayê. Wê û malbata xwe li wir zehmetiyeke dijwar derbas kirin, ji ber vê yekê wan biryar da ku biçin Îtalyayê.
+Selamawit 29 salî ye. Wê zaroka xwe ya yekem li Eritreyê anî dinyayê. Wê û malbata xwe li wir demên dijwar derbas kirin, ji ber vê wan biryar da ku biçin Îtalyayê.
 
 ##
-Inga beriya ku bibe 19 salî mala xwe terikand. Ew çû Norwecê û zaroka xwe ya yekem li wir anî dinyayê.
+Inga beri ku bibe 19 salî mala xwe terikand. Ew çû Norwecê û zaroka xwe ya yekem li wir anî dinyayê.
 
 ##
-Dema ku Selamawit bi zaroka xwe ya duyemîn ducanî bû, wê meraq kir bê ka zarokanîna li welatekî din çawa ye.
+Dema ku Selamawit bi zaroka xwe ya duyemîn ducanî bû, wê meraq kir bû ka zarokanîna li welatekî din çawa ye.
 
 ##
-Selamawit û Inga xwedî rabirdûyên cuda ne. Selamawit xwe ewle hîs kir ji ber ku tecrûbeya wê ya zarokanînê hebû. Inga bi diya xwe re derbarê zarokanînê de axivî.
+Selamawit û Inga ji paşerojên cuda ne. Selamawit xwe pêbawer hîs kir ji ber ku tecrûbeya wê ya zarokanînê hebû. Inga bi diya xwe re derbarê zarokanînê de axivî.
 
 ##
-Her du jinan bihîstibû ku li piraniya welatên Ewropayê, mafê jinên ducanî heye ku lênêrîna berî zarokanînê wergirin. Ev tê wê wateyê ku ew ê di dema ducaniyê de alîkariyê bistînin. Selamawit çawa ku pê hesiya ku ew ducanî ye, ravdevûyekê ji bijîşkê xwe xwest. Hevserê Selamawit ew bir cem bijîşk.
+Herdu jinan bihîstibûn ku li geleki welatên Ewropayê mafê jinên ducanî heye ku lênêrîna berî zayînê werbigirin. Ev tê wê wateyê ku ew ê di dema ducaniyê de alîkariyê bistînin. Selamavît piştî ku zanî ku ew ducanî ye, bi doktorê xwe re hevdîtin pêk anî. Mêrê Selamawît ew bir doktor.
 
 ##
-Bijîşk hin test kirin û tê derxist ku bi Selamawitê re cureyekî nexweşiya şekir heye ku hin jinên ducanî pê dikevin. Ew neçar bû ku xwarinên tendurist bixwe û werzîşê bike. Selamawit kêfxweş bû ku ew zû çû cem bijîşk berî ku ew û pitika xwe nexweş bibin.
+Doktor hin test kirin û pê hesiyan ku celebek nexweşiya şekir a Selamavit heye ku hin jinên ducanî pê dikevin. Diviyabû bi tendurustî bixwe û werzîşê bikira. Selamavit ji ber ku ew û pitika xwe nexwesiyan zû biçûya cem doktor kêfxweş bû.
 
 ##
-Dema ku cîrana Inga bihîst ku ew hewl dide zarokekî bîne dinyayê, cîrana wê jê re got ku gava ew ducanî bû, bila demildest here bijîşk. Bi vî awayî ew dikare piştrast bike ku ew û zarokê wê tendurist in. Bijîşk jê re got bila folîk asîd bigire ku ji bo jinên ducanî vîtamîneke girîng e.
+Dema ku cîrana wê bihîst ku Înga hewl dide zarokek çêbike, cîrana wê jê re got ku her ku ew ducanî bû here doktor. Bi vî awayî, ew dikare piştrast bike ku ew û zarokê wî sax in. Doktor jê re got ku asîda folîk, vîtamînek ku ji bo jinên ducanî girîng e, bigire.
 
 ##
-Inga û bijîşkê wê li hev kirin ku ew ê di dema ducaniyê de ji bo kontrolên birêkûpêk bi pîrikekê re hevdîtinê bike. Pîrikê şîretên li ser xwarin û bêhnvedanê û agahiyên li ser çawaniya parastina xwe û pitika xwe dan wê.
+Inga û doktorê wê biryar dan ku di dema ducaniyê de, ji bo kontrolên rûtîn serdana pîrikekê bikin. Pîrikê şîretên xwe li ser tiştên ku bixwin, çawa têr razin, û çawa hem wê û hem jî zaroka wê ya ku ji dayik nebûye saxlem bihêle.
 
 ##
-Her du jinan jî zarokên tendurist anîn dinyayê. Kurekî din ê Selamawit çêbû, keçeke Inga çêbû. Hevserên wan pir serbilind bûn û wan ji her kesê nas re behsa jinên xwe yên bihêz û zarokên xwe yên tendurist dikir.
+Zarokên saxlem ji herdu dayikan çêbûn. Inga keçek bû, lê Selamawit kurek din hebû. Mêrên wan pir serbilind bûn û ji her kesê ku ew nas dikin re behsa jinên xwe yên bihêz û zarokên saxlem dikirin.
 
 ##
 * License: CC BY
-* Text: LIDA Norge
+* Text: LIDA Italia
 * Illustration: Sara Dorthea Johannesen
 * Translation: Hebûn Stembar
 * Language: kmr

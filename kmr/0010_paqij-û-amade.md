@@ -19,13 +19,13 @@ Ew avê li xwe dike.
 Ew porê xwe dişo.
 
 ##
-Ew xwe ziwa dike.
+Ew xwe zûha dike.
 
 ##
 Ew porê xwe şe dike.
 
 ##
-Ew neynûkên xwe jê dike.
+Ew neynûkên xwe dibire.
 
 ##
 * License: CC BY-NC-SA

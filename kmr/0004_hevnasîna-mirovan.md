@@ -1,31 +1,25 @@
 # Hevnasîna mirovan
 
 ##
-"Silav"
-
-"Merheba!"
+"Silav!" "Merheba!"
 
 ##
-"Bi xatirê te!"
-
-"Oxir be!"
+"Bi xatirê te!" "Oxir be!"
 
 ##
 "Ev Kama ye."
 
 ##
-"Silav, ez Kama."
-
-"Bi nasîna te kêfxweş bûm Kama."
+"Silav, ez Kama me." "Bi nasîna te kêfxweş bûm Kama."
 
 ##
-Telefon lê dixe.
+Telefon lêdixe.
 
 ##
 "Silav."
 
 ##
-"Silav, ez Sara."
+"Silav, ez Sara me."
 
 ##
 Ew telefonê digire.
@@ -40,18 +34,16 @@ Ew telefonê digire.
 "Bibore."
 
 ##
-"Ne pirsgirêk e."
+"Pirsgirêk tune."
 
 ##
-"Bibexşîne, ji kerema xwe."
+"Bibore, ji kerema xwe."
 
 ##
 "Kêliyekê bisekine, ji kerema xwe."
 
 ##
-"Ev Ali ye."
-
-"Ev Leila ye."
+"Ev Ali ye." "Ev Leyla ye."
 
 ##
 * License: CC BY-NC-SA

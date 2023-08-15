@@ -1,4 +1,4 @@
-# Paqijî
+# Paqijî kirn
 
 ##
 Pêşî, ew bi sivnikê erdê paqij dike.
@@ -19,10 +19,10 @@ Ew qutiya çopê vala dike û tûrikekî nû tê de bi cih dike.
 Ew çopê derdixe derve.
 
 ##
-Pêwîstiya wî bi lepikekî, sungêrekê û deterjanekê heye.
+Ew wî bi lepikekî, sungêrekê û deterjanekê hewce heye.
 
 ##
-Ew bi sungêrê û bi qismekî deterjanê cihekî qirêj ê erdê difirikîne.
+Ew bi sungêrê û bi qismekî deterjanê cihekî qirêj ê erdê paqîj dike.
 
 ##
 Paşê ew paceyê paqij dike.

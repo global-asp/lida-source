@@ -1,16 +1,16 @@
 # Çîroka Malik
 
 ##
-Navê min Malik e û ez 39 salî me. Ez li Afganistanê hatime dinyayê. Ola min ji ola sereke ya Afganistanê cuda ye.
+Navê min Malik e û ez 39 salî me. Ez li Afxanistanê hatime dinyayê. Ola min ji ola sereke ya Afxanistanê cuda ye.
 
 ##
-Bi salan e mirovên ku ji baweriya min in rastî zilmê tên. Ev ji bo malbata min pir zehmet bû.
+Gelek salan mirovên ku ji ola min; dihatin çewisandin. Ev ji bo malbata min pir zehmet bû.
 
 ##
 Çend sal berê li welatê min şer hebû. Ez ditirsiyam ku ez bêm kuştin. Min malbata xwe li wir hêla û ez çûm Ewropayê û min dest bi jiyaneke nû kir.
 
 ##
-Ez gelek kîlometreyan meşiyam. Carinan ne xwarina min hebû û ne jî cihê ku ez lê bimînim. Hin kesên ku min pê re rêwîtî dikir, mirin.
+Min gelek kîlometre li ser piyan derbas kir. Carinan cihê ku ez lê bimînim û xwarin tunebû. Hin kesên ku ez pê re geriyam mirin.
 
 ##
 Di dawiyê de ez gihîştim. Min hin kesên ji welatê xwe dîtin ku alîkariya min kirin. Ez nizanim bêyî wan min ê çi bikira.

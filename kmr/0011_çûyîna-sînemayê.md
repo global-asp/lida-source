@@ -1,34 +1,34 @@
 # Çûyîna sînemayê
 
 ##
-Mai li fîlmekî digere ji bo temaşekirinê. Ew dixwaze bi hevala xwe ya herî baş Lîsa re biçe sînemayê.
+Mai li fîlimek temaşe dike. Ew dixwaze bi Lisa, hevala wê ya herî baş re, serdana fîliman bike.
 
 ##
-Mai bi scootera xwe diçe sînemayê. Li hev kirine ku li wir hev bibînin.
+Mai li ser sıkutera xwe diçe şanoyê. Wan biryar da ku li wir bicivin.
 
 ##
-Li sînemayê silavê didin hev. Ew ji bo temaşekirina fîlm biheyecan in.
+Li sînemayê da li hev silavê didin. Ew ji bo temaşekirina fîlm biheyecan in.
 
 ##
-Mai ji bo xwe û hevala xwe bilêtan li firoşgeha bilêtan dikire.
+Mai ji bo xwe û hevala xwe bilêtan li jihe firoştina bilêtan dikire.
 
 ##
 Ew her wiha kîsikekî mezin ê gilgilên qelandî dikire.
 
 ##
-Lisa bi gilgilên qelandî digire dema ku Mai du şûşe sodayan dikire.
+Lisa gilgilên qelandî dibe o Mai du şûşe sodayan dikire.
 
 ##
 Beriya ku bikevin hundir ji bo temaşekirina fîlm, bilêtên xwe nîşan didin.
 
 ##
-Ew li paldankên xwe digerin. Hundir tarî ye ji ber ku fîlm dest pê kiriye.
+Ew li cihên xwe digerin. Hundir tarî ye ji ber ku fîlm dest pê kiriye.
 
 ##
 Ew rûdinin û li fîlm temaşe dikin.
 
 ##
-Fîlmekî romantîk e. Cureyê fîlman ê herî zêde jê hez dikin, ev e.
+Fîlmekî romantîk e. Ew celebê wan ê bijare ye.
 
 ##
 Piştî fîlm, xatir ji hev dixwazin û diçin malê.

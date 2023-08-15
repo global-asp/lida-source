@@ -7,7 +7,7 @@ Alarm lê dixe. Wextê şiyarbûnê ye.
 Ew ji xewê radibe.
 
 ##
-Ew diçe serşokê.
+Ew diçe hemamê.
 
 ##
 Ew diranên xwe firçe dike.
@@ -16,22 +16,22 @@ Ew diranên xwe firçe dike.
 Ew avê di devê xwe werdide.
 
 ##
-Ew avekê li xwe dike û porê xwe dişo.
+Piştî serşokê porê xwe şampuan dike.
 
 ##
-Ew bi pêjgîrekê xwe ziwa dike.
+Ew bi pêjgîrekê xwe zûha dike.
 
 ##
-Ew kincan li xwe dike. Ew dawekê û bluzekê li xwe dike.
+Ew cilanli xwe dike. Ew dawekê û bluzekê li xwe dike.
 
 ##
-Ew çenteyê xwe yê destan hildigire.
+Ew çenteyê xwe yê hildigire.
 
 ##
 Ew çenteyê xwe digire û diçe ser kar.
 
 ##
-Ew bi peyatî diçe kar.
+Ew bi peyatî diçe ser kar.
 
 ##
 Ew digihîje ser kar. Ew li ofîsekê dixebite.

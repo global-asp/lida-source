@@ -25,7 +25,7 @@ Tu guhdarî dikî.
 Ew otomobîlê diajon.
 
 ##
-Her hes tiştekî dike.
+Her kes tiştekî dike!
 
 ##
 * License: CC BY

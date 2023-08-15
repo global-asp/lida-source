@@ -4,7 +4,7 @@
 Êşa Tom a diran heye. Diranê wî pir diêşe.
 
 ##
-Pêdivî ye ku ew bijîşkê xwe yê diranan bibîne, lê pêşî jê re tiştek ji bo êşê hewce dike.
+Pêdivî ye ku ew doktore xwe yê diranan bibîne, lê pêşî jê re tiştek hewce dike ku êşê kêm bike.
 
 ##
 Bi erebeyê diçe dermanxaneya herî nêzîk.
@@ -19,13 +19,13 @@ Bi erebeyê diçe dermanxaneya herî nêzîk.
 "Spas dikim. Mesrefa wan çiqas e?"
 
 ##
-"Mesrefa wan neh euro ye. Lê divê hûn xwe nîşanî bîjîşkekî diranan bidin"
+"Bihayê wan neh euro ye. Lê divê hûn biçin serdana doktorek diranan."
 
 ##
-"Baş e, ez ê serê sibê telefonî bijîşkê xwe yê diranan bikim."
+"Baş e, ez ê serê sibê telefonî doktore xwe yê diranan bikim."
 
 ##
-"Heke hewcedariya we bi dermanekî bihêztir hebe, hewce dike ku hûn ji diransaz an bijîşkê xwe reçeteyekê bistînin."
+"Heke hûn hewceyê dermanek bêtir qewî bin hûn ê ji diranan an doktorê xwe reçeteyek hewce bikin."
 
 ##
 "Spas dikim! Bi xatirê we."

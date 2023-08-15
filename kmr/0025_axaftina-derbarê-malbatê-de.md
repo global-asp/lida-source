@@ -4,7 +4,7 @@
 "Malbata te heye?"
 
 ##
-"Belê, hevserê min û du keç û kurekî min hene."
+"Belê, mêrê min û du keç û kurekî min hene."
 
 ##
 "Du keçên min jî hene, lê min dev ji hevserê xwe berdaye."
@@ -19,7 +19,7 @@
 "Zarokên min hemû diçin dibistanê. Kurê min dê sala bê mezûn bibe."
 
 ##
-"Pir baş e! Ew zû mezin dibin. Dûre ew dixwaze çi bike?"
+"Ew pırxweş e! Ew qas zû mezin dibin. Ew dixwaze paşê çi bike?"
 
 ##
 "Ew dixwaze karekî peyda bike, lê ez jê re dibêjim divê li şûna wî biçe zanîngehê."
@@ -30,6 +30,6 @@
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
-* Illustration: n/a
+* Illustration: Billie Cejka Risnes
 * Translation: Hebûn Stembar
 * Language: kmr

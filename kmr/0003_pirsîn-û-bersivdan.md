@@ -1,13 +1,13 @@
 # Pirsîn û bersivdan
 
 ##
-"Ez vê dixwazim, ji kerema xwe."
+"Ji kerema xwe ez wê dixwazim."
 
 ##
 "Li cem we ... heye?"
 
 ##
-"Heke ez li vir rûnim bo we pirsgirêk e?"
+"Ma hûn nerazî ne ku ez li vir rûnim?"
 
 ##
 "Dê baş bibe."
@@ -19,10 +19,10 @@
 "Belê, ji kerema xwe!"
 
 ##
-"Gelo ez dikarim wê yekê bibînim, ji kerema xwe?"
+"Ez dikarim wê yekê bibînim, ji kerema xwe?"
 
 ##
-"Kerem bikin."
+"Kerem ke."
 
 ##
 * License: CC BY-NC-SA

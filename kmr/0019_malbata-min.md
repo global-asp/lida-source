@@ -10,7 +10,7 @@ Ev bavê min e.
 Ev dayîka min e.
 
 ##
-Navê hevsera min Mona ye.
+Navê jına min Mona ye.
 
 ##
 Du zarokên min hene.

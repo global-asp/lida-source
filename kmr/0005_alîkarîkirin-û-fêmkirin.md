@@ -7,36 +7,28 @@
 "Ez nizanim."
 
 ##
-"Li ku ye...?"
+"... li ku ye?"
 
 ##
-"Bi vê hêlê ve."
+"Bi vî awayî."
 
 ##
 "Ez fêm nakim."
 
 ##
-"Ev rast e?"
-
-"Belê."
+"Ev rast e?" "Belê."
 
 ##
-"Ev rast e?"
-
-"Na."
+"Ev rast e?" "Na."
 
 ##
 "Ez dikarim alîkariya te bikim?"
 
 ##
-"Hûn dikarin alîkariya min bikin, ji kerema xwe?"
-
-"Belê, helbet!"
+"Tu dikarin alîkariya min bikin, ji kerema xwe?" "Belê, helbet!"
 
 ##
-"Gelo ez dikarim vê bigirim, ji kerema xwe?"
-
-"Belê, helbet!"
+"Gelo ez dikarim vê bistînim, ji kerema xwe?" "Belê, helbet!"
 
 ##
 "Spas!"

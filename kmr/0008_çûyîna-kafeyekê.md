@@ -1,25 +1,25 @@
 # Çûyîna kafeyekê
 
 ##
-Boran û keça xwe derketine meşê.
+Boran û keça wî ji bo meşê derve ne.
 
 ##
 Ew tên kafeyekê û dikevin hundir.
 
 ##
-Di kafeyê de garson maseyekê nîşanî wan dide.
+Li qehwexaneyê garson maseyek nîşanî wan dide.
 
 ##
 Boran qehweyekê dixwaze.
 
 ##
-Keça wî sodayekê dixwaze.
+Keça wî sodayekê siparîş dike.
 
 ##
 Garson sparîşên wan tîne.
 
 ##
-Ew sodayê vala dike nav qedehekê.
+Ew sodayê tije dike qedehekê.
 
 ##
 Ew sodayê vedixwe.
@@ -37,7 +37,7 @@ Ew wê vedixwe.
 Boran li hesab dipirse.
 
 ##
-Ew pere dide garson.
+Ew heqê dide garson.
 
 ##
 Boran û keça xwe ji kafeyê derdikevin.

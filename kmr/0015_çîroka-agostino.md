@@ -13,20 +13,20 @@ Ez bi diya xwe re dijîm, ji ber ku piştî hevberdanê nikarim kirê bidim. Li 
 Min dît ku gelek kes bi bîsîkletê xwarinê belav dikin. Ez dikarim li bîsîkletê siwar bibim, ji ber vê yekê min li deriyê şîrketeke mezin a teslîmatê xist. Ji bo her teslîmkirinê sê euro pêşkêşî min kirin. Ez rojê 40 euroyan qezenc dikim, heke şansê min pir hebe û xerîdar bexşîşê bidin min, rojê 60 euroyan qezenc dikim.
 
 ##
-Ne betlaneya min a biheq, ne pereyê min ê nexweşiyê, hema bibêje tu mafê min tune ye. Ez nafikirim ku ev rast e, lê hewcedariya min bi kar heye. Piraniya xebatkarên din koçberên ji çar aliyên cîhanê ne.
+Ez betlaneya meaş nagirim, heqê nexweşiyê nagirim, hema hema tu mafên min tune. Ez nafikirim ku ev rast e lê ez hewceyê xebatê dikim. Gelekiya karkerên din ji çar aliyên cîhanê koçber in.
 
 ##
-Di qezayan de her roj gelek kesên teslîmkar birîndar dibin. Paşê, piştî ku otomobîlê li teslîmkarekî 25 salî xist û kuşt, rayedaran hêj nû em ferq kirin. Heyf e berî ku ev biqewime ew mir.
+Her roj gelek kesên teslîmkar di qezayan de birîndar dibin. Dûvre rayedaran dest bi ferqa me kirin dema ku teslîmkarekî 25 salî li wesayîtekê qelibî û mir. Heyf e ku berî ku ev yek biqewime bimire.
 
 ##
-Li gel kuryeyên ji şîrketên din, min li sendîkayeke herêmî kursek li ser mafên karkeran girt. Wan şêwirmendiya hiqûqî bê pere pêşkêşî me kirin. Ji bo ku em zêdetir werin naskirin û mafên xwe bi dest bixin, me têkoşînek da.
+Li gel kesên ku ji pargîdaniyên din şandin, ez beşdarî qursek mafên kedê li sendîkayek herêmî bûm. Wan şêwirmendiya hiqûqî ya be pare pêşkêşî me kirin. Ji bo ku em zêdetir nasname û mafên xwe bi dest bixin me têkoşîn kir.
 
 ##
-Piştî demeke dirêj hemû keda me bi ser ket. Şîrketeke mezin a teslîmatê neçar ma ku cezayekî mezin bide û karên daîmî bide karkeran. Yekem car bû ku bûyereke wiha li seranserê cîhanê diqewime. Wisa dixuyê ku tişt ber bi başbûnê ve diçin.
+Piştî demeke dirêj me berdêla hemû hewldanên xwe girt. Pargîdaniyek mezin a radestkirinê neçar ma ku cezayê giran bide û karên daîmî bide karkeran. Li her derê cîhanê cara yekem bû. Wusa diyare ku tişt dest bi başbûnê dikin.
 
 ##
 * License: CC BY
 * Text: LIDA Italia
-* Illustration: n/a
+* Illustration: Billie Cejka Risnes
 * Translation: Hebûn Stembar
 * Language: kmr

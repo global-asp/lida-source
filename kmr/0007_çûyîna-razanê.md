@@ -7,22 +7,22 @@ Ew gelekî westiyayî ye.
 Wextê razanê ye.
 
 ##
-Ew diçe banyoyê.
+Ew diçe hemamê.
 
 ##
 Ew diranên xwe firçe dike.
 
 ##
-Ew diçe jûra razanê.
+Ew diçe hundir razanê.
 
 ##
-Ew kincên xwe ji xwe dike.
+Ew cilên xwe ji xwe dike.
 
 ##
-Ew li ser nivînê rûdine.
+Ew li ser nivînê rûnit.
 
 ##
-Ew li televîzyonê temaşe dike.
+Ew TV temaşe dike.
 
 ##
 Ew televîzyonê digire.
