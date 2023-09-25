@@ -7,13 +7,13 @@ Unë quhem Malik dhe jam 39 vjeç. Kam lindur në Afganistan. Feja ime është e
 Për shumë vite, njerëzit që i përkasin fesë time janë persekutuar. Kjo ka qenë shumë e vështirë për familjen time.
 
 ##
-Para disa vitesh nisi një luftë. Unë kisha frikë se do të vritesha. E lash familjen time për të shkuar në Evropë dhe për të nisur një jetë të re.
+Para disa vitesh nisi një luftë. Unë kisha frikë se do të vritesha. E lashë familjen time për të shkuar në Evropë dhe për të nisur një jetë të re.
 
 ##
-Eca për shumë kilometra. Ndonjëherë nuk kisha ushqim apo një vend për të ndenjur. Disa nga njerëzit me të cilët udhëtova vdiqën.
+Eca për shumë kilometra. Ndonjëherë nuk kisha ushqim apo një vend për të qëndruarr. Disa nga njerëzit me të cilët udhëtova vdiqën.
 
 ##
-Më në fund arrita. Takova disa njerëz nga shteti im që më ndihmuan. Nuk e di se si do ia kisha dalë pa ta.
+Më në fund arrita. Takova disa njerëz nga vendi im që më ndihmuan. Nuk e di se si do ia kisha dalë pa ta.
 
 ##
 Fillova të mësoja gjuhën, por ishte e vështirë. E dija se të flisja gjuhën ishte shumë e rëndësishme për të gjetur një punë.

@@ -10,16 +10,16 @@
 "Edhe unë kam dy vajza, por jam e divorcuar."
 
 ##
-"Sa vjeçe janë vajzat e tua?"
+"Sa vjeç janë vajzat e tua?"
 
 ##
-"Mina është katër vjeçe. Ajo shkon në parashkollor. Miriami është dhjetë vjeçe, ajo shkon në shkollë."
+"Mina është katër vjeç. Ajo shkon në parashkollor. Miriami është dhjetë vjeç, ajo shkon në shkollë."
 
 ##
 "Të gjithë fëmijët e mi janë në shkollë. Djali im do të diplomohet vitin tjetër."
 
 ##
-"Sa mirë! Rriten kaq shpejtë. Çfarë dëshiron të bëjë më pas?"
+"Sa mirë! Rriten kaq shpejt. Çfarë dëshiron të bëjë më pas?"
 
 ##
 "Ai do të fillojë punë, por unë i them se është më mirë të shkojë në universitet."

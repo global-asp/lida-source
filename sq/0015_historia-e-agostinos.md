@@ -10,13 +10,13 @@ Unë jetoj me nënën time, sepse pas divorcit nuk përballoj dot të paguaj qir
 Para disa muajsh punoja si pastrues për një kompani. Riparoja sende të prishura, transportoja kuti, dhe ndihmoja kur dikush kishte nevojë. Një ditë kompania më pushoi nga puna. Nuk e kuptova arsyen pse.
 
 ##
-Shihja shumë njerëz që shpërndanin ushqime me biçikletë. Unë di t'i jap biçikletës, trokita në derën e nje kompanie të madhe shpërndarjesh. Ata më ofruan tre euro për çdo shpërndarje. Fitoj 40 euro në ditë, 60 euro nëse jam shumë me fat dhe klientët më japin bakshish.
+Shihja shumë njerëz që shpërndanin ushqime me biçikletë. Unë di t'i jap biçikletës, trokita në derën e një kompanie të madhe shpërndarjesh. Ata më ofruan tre euro për çdo shpërndarje. Fitoj 40 euro në ditë, 60 euro nëse jam shumë me fat dhe klientët më japin bakshish.
 
 ##
 Nuk kam pushime të paguara, as ditë të paguara kur jam i sëmurë, pothuajse nuk kam fare të drejta. Nuk mendoj se kjo është e drejtë, por më duhet puna. Shumica e punëmarrësve të tjerë janë emigrantë nga e gjithë bota.
 
 ##
-Shumë shpërndarës lëndohen në aksidente çdo ditë. Më pas, kur një shpërndarës 25 vjeçar i godit nga një makinë dhe vdiq, autoritetet filluan të na vinin re. Sa keq që atij iu desh të vdiste para se kjo të ndodhte.
+Shumë shpërndarës lëndohen në aksidente çdo ditë. Më pas, kur një shpërndarës 25 vjeçar u godit nga një makinë dhe vdiq, autoritetet filluan të na vinin re. Sa keq që atij iu desh të vdiste para se kjo të ndodhte.
 
 ##
 Së bashku me shpërndarës nga kompani të tjera, ndoqa një kurs për të drejtat e punëmarrësve pranë një qendre vendore. Ata na ofruan këshillim ligjor pa pagesë. Ne u përpoqëm që të merrnim më shumë vëmendje dhe të drejta.

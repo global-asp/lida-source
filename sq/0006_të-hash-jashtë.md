@@ -1,7 +1,7 @@
 # Të hash jashtë
 
 ##
-Kipit po i hahen disa makarona.
+Kipit po i haen disa makarona.
 
 ##
 Kipi i kërkon një miku që t'i bashkohet.
@@ -22,7 +22,7 @@ Ata ulen dhe thërrasin kamarieren.
 Kamarierja vjen. Kipi porosit makarona.
 
 ##
-Edhe miku i tij porosit makarona.
+Gjithashtu edhe miku i tij porosit makarona.
 
 ##
 Ata marrin secili një gotë ujë.
@@ -34,10 +34,10 @@ Kamarierja sjell ushqimin.
 Ata shtojnë salcë dhe kripë, dhe trazojnë makaronat.
 
 ##
-Kipi dhe miku i tij hanë makaronat. Janë shumë të shijshme.
+Kipi dhe miku i tij hanë makaronat. Ato janë shumë të shijshme.
 
 ##
-Ai pi ujin e tij.
+Ai pi ujë.
 
 ##
 Ata paguajnë faturën.

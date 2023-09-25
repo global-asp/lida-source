@@ -22,7 +22,7 @@ Ai heq rrobat.
 Ai ulet në shtrat.
 
 ##
-Ai sheh televizor.
+Ai shikon televizor.
 
 ##
 Ai e fik televizorin.

@@ -1,7 +1,7 @@
 # Të takosh njerëz
 
 ##
-"Çkemi!" "Përshëndetje!"
+"Ç'kemi!" "Përshëndetje!"
 
 ##
 "Paçim!" "Mirupafshim!"
@@ -10,16 +10,16 @@
 "Ky është Kama."
 
 ##
-"Çkemi, unë jam Kama." "Gëzohem që u njohëm, Kama."
+"Ç'kemi, unë jam Kama." "Gëzohem që u njohëm, Kama."
 
 ##
 Po bie telefoni.
 
 ##
-"Alo."
+"Pershendetje."
 
 ##
-"Çkemi, jam Sara."
+"Ç'kemi, jam Sara."
 
 ##
 Ai e mbyll.

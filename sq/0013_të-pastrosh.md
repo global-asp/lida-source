@@ -10,10 +10,10 @@ Pastaj i pastron me vakum. Fshesa me vakum funksionon mirë.
 Më pas merr një kovë me ujë dhe një shtupë.
 
 ##
-Ai lan dyshemenë me shtupë.
+Ai e lan dyshemenë me shtupë.
 
 ##
-Ai zbraz koshin dhe vendos një qese të re në të.
+Ai e zbraz koshin dhe vendos një qese të re në të.
 
 ##
 Ai nxjerr mbeturinat.
@@ -22,7 +22,7 @@ Ai nxjerr mbeturinat.
 Atij i duhen doreza, një sfungjer, dhe pak detergjent.
 
 ##
-Ai pastron një njollë të pisët në dysheme me sfungjerin dhe pak detergjent.
+Ai pastron një njollë të pistë në dysheme me sfungjer dhe pak detergjent.
 
 ##
 Më pas ai pastron dritaren.

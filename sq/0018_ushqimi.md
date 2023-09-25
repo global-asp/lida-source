@@ -1,10 +1,10 @@
 # Ushqimi
 
 ##
-Ai po ha pizza. Është e shijshme.
+Ai po ha pica. Është e shijshme.
 
 ##
-Ajo po ha pulë. Është djegëse.
+Ajo po ha pulë. Është pikante.
 
 ##
 Ai ha oriz çdo ditë.
@@ -19,7 +19,7 @@ Ajo nuk e ha mishin. Është vegjetariane.
 Ai nuk i ha kikirikët. I ka alergji.
 
 ##
-Ata po gatuajnë. Vjen erë e mirë!
+Ata po gatuajnë. Sa erë e mirë!
 
 ##
 * License: CC BY

@@ -4,7 +4,7 @@
 Borani dhe vajza e tij kanë dalë për të ecur.
 
 ##
- Ata shkojnë në një kafene dhe futen brenda.
+Ata shkojnë në një kafene dhe futen brenda.
 
 ##
 Në kafene, kamarieri i ul në një tavolinë.
@@ -19,10 +19,10 @@ Vajza e tij porosit një pije të gazuar.
 Kamarieri u sjell porosinë.
 
 ##
-Ai e mbush gotën me pijen.
+Ai e mbush gotën me pijen me gaz.
 
 ##
-Ajo pi pijen.
+Ajo pi pijen me gaz.
 
 ##
 Borani i hedh sheqer kafesë.

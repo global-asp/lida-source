@@ -1,7 +1,7 @@
 # Të shkosh në punë
 
 ##
-Bie alarmi. Është koha per t'u ngritur.
+Bie alarmi. Është koha për t'u ngritur.
 
 ##
 Ajo ngrihet.
@@ -31,7 +31,7 @@ Ajo merr çantën e saj të dorës.
 Ajo merr çantën e saj të dorës dhe largohet për në punë.
 
 ##
-Ajo ecen për në punë.
+Ajo ecën për në punë.
 
 ##
 Ajo arrin në punë. Ajo punon në një zyrë.

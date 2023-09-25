@@ -1,31 +1,31 @@
 # Çfarë po bëjnë ata?
 
 ##
-Unë po flas.
+Unë jam duke folur.
 
 ##
-Ti po ecën.
+Ti je duke ecur.
 
 ##
-Ai po shkruan.
+Ai është duke shkruar.
 
 ##
-Ajo po fle.
+Ajo është duke fjetur.
 
 ##
-Ai po ha.
+Ai është duke ngrënë.
 
 ##
-Ne po lexojmë.
+Ne jemi duke lexuar.
 
 ##
 Ju po dëgjoni.
 
 ##
-Ato po vozisin.
+Ato jnaë duke vozitur.
 
 ##
-Të gjithë po bëjnë diçka!
+Të gjithë janë duke bërë diçka!
 
 ##
 * License: CC BY

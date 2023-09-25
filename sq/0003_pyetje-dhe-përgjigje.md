@@ -10,7 +10,7 @@
 "A mund të ulem këtu?"
 
 ##
-"Patjetër."
+"Do të shkoj mirr."
 
 ##
 "Dëshiron pak nga kjo?"

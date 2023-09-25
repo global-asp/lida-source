@@ -13,7 +13,7 @@ Kjo është nëna ime.
 Bashkëshortja ime e ka emrin Mona.
 
 ##
-Kam dy fëmijë.
+Unë kam dy fëmijë.
 
 ##
 Djali im është pesë vjeç.

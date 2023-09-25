@@ -40,7 +40,7 @@ Carlosit i dhëmb shumë këmba, dhe ai është i shqetësuar.
 Dy mjekë i operojnë këmbën.
 
 ##
-Prinderit e tij shkojnë e takojnë. Ata e pyesin si ndodhi aksidenti.
+Prindërit e tij shkojnë e takojnë. Ata e pyesin si ndodhi aksidenti.
 
 ##
 Ata e çojnë në shtëpi. Carlosi po përdor paterica.

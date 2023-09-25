@@ -1,13 +1,13 @@
-# Çfarë lloji muzike të pëlqen?
+# Çfarë lloj muzike të pëlqen?
 
 ##
 Tulimas i pëlqen muzika. Ajo e dëgjon çdo ditë.
 
 ##
-Miqve të saj Carlos dhe Anita u pëlqen gjithashtu muzika.
+Miqtë e saj Carlos dhe Anita pëlqejnë gjithashtu muzikën.
 
 ##
-"Tulima, çfarë lloji muzike të pëlqen?" pyet Carlosi.
+"Tulima, çfarë lloj muzike të pëlqen?" pyet Carlosi.
 
 ##
 "Më pëlqen muzika perëndimore, por preferoj muzikën nga vendi im, Etiopia."
@@ -16,10 +16,10 @@ Miqve të saj Carlos dhe Anita u pëlqen gjithashtu muzika.
 "Unë vij nga Kolumbia. Dëgjoj vetëm salsa. Është shumë e mirë për t'u kërcyer," thotë Carlosi.
 
 ##
-Anita thotë, "Më pëlqejnë këngët romantike dhe muzika që më bën të lumtur."
+Anita thotë, "Më pëlqejnë këngët romantike dhe muzika më bën të lumtur."
 
 ##
-Çfarë lloji muzike të pëlqen ty?
+Çfarë lloj muzike të pëlqen ty?
 
 ##
 * License: CC BY

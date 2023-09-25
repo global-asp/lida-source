@@ -16,7 +16,7 @@
 "Shikoji këto re të zeza. Nesër do të bjerë shi. Do të fryjë edhe shumë erë. Ndoshta do të ketë stuhi."
 
 ##
-"Shpresoj që jo. Nuk më pëqen shumë moti i keq, veçanërisht vetëtimat dhe rrufetë. Kam frikë se mund të më godasë rrufeja."
+"Shpresoj që jo. Nuk më pëlqen shumë moti i keq, veçanërisht vetëtimat dhe rrufetë. Kam frikë se mund të më godasë rrufeja."
 
 ##
 * License: CC BY
