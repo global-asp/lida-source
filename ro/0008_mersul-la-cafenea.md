@@ -7,7 +7,7 @@ Boran și fiica lui sunt afară la plimbare.
 Ei ajung la o cafenea și intră.
 
 ##
-În cafenea, chelnerul îi așează la o masă.
+În cafenea, chelnerul îi conduce la o masă.
 
 ##
 Boran comandă o cafea.
@@ -28,7 +28,7 @@ Ea bea sucul.
 Boran își pune zahăr în cafea.
 
 ##
-El amestecă cafeaua.
+El amestecă în cafea.
 
 ##
 El o bea.

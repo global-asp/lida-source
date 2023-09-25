@@ -4,19 +4,19 @@
 Kip vrea să mănânce tăiței.
 
 ##
-Kip îi cere unui prieten să i se alăture.
+Kip îi cere unui prieten să-l însoțească.
 
 ##
 Ei caută un loc unde să mănânce.
 
 ##
-Ei găsesc un loc unde se vând tăiței.
+Ei găsesc un loc unde se servesc tăiței.
 
 ##
 Kip și prietenul lui găsesc o masă.
 
 ##
-Ei se așează și cheamă chelnerul.
+Ei se așază și cheamă chelnerul.
 
 ##
 Chelnerul vine. Kip comandă tăiței.
@@ -31,7 +31,7 @@ Fiecare primește un pahar cu apă.
 Chelnerul aduce mâncarea.
 
 ##
-Ei adaugă sos și sare, și amestecă tăițeii.
+Ei adaugă sos și sare și amestecă tăițeii.
 
 ##
 Kip și prietenul lui mănâncă tăițeii. Sunt delicioși.

@@ -16,16 +16,16 @@ Ea se spală pe dinți.
 Ea își clătește gura.
 
 ##
-Ea face un duș și se spală pe cap.
+Ea face un duș și își spală părul.
 
 ##
 Ea se usucă cu un prosop.
 
 ##
-Ea se îmbracă. Își ia o fustă și o bluză.
+Ea se îmbracă. Își pune o fustă și o bluză.
 
 ##
-Ea își ia geanta.
+Ea își ridică geanta.
 
 ##
 Ea își ia geanta și pleacă la serviciu.

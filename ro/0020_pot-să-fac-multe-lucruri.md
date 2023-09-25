@@ -4,7 +4,7 @@
 Pot să gătesc.
 
 ##
-Pot să mă dau cu bicicleta.
+Pot să merg cu bicicleta.
 
 ##
 Pot să cos.

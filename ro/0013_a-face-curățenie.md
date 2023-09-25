@@ -13,13 +13,13 @@ Apoi el ia o găleată cu apă și un mop.
 El spală podeaua.
 
 ##
-El golește coșul de gunoi și pune un sac nou în el.
+El golește coșul de gunoi și pune un sac nou.
 
 ##
 El duce gunoiul.
 
 ##
-El are nevoie de mănuși, un burete și un detergent.
+El are nevoie de mănuși, un burete și detergent.
 
 ##
 El freacă o pată murdară de pe podea cu buretele și puțin detergent.

@@ -1,13 +1,13 @@
-# A se remarca pentru motivul corect
+# A se remarca pentru un motiv bun
 
 ##
-Edson s-a născut în Angola, chiar după ce țara a devenit independentă. El a fost un băiat foarte înalt. Datorită înălțimii sale, el s-a remarcat. Oamenii care dădeau arme copiilor pentru a lupta ca soldați în războiul civil își doreau băieți ca el.
+Edson s-a născut în Angola, chiar după ce țara a devenit independentă. El era un băiat foarte înalt. Datorită înălțimii sale s-a făcut remarcat. Oamenii care dădeau arme copiilor pentru a lupta ca soldați în războiul civil își doreau băieți ca el.
 
 ##
-Mamei sale i-a fost frică că îl vor lua, așa că a decis să-l trimită să locuiască în Portugalia cu o mătușă. Ea s-a gândit că acolo va fi în siguranță.
+Mamei sale i-a fost frică că îl vor lua, așa că a decis să-l trimită să locuiască în Portugalia cu o mătușă. Ea credea că acolo va fi în siguranță.
 
 ##
-Pentru început a fost foarte greu, deoarece lui Edson îi era dor de vremea caldă, de mâncarea tradițională și, mai ales, de îmbrățișările și pupicii mamei sale.
+La început a fost foarte greu, deoarece lui Edson îi era dor de vremea caldă, de mâncarea tradițională și, mai ales, de îmbrățișările și pupicii mamei sale.
 
 ##
 Nu vorbea bine portugheza și îi era foarte greu să urmărească cursurile și conversațiile colegilor de clasă. Se întreba dacă până la urmă a fost o idee bună să vină în Portugalia.

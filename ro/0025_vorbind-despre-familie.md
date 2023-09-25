@@ -13,7 +13,7 @@
 "Câți ani au fiicele tale?"
 
 ##
-"Mina are patru ani. Ea merge la grădiniță. Miriam are zece ani, ea merge la școală."
+"Mina are patru ani. Ea merge la grădiniță. Miriam are zece ani, deci ea merge la școală."
 
 ##
 "Toți copiii mei merg la școală. Fiul meu va absolvi anul viitor."

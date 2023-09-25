@@ -34,7 +34,7 @@ El închide.
 "Îmi pare rău."
 
 ##
-"Nici o problemă."
+"Nicio problemă."
 
 ##
 "Scuză-mă, te rog."

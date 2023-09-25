@@ -7,7 +7,7 @@ Carlos conduce un scuter. El conduce repede.
 Pe drum este apă. Drumul este alunecos.
 
 ##
-El pierde controlul scuterului și cade.
+El pierde controlul asupra scuterului și cade.
 
 ##
 Carlos este rănit grav.

@@ -7,13 +7,13 @@
 "Sunt nouă grade. E încă toamnă, dar în curând va fi iarnă."
 
 ##
-„Aștept cu nerăbdare primăvara, dar prefer vara, când e frumos și cald”.
+"Aștept cu nerăbdare primăvara, dar prefer vara, când e frumos și cald."
 
 ##
 "Nu mă deranjează frigul. Ploaia și vântul nu-mi plac."
 
 ##
-"Uită-te la norii aceia întunecați. Mâine va ploua. Va bate și vântul. Poate că va fi o furtună."
+"Uită-te la norii aceia întunecați. Mâine va ploua. Va bate tare și vântul. Poate că va fi furtună."
 
 ##
 "Eu sper că nu. Chiar nu-mi place vremea rea, mai ales tunetele și fulgerele. Mi-e teamă că fulgerul ar putea să mă lovească."

@@ -1,10 +1,10 @@
 # Ce fel de muzică îți place?
 
 ##
-Tulima iubește muzica. Ea o ascultă în fiecare zi.
+Tulima iubește muzica. Ea ascultă în fiecare zi.
 
 ##
-Prietenilor ei, Carlos și Anita, le place muzica.
+Și prietenilor ei, Carlos și Anita, le place muzica.
 
 ##
 "Tulima, ce fel de muzică îți place?" întreabă Carlos.

@@ -22,7 +22,7 @@ El se spală pe cap.
 El se usucă.
 
 ##
-El își pieptănă părul.
+El își piaptănă părul.
 
 ##
 El își taie unghiile.

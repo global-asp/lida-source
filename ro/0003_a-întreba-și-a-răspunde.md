@@ -1,4 +1,4 @@
-# Întrebând și răspunzând
+# A întreba și a răspunde
 
 ##
 "Aș dori-o pe aceea, vă rog."

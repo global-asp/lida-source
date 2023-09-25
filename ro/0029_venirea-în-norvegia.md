@@ -1,10 +1,10 @@
 # Venirea în Norvegia
 
 ##
-Eu și cei doi frați ai mei am venit în Norvegia în decembrie 2016. Purtam haine de vară pentru că ne-am gândit că va fi la fel de cald în Norvegia, precum în Somalia. Totuși, când am ajuns la aeroport, ningea. Ne era frig și vremea era rece. Deși adusesem câteva valize, aveau în ele doar haine de vară.
+Eu și cei doi frați ai mei am venit în Norvegia în decembrie 2016. Purtam haine de vară pentru că ne-am gândit că va fi la fel de cald în Norvegia, precum în Somalia. Totuși, când am ajuns la aeroport, ningea. Ne era frig și vremea era rece. Deși adusesem câteva valize, în ele erau doar haine de vară.
 
 ##
-Chiar dacă era frig, am fost foarte fericită când am venit în Norvegia. În sfârșit, aveam să o reîntâlnesc pe mama mea, pe care nu o mai văzusem de șase ani. Ne-am întâlnit cu mama și doi dintre prietenii ei. Când am văzut-o, am plâns de bucurie. Am mers cu mașina în orășelul în care locuiește mama.
+Chiar dacă era frig, am fost foarte fericită când am venit în Norvegia. În sfârșit, aveam să o reîntâlnesc pe mama mea, pe care nu o mai văzusem de șase ani. Ne-am întâlnit cu mama și doi prieteni de-ai ei. Când am văzut-o, am plâns de bucurie. Am mers cu mașina în orășelul în care locuiește mama.
 
 ##
 Primele zile în orașul mamei au fost foarte ciudate. Era frig și zăpadă și nu era mare lucru de văzut. Străzile erau complet goale. Puținii oameni pe care i-am întâlnit păreau reci și neprietenoși. În Somalia erau oameni peste tot, așa că totul se simțea necunoscut aici. Mama și prietenii ei ne-au făcut niște cadouri, apoi ne-a dus să ne cumpărăm haine de iarnă.

@@ -4,7 +4,7 @@
 El e foarte obosit.
 
 ##
-E timpul să mergem la culcare.
+E timpul să merg la culcare.
 
 ##
 El merge la baie.
@@ -16,10 +16,10 @@ El se spală pe dinți.
 El merge în dormitor.
 
 ##
-El își dă hainele jos.
+El își dă jos hainele.
 
 ##
-El se așează pe pat.
+El se așază pe pat.
 
 ##
 El se uită la televizor.
@@ -28,7 +28,7 @@ El se uită la televizor.
 El oprește televizorul.
 
 ##
-El se culcă.
+El merge la culcare.
 
 ##
 El visează.

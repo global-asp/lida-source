@@ -25,12 +25,10 @@
 "Pot să te ajut?"
 
 ##
-"Poți să mă ajuți, te rog?"
-"Da, bineînțeles!"
+"Poți să mă ajuți, te rog?" "Da, bineînțeles!"
 
 ##
-"Poți să-mi dai aia, te rog?"
-"Da, bineînțeles!"
+"Poți să-mi dai aia, te rog?" "Da, bineînțeles!"
 
 ##
 "Mulțumesc!"

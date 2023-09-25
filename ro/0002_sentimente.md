@@ -4,7 +4,7 @@
 "Mi-e frică."
 
 ##
-"Auu!"
+"Au!"
 
 ##
 "Ești bine?"
