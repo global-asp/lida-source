@@ -1,31 +1,31 @@
 # Safi na tayari
 
 ##
-Hunawa mikono yake.
+Ananawa mikono yake.
 
 ##
-Hunawa uso wake.
+Ananawa uso wake.
 
 ##
-Hupiga mswaki.
+Anapiga mswaki.
 
 ##
-Hunyoa.
+Ananyoa nywele zake.
 
 ##
-Huoga.
+Anaoga.
 
 ##
-Huosha nywele zake.
+Anaosha nywele zake.
 
 ##
-Hujifuta maji.
+Anajifuta maji.
 
 ##
-Huchana nywele zake.
+Anachana nywele zake.
 
 ##
-Hukata kucha zake.
+Anakata kucha zake.
 
 ##
 * License: CC BY-NC-SA

@@ -25,10 +25,10 @@
 "Ninaweza kukusaidia?"
 
 ##
-"Unaweza kunisaidia, tafadhali?" "Ndiyo, ninaweza!"
+"Unaweza kunisaidia, tafadhali?" "Ndiyo, ninaweza."
 
 ##
-"Ninaweza kupata kile, tafadhali?" "Ndiyo, unaweza!"
+"Ninaweza kupata hiki, tafadhali?" "Ndiyo, unaweza."
 
 ##
 "Asante!"

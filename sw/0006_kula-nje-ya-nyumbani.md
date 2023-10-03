@@ -4,13 +4,13 @@
 Kip anataka kula tambi.
 
 ##
-Kip anamwomba rafiki yake waende wote.
+Kip anamuomba rafiki yake waende pamoja.
 
 ##
 Wanatafuta sehemu ya kula.
 
 ##
-Wanaona sehemu wanayouza tambi.
+Wanaiona sehemu panapouzwa tambi.
 
 ##
 Kip na rafiki yake wanatafuta meza.
@@ -19,7 +19,7 @@ Kip na rafiki yake wanatafuta meza.
 Wanaketi chini na wanamwita mhudumu.
 
 ##
-Mhudumu anakuja. Kip anaagiza tambi.
+Mhudumu anakuja, Kip anaagiza tambi.
 
 ##
 Rafiki yake anaagiza tambi pia.
@@ -31,7 +31,7 @@ Wote wanapata glasi ya maji.
 Mhudumu analeta chakula.
 
 ##
-Wanaongeza mchuzi na chumvi, na wanakoroga tambi.
+Wanaongeza mchuzi na chumvi na wanakoroga tambi.
 
 ##
 Kip na rafiki yake wanakula tambi. Ni tamu.

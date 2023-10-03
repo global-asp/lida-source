@@ -4,7 +4,7 @@
 "Nimelipenda hilo, tafadhali."
 
 ##
-"Una...?"
+"Una ...?"
 
 ##
 "Hakuna shida kama nikikaa hapa?"

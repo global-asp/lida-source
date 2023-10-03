@@ -1,13 +1,13 @@
 # Ninaweza kufanya mambo mengi
 
 ##
-Ninaweza kupika
+Ninaweza kupika.
 
 ##
-Ninaweza kuendesha baiskeli
+Ninaweza kuendesha baiskeli.
 
 ##
-Ninaweza kutumia msumeno
+Ninaweza kutumia msumeno.
 
 ##
 Ninaweza kufanya kazi kwa juhudi.
@@ -22,7 +22,7 @@ Ninaweza kuimba.
 Ninaweza kulea watoto.
 
 ##
-Ninaweza kucheka!
+Ninaweza kucheka.
 
 ##
 * License: CC BY

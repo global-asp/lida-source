@@ -1,16 +1,16 @@
 # Hisia
 
 ##
-"Ninaogopa"
+"Ninaogopa."
 
 ##
 "Aah!"
 
 ##
-"Uko sawa?"
+"Je, uko sawa?"
 
 ##
-"My stomach hurts."
+"Tumbo langu linauma."
 
 ##
 "Ninaumwa kichwa."

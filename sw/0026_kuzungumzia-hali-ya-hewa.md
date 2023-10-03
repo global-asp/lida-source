@@ -1,16 +1,16 @@
 # Kuzungumzia hali ya hewa
 
 ##
-"Baridi imeshaanza sikuhizi. Hivi joto likoje?"
+"Baridi imeshaanza siku hizi. Hivi joto likoje?"
 
 ##
-"Ni nyuzijoto tisa. Bado ni majira ya kupukutika kwa majani, lakini kipupwe kinakaribia.
+"Ni nyuzijoto tisa. Bado ni majira ya kupukutika kwa majani lakini kipupwe kinakaribia."
 
 ##
-"Ninasubiria majira ya kuchipua, lakini ninapenda majira ya joto, kukiwa vizuri na kuna joto.
+"Ninasubiria majira ya kuchipua lakini ninapenda majira ya joto, kukiwa vizuri na kuna joto."
 
 ##
-"Sina shida na baridi. Ni mvua na upepo ndiyo sipendii."
+"Sina shida na baridi. Ni mvua na upepo ndiyo sipendi."
 
 ##
 "Tazama wingu jeusi. Kesho mvua itanyesha. Kutakuwa na upepo pia. Huenda kutakuwa na dhoruba."

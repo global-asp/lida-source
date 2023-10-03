@@ -1,7 +1,7 @@
 # Chakula
 
 ##
-Anakula piza. Ni tamu.
+Anakula pizza. Ni tamu.
 
 ##
 Anakula nyama ya kuku. Ina pilipili.
@@ -10,16 +10,16 @@ Anakula nyama ya kuku. Ina pilipili.
 Anakula wali kila siku.
 
 ##
-Anapenda mboga majani.
+Anapenda mboga za majani.
 
 ##
-Hali nyama. Ni mla mboga.
+Hapendi nyama. Ni mla mboga.
 
 ##
-Hali karanga. Ana mzio nazo.
+Hapendi karanga. Ana mzio nazo.
 
 ##
-Wanapika. Kinanukia vizuri!
+Wanapika. Kinanukia vizuri.
 
 ##
 * License: CC BY

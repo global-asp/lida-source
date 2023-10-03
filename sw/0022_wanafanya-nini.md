@@ -1,7 +1,7 @@
 # Wanafanya nini?
 
 ##
-Ninaongea
+Ninaongea.
 
 ##
 Unaongea.
@@ -25,7 +25,7 @@ Mnasikiliza.
 Wanaendesha.
 
 ##
-Kila mmoja anafanya kitu fulani!
+Kila mmoja anafanya kitu fulani.
 
 ##
 * License: CC BY

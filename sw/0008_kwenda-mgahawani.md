@@ -4,10 +4,10 @@
 Boran na binti yake wako matembezini.
 
 ##
-Wanafika mgahawani, na wanaingia.
+Wanafika mgahawani na kuingia.
 
 ##
-Mhudumu wa mgahawa anawakaribisha mezani.
+Mhudumu wa mgahawa anawakaribisha meza.
 
 ##
 Boran anaagiza kahawa.
@@ -19,7 +19,7 @@ Binti yake anaagiza soda.
 Mhudumu analeta oda zao.
 
 ##
-Anamiminia soda kwenye glasi.
+Anamimina soda kwenye glasi.
 
 ##
 Anakunywa soda.

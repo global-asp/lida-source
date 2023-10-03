@@ -16,10 +16,10 @@ Rafiki zake, Carlos na Anita pia wanapenda muziki.
 "Ninatokea Kolombia. Ninasikiliza salsa tu. Ni mzuri kwa kucheza," anasema Carlos.
 
 ##
-Anita anasema, "ninapenda nyimbo za mapenzi na muziki unaonifanya nifurahi."
+Anita anasema, "Ninapenda nyimbo za mapenzi na muziki unaonifanya nifurahi."
 
 ##
-Unapenda muziki wa aina gani?
+Wewe, unapenda muziki wa aina gani?
 
 ##
 * License: CC BY

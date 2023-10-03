@@ -1,10 +1,10 @@
 # Kwenda kulala
 
 ##
-Amechoka
+Amechoka sana.
 
 ##
-Ni muda wa kwenda kulala.
+Ni wakati wa kwenda kulala.
 
 ##
 Anaenda bafuni.
@@ -13,7 +13,7 @@ Anaenda bafuni.
 Anapiga mswaki.
 
 ##
-Anaenda kwenye chumba cha kulala.
+Anaenda chumba cha kulala.
 
 ##
 Anavua nguo zake.
@@ -28,10 +28,10 @@ Anatazama runinga.
 Anazima runinga.
 
 ##
-Analala.
+Anaenda kulala.
 
 ##
-Anaota.
+Anaota ndoto.
 
 ##
 * License: CC BY-NC-SA

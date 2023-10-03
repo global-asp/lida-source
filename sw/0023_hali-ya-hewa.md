@@ -1,7 +1,7 @@
 # Hali ya hewa
 
 ##
-Kuna jua
+Kuna jua.
 
 ##
 Kuna mawingu.

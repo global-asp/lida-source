@@ -1,7 +1,7 @@
 # Kwenda kazini
 
 ##
-Alamu inalia. Ni muda wa kuamka.
+Alamu inalia. Ni wakati wa kuamka.
 
 ##
 Anaamka.
@@ -13,13 +13,13 @@ Anaenda bafuni.
 Anapiga mswaki.
 
 ##
-Anasukutua kinywa chake.
+Anasafisha kinywa chake.
 
 ##
-Anaoga na anaosha nywele zake.
+Anaoga na kisha anaosha nywele zake.
 
 ##
-Anajifuta maji na taulo.
+Anajifuta maji kwa kutumia taulo.
 
 ##
 Anavaa nguo. Anavaa sketi na blauzi.
@@ -28,13 +28,13 @@ Anavaa nguo. Anavaa sketi na blauzi.
 Anachukua mkoba wake.
 
 ##
-Anabeba mkoba wake na anaenda kazini.
+Anabeba mkoba wake na kwenda kazini.
 
 ##
 Anatembea kwa miguu kwenda kazini.
 
 ##
-Anafika kazini. Anafanya kazi ofisini.
+Anafika kazini na kuanza kufanya kazi ofisini.
 
 ##
 * License: CC BY-NC-SA

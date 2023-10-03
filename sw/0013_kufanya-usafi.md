@@ -1,37 +1,37 @@
 # Kufanya usafi
 
 ##
-Kwanza, anafagia sakafu kwa mfagio.
+Kwanza, anafagia sakafu kwa kutumia ufagio.
 
 ##
-Kisha anasafisha kwa kifyonzavumbi. Kifyonzavumbi kinafanya kazi vizuri.
+Kisha anasafisha kwa kifyonza vumbi. Kifyonza vumbi kinafanya kazi vizuri.
 
 ##
-Kisha anachukua ndoo ya maji na dekio.
+Kisha anachukua ndoo ya maji na deki.
 
 ##
 Anadeki sakafu.
 
 ##
-Anatoa takataka kwenye pipa la taka na anaweka mfuko mpya ndani yake.
+Anatupa takataka kwenye pipa la taka na anaweka mfuko mpya ndani yake.
 
 ##
-Anatoa nje takataka.
+Anatupa takataka nje.
 
 ##
-Anahitaji glavu, sponji, na kiowevu cha kusafishia.
+Anahitaji glavu, sponji na kiowevu cha kusafishia.
 
 ##
-Anasugua sehemu chafu sakafuni kwa kutumia sponji na kiowevu cha kusafishia.
+Anasugua eneo chafu sakafuni kwa kutumia sponji na kiowevu cha kusafishia.
 
 ##
-Kisha anasafisha madirisha.
+Kisha anasafisha dirisha.
 
 ##
-Sebule yake haiko sawa.
+Sebule yake haiko sawa kabisa.
 
 ##
-Anapanga juu. Sasa ni nzuri na safi.
+Anapanga vitu juu. Sasa iko vizuri na safi.
 
 ##
 * License: CC BY-NC-SA

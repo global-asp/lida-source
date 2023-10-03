@@ -4,25 +4,25 @@
 "Habari!" "Nzuri!"
 
 ##
-"Kwa heri!" "Kwa heri!"
+"Kwaheri!" "Kwaheri!"
 
 ##
 "Huyu ni Kama."
 
 ##
-"Habari, ninaitwa Kama." "Nimefurahi kukutana na wewe, Kama."
+"Habari, ninaitwa Kama." "Nimefurahi kukutana nawewe, Kama."
 
 ##
 Simu inaita.
 
 ##
-"Haloo."
+"Halo!"
 
 ##
 "Habari, mimi ni Sara."
 
 ##
-Anakata.
+Anaendelea.
 
 ##
 "Karibu!"
@@ -34,7 +34,7 @@ Anakata.
 "Samahani."
 
 ##
-"Haina shida."
+"Hakuna shida."
 
 ##
 "Samahani, tafadhali."
