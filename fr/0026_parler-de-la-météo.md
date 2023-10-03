@@ -1,13 +1,13 @@
 # Parler de la météo
 
 ##
-"Les journées commences à se rafraîchir. Quelle est la température ?"
+"Les journées commencent à se rafraîchir. Quelle est la température ?"
 
 ##
 "Il fait neuf degrés. Nous sommes toujours en automne, mais ce sera bientôt l'hiver."
 
 ##
-"J'ai hâte du printemps, mais je préfère l'été, quand il fait bon et que c'est agréable."
+"J'ai hâte d’être au printemps, mais je préfère l'été, quand il fait beau et chaud."
 
 ##
 "Je me fiche du froid. C'est la pluie et le vent que je n'aime pas."

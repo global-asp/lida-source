@@ -16,7 +16,7 @@
 "Mina a quatre ans. Elle est en maternelle. Miriam a dix ans, donc elle va à l'école primaire."
 
 ##
-"Tous mes enfants sont à l'école. Mon fils va finir avoir son diplôme l'année prochaine."
+"Tous mes enfants sont à l'école. Mon fils va avoir son diplôme l'année prochaine."
 
 ##
 "C'est super ! Ils grandissent si vite. Qu'est-ce qu'il veut faire après ?"

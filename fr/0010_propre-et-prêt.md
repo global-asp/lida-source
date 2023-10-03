@@ -22,7 +22,7 @@ Il se lave les cheveux.
 Il se sèche.
 
 ##
-Ils se brosse les cheveux.
+Il se brosse les cheveux.
 
 ##
 Il se coupe les ongles.

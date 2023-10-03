@@ -19,7 +19,7 @@ Il vide la poubelle et y met un nouveau sac poubelle.
 Il jette la poubelle.
 
 ##
-Il a besoin de gants, d'une éponge, et de détergent.
+Il a besoin de gants, d'une éponge et de détergent.
 
 ##
 Il frotte un endroit sale sur le sol avec l'éponge et un peu de détergent.

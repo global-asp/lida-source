@@ -10,7 +10,7 @@ Après un moment, on a décidé de se marier. Je viens d'une famille pauvre, don
 Nous avons déménagé en Norvège, et j'ai commencé à aller à l'école pour apprendre le Norvégien. C'était des temps difficiles. Je n'avais pas mon permis de conduire, et mon mari devait me conduire à l'école, m'attendre, et rentrer en voiture. Cela faisait une heure de trajet. Au bout d'un moment, nous avons emménagé plus près, mais il insistait toujours pour me conduire à l'école. Il ne voulait pas que je marche seule.
 
 ##
-Je n'avais que très peu d'argent depuis que j'étais venue en Norvège. Une fois, mon mari m'a donné de l'argent pour le déjeuner, mais puisque je n'avais pas d'argent, je l'ai gardé. Mes amis à l'école veulent m'aider à trouver du travail, mais mon mari dit que je ne peux pas. Il ne pense pas que travailler comme femme de ménage est convenable pour moi.
+Je n'avais que très peu d'argent depuis que j'étais venue en Norvège. Une fois, mon mari m'a donné de l'argent pour le déjeuner, mais puisque je n'avais pas d'argent, je l'ai gardé. Mes amis à l'école veulent m'aider à trouver du travail, mais mon mari dit que je ne peux pas. Il pense que travailler comme femme de ménage n’est pas convenable pour moi.
 
 ##
 À la place, il avait un autre travail pour moi — construire un garage. Il était le patron et je faisais tout. Il ne pouvait pas faire grand-chose car il était malade. Il ne m'a rien donné de l'argent qu'il a gagné en construisant le garage.

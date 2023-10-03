@@ -4,7 +4,7 @@
 Mai cherche un film à regarder. Elle veut aller au cinéma avec sa meilleure amie, Lisa.
 
 ##
-Mai va jusqu'au cinéma en scooter. Elles se sont mis d'accord pour se rencontrer là-bas.
+Mai va jusqu'au cinéma en scooter. Elles se sont mises d'accord pour se rencontrer là-bas.
 
 ##
 Au cinéma, elles se disent bonjour. Elles sont excitées de voir le film.

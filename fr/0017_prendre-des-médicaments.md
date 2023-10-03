@@ -10,7 +10,7 @@ Il a besoin de voir son dentiste, mais d'abord, il lui faut quelque chose pour l
 Il va à la pharmacie la plus proche.
 
 ##
-"J'ai mal au dents," dit-il. "Avez-vous quelque chose pour cela ?"
+"J'ai mal à la dent," dit-il. "Avez-vous quelque chose pour cela ?"
 
 ##
 "Oui, voici des anti-douleurs. Vous n'avez pas besoin d'ordonnance pour ceux-ci."
@@ -22,7 +22,7 @@ Il va à la pharmacie la plus proche.
 "Ils coûtent neuf euros. Mais vous devriez voir un dentiste."
 
 ##
-D'accord, j'appellerai mon dentiste demain matin."
+"D'accord, j'appellerai mon dentiste demain matin."
 
 ##
 "Si vous avez besoin d'un médicament plus fort, vous aurez besoin d'une ordonnance de votre dentiste ou médecin."

@@ -1,4 +1,4 @@
-# Aller au travail.
+# Aller au travail
 
 ##
 Le réveil sonne. Il est l'heure de se réveiller.
@@ -31,7 +31,7 @@ Elle prend son sac à main.
 Elle prend son sac à main et part au travail.
 
 ##
-Elle va au travail en marchant.
+Elle va au travail à pied.
 
 ##
 Elle arrive au travail. Elle travaille dans un bureau.

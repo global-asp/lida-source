@@ -7,7 +7,7 @@ Tumila adore la musique. Elle en écoute tous les jours.
 Ses amis Carlos et Anita aiment aussi la musique.
 
 ##
-"Tumila, quel genre de musique aimes-tu ?" Demande Carlos."
+"Tumila, quel genre de musique aimes-tu ?" Demande Carlos.
 
 ##
 "J'aime la musique occidentale, mais je préfère la musique de mon pays, l'Éthiopie."

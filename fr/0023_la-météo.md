@@ -1,7 +1,7 @@
 # La météo
 
 ##
-Il fait soleil.
+Il fait beau.
 
 ##
 Il fait nuageux.

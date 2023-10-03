@@ -22,7 +22,7 @@ Le téléphone sonne.
 "Salut, c'est Sara."
 
 ##
-"Il raccroche."
+Il raccroche.
 
 ##
 "Bienvenue !"
@@ -37,13 +37,13 @@ Le téléphone sonne.
 "Pas de soucis."
 
 ##
-"Excusez moi, s'il vous plaît."
+"Excusez-moi, s'il vous plaît."
 
 ##
 "Un instant, s'il vous plaît."
 
 ##
-"C'est Ali. C'est Leila."
+"C'est Ali." "C'est Leila."
 
 ##
 * License: CC BY-NC-SA

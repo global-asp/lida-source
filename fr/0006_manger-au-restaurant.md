@@ -31,7 +31,7 @@ Ils prennent tous les deux un verre d'eau.
 La serveuse ramène la nourriture.
 
 ##
-Ils ajoutent de la sauce et du seul, et mélangent les nouilles.
+Ils ajoutent de la sauce et du sel, et mélangent les nouilles.
 
 ##
 Kip et son ami mangent les nouilles. Elles sont délicieuses.

@@ -19,7 +19,7 @@ Il va dans la chambre.
 Il enlève ses vêtements.
 
 ##
-Il s’assoit sur le lit.
+Il s'assoit sur le lit.
 
 ##
 Il regarde la télé.

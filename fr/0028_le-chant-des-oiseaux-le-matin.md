@@ -19,7 +19,7 @@ Quand Yulia a finalement dû aller aux urgences à l'hôpital avec un bras cass�
 Yulia était épuisée et ne voulait pas que sa fille grandisse dans un foyer où elle voyait de la violence tous les jours. Yulia a réalisé que les signes de maltraitance avaient toujours été là, même s'ils ont pris plusieurs formes différentes.
 
 ##
-Yulia est allée à un foyer pour femmes, où elle se sentait plus en sécurité qu'elle ne l'avait depuis un long moment. Elle ne s'était pas sentie ainsi depuis qu'elle se faisait réveiller par le chant des oiseaux le matin.
+Yulia est allée à un foyer pour femmes, où elle se sentait plus en sécurité qu'elle ne l'avait été depuis un long moment. Elle ne s'était pas sentie ainsi depuis qu'elle se faisait réveiller par le chant des oiseaux le matin.
 
 ##
 * License: CC BY
