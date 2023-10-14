@@ -1,16 +1,22 @@
 # La kulanka dadka
 
 ##
-"Salaam Calaykum!" "Wacalay kuma Salaam!"
+"Salaam Calaykum!"
+
+"Wacalay kuma Salaam!"
 
 ##
-"Nabadgeliyo!" "Nabadey!"
+"Nabadgeliyo!"
+
+"Nabadey!"
 
 ##
 "Kani wa Kama."
 
 ##
-"Salaama calaykum, waxaan ahay Kama." "Waan ku faraxsanahay inaan kula kulmo, Kama."
+"Salaama calaykum, waxaan ahay Kama."
+
+"Waan ku faraxsanahay inaan kula kulmo, Kama."
 
 ##
 Taleefanka ayaa dhacaya.
@@ -43,7 +49,9 @@ Wuu xidhay.
 "Hal daqiiqo isug, fadlan."
 
 ##
-"Kani waa Ali." "Tana waa Leila."
+"Kani waa Ali."
+
+"Tana waa Leila."
 
 ##
 * License: CC BY-NC-SA

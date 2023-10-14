@@ -16,19 +16,27 @@
 "Je ne comprends pas."
 
 ##
-"Est-ce juste ?" "Oui."
+"Est-ce juste ?"
+
+"Oui."
 
 ##
-"Est-ce juste ?" "Non."
+"Est-ce juste ?"
+
+"Non."
 
 ##
 "Puis-je vous aider ?"
 
 ##
-"Pourriez-vous m'aider, s'il vous plaît ?" "Oui, bien sûr !"
+"Pourriez-vous m'aider, s'il vous plaît ?"
+
+"Oui, bien sûr !"
 
 ##
-"Pourrais-je avoir cela, s'il vous plaît ?" "Oui, bien sûr !"
+"Pourrais-je avoir cela, s'il vous plaît ?"
+
+"Oui, bien sûr !"
 
 ##
 "Merci !"

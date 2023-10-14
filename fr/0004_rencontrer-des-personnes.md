@@ -1,16 +1,22 @@
 # Rencontrer des personnes
 
 ##
-"Salut !" "Bonjour !"
+"Salut !"
+
+"Bonjour !"
 
 ##
-"Salut !" "Au revoir !"
+"Salut !"
+
+"Au revoir !"
 
 ##
 "C'est Kama."
 
 ##
-"Salut, je suis Kama." "Enchanté, Kama."
+"Salut, je suis Kama."
+
+"Enchanté, Kama."
 
 ##
 Le téléphone sonne.
@@ -43,7 +49,9 @@ Il raccroche.
 "Un instant, s'il vous plaît."
 
 ##
-"C'est Ali." "C'est Leila."
+"C'est Ali."
+
+"C'est Leila."
 
 ##
 * License: CC BY-NC-SA

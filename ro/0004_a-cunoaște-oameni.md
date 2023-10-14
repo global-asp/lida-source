@@ -1,16 +1,22 @@
 # A cunoaște oameni
 
 ##
-"Salut!" "Bună!"
+"Salut!"
+
+"Bună!"
 
 ##
-"Pa!" "La revedere!"
+"Pa!"
+
+"La revedere!"
 
 ##
 "El e Kama."
 
 ##
-"Salut, eu sunt Kama." "Mă bucur să te cunosc, Kama."
+"Salut, eu sunt Kama."
+
+"Mă bucur să te cunosc, Kama."
 
 ##
 Telefonul sună.
@@ -43,7 +49,9 @@ El închide.
 "Un moment, te rog."
 
 ##
-"Acesta este Ali." "Aceasta este Leila."
+"Acesta este Ali."
+
+"Aceasta este Leila."
 
 ##
 * License: CC BY-NC-SA

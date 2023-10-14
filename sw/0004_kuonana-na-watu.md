@@ -1,16 +1,22 @@
 # Kuonana na watu
 
 ##
-"Habari!" "Nzuri!"
+"Habari!"
+
+"Nzuri!"
 
 ##
-"Kwaheri!" "Kwaheri!"
+"Kwaheri!"
+
+"Kwaheri!"
 
 ##
 "Huyu ni Kama."
 
 ##
-"Habari, ninaitwa Kama." "Nimefurahi kukutana nawewe, Kama."
+"Habari, ninaitwa Kama."
+
+"Nimefurahi kukutana nawewe, Kama."
 
 ##
 Simu inaita.
@@ -43,7 +49,9 @@ Anaendelea.
 "Subiri kidogo, tafadhali."
 
 ##
-"Huyu ni Ali." "Huyu ni Leila."
+"Huyu ni Ali."
+
+"Huyu ni Leila."
 
 ##
 * License: CC BY-NC-SA

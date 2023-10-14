@@ -1,16 +1,22 @@
 # Susitikti su žmonėmis
 
 ##
-„Labas!“ „Sveikas!“
+„Labas!“
+
+„Sveikas!“
 
 ##
-„Iki!“ „Sudie!“
+„Iki!“
+
+„Sudie!“
 
 ##
 „Tai yra Kama“.
 
 ##
-„Labas, Aš Kama“. „Malonu susipažinti, Kama“.
+„Labas, Aš Kama“.
+
+„Malonu susipažinti, Kama“.
 
 ##
 Telefonas skambina.
@@ -43,7 +49,9 @@ Telefonas skambina.
 „Minutėlę, prašau“.
 
 ##
-„Tai Ali“. „O čia Leila“.
+„Tai Ali“.
+
+„O čia Leila“.
 
 ##
 * License: CC BY-NC-SA

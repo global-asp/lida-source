@@ -16,19 +16,27 @@
 "Nie rozumiem."
 
 ##
-"Czy to jest dobrze?" "Tak."
+"Czy to jest dobrze?"
+
+"Tak."
 
 ##
-"Czy to jest dobrze?" "Nie."
+"Czy to jest dobrze?"
+
+"Nie."
 
 ##
 "Czy mogę Ci pomóc?"
 
 ##
-"Czy możesz mi pomóc?" "Tak, oczywiście!"
+"Czy możesz mi pomóc?"
+
+"Tak, oczywiście!"
 
 ##
-"Czy mogę to poprosić?" "Tak, oczywiście!"
+"Czy mogę to poprosić?"
+
+"Tak, oczywiście!"
 
 ##
 "Dziękuję!"

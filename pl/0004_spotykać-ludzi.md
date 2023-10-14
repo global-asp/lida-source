@@ -1,16 +1,22 @@
 # Spotykać ludzi
 
 ##
-"Hej!" "Cześć!"
+"Hej!"
+
+"Cześć!"
 
 ##
-"Pa!" "Do widzenia!"
+"Pa!"
+
+"Do widzenia!"
 
 ##
 "To jest Kama."
 
 ##
-"Hej, Jestem Kama." "Miło mi Cię poznać, Kama."
+"Hej, Jestem Kama."
+
+"Miło mi Cię poznać, Kama."
 
 ##
 "Telefon dzwoni."
@@ -43,7 +49,9 @@ On się rozłącza.
 "Chwileczkę, proszę zaczekać."
 
 ##
-"To jest Ali." "To jest Leila."
+"To jest Ali."
+
+"To jest Leila."
 
 ##
 * License: CC BY-NC-SA

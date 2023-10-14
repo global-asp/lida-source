@@ -16,19 +16,27 @@
 "Nu înțeleg."
 
 ##
-"Este corect?" "Da."
+"Este corect?"
+
+"Da."
 
 ##
-"Este corect?" "Nu."
+"Este corect?"
+
+"Nu."
 
 ##
 "Pot să te ajut?"
 
 ##
-"Poți să mă ajuți, te rog?" "Da, bineînțeles!"
+"Poți să mă ajuți, te rog?"
+
+"Da, bineînțeles!"
 
 ##
-"Poți să-mi dai aia, te rog?" "Da, bineînțeles!"
+"Poți să-mi dai aia, te rog?"
+
+"Da, bineînțeles!"
 
 ##
 "Mulțumesc!"

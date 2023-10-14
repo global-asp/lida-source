@@ -1,16 +1,22 @@
 # Të takosh njerëz
 
 ##
-"Ç'kemi!" "Përshëndetje!"
+"Ç'kemi!"
+
+"Përshëndetje!"
 
 ##
-"Paçim!" "Mirupafshim!"
+"Paçim!"
+
+"Mirupafshim!"
 
 ##
 "Ky është Kama."
 
 ##
-"Ç'kemi, unë jam Kama." "Gëzohem që u njohëm, Kama."
+"Ç'kemi, unë jam Kama."
+
+"Gëzohem që u njohëm, Kama."
 
 ##
 Po bie telefoni.
@@ -43,7 +49,9 @@ Ai e mbyll.
 "Vetëm një moment, të lutem."
 
 ##
-"Ky është Ali." "Kjo është Leila."
+"Ky është Ali."
+
+"Kjo është Leila."
 
 ##
 * License: CC BY-NC-SA

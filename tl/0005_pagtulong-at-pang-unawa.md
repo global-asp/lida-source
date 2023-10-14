@@ -16,19 +16,27 @@
 "Hindi ko maintindihan."
 
 ##
-"Tama ba ito?" "Oo."
+"Tama ba ito?"
+
+"Oo."
 
 ##
-"Tama ba ito?" "Hindi."
+"Tama ba ito?"
+
+"Hindi."
 
 ##
 "Pwede ba kitang tulungan?"
 
 ##
-"Pwede mo ba akong tulungan?" "Oo, siyempre!"
+"Pwede mo ba akong tulungan?"
+
+"Oo, siyempre!"
 
 ##
-"Pwede ko bang makuha iyon?" "Oo, siyempre!"
+"Pwede ko bang makuha iyon?"
+
+"Oo, siyempre!"
 
 ##
 "Maraming salamat!"

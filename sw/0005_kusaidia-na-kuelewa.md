@@ -16,19 +16,27 @@
 "Sielewi."
 
 ##
-"Hii iko sawa?" "Ndiyo."
+"Hii iko sawa?"
+
+"Ndiyo."
 
 ##
-"Hii iko sawa?" "Hapana."
+"Hii iko sawa?"
+
+"Hapana."
 
 ##
 "Ninaweza kukusaidia?"
 
 ##
-"Unaweza kunisaidia, tafadhali?" "Ndiyo, ninaweza."
+"Unaweza kunisaidia, tafadhali?"
+
+"Ndiyo, ninaweza."
 
 ##
-"Ninaweza kupata hiki, tafadhali?" "Ndiyo, unaweza."
+"Ninaweza kupata hiki, tafadhali?"
+
+"Ndiyo, unaweza."
 
 ##
 "Asante!"

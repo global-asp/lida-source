@@ -16,19 +16,27 @@
 „Aš nesuprantu“.
 
 ##
-„Ar teisingai?“ „Taip“.
+„Ar teisingai?“
+
+„Taip“.
 
 ##
-„Ar teisingai?“ „Ne“.
+„Ar teisingai?“
+
+„Ne“.
 
 ##
 „Ar galiu tau padėti?“
 
 ##
-„Prašau, ar gali man padėti?“ „Taip, žinoma!“
+„Prašau, ar gali man padėti?“
+
+„Taip, žinoma!“
 
 ##
-„Ar galiu paimti?“ „Taip, žinoma!“
+„Ar galiu paimti?“
+
+„Taip, žinoma!“
 
 ##
 „Ačiū!“

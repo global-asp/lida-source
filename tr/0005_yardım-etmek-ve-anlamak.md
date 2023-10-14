@@ -16,19 +16,27 @@
 "Anlamıyorum."
 
 ##
-"Bu doğru mu?" "Evet, doğru."
+"Bu doğru mu?"
+
+"Evet, doğru."
 
 ##
-"Bu doğru mu?" "Hayır, doğru değil."
+"Bu doğru mu?"
+
+"Hayır, doğru değil."
 
 ##
 "Yardım edebilir miyim?"
 
 ##
-"Lütfen bana yardım eder misiniz?" "Evet, elbette!"
+"Lütfen bana yardım eder misiniz?"
+
+"Evet, elbette!"
 
 ##
-"Onu alabilir miyim, lütfen?" "Evet, tabii ki!"
+"Onu alabilir miyim, lütfen?"
+
+"Evet, tabii ki!"
 
 ##
 "Teşekkür ederim!"

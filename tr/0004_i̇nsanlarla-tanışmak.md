@@ -1,16 +1,22 @@
 # İnsanlarla Tanışmak
 
 ##
-"Selam!" "Merhaba!"
+"Selam!"
+
+"Merhaba!"
 
 ##
-"Hoşça kal!" "Görüşürüz!"
+"Hoşça kal!"
+
+"Görüşürüz!"
 
 ##
 "Bu Kama."
 
 ##
-"Selam, ben Kama." "Tanıştığıma memnun oldum Kama."
+"Selam, ben Kama."
+
+"Tanıştığıma memnun oldum Kama."
 
 ##
 Telefon çalıyor.
@@ -43,7 +49,9 @@ Telefonu kapatıyor.
 "Bir dakika lütfen."
 
 ##
-"Bu Ali." "Bu da Leila."
+"Bu Ali."
+
+"Bu da Leila."
 
 ##
 * License: CC BY-NC-SA

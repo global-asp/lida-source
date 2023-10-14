@@ -16,19 +16,27 @@
 "Nuk kuptoj."
 
 ##
-"A është e saktë?" "Po."
+"A është e saktë?"
+
+"Po."
 
 ##
-"A është e saktë?" "Jo."
+"A është e saktë?"
+
+"Jo."
 
 ##
 "Mund të të ndihmoj?"
 
 ##
-"Mund të më ndihmosh, të lutem?" "Po, sigurisht!"
+"Mund të më ndihmosh, të lutem?"
+
+"Po, sigurisht!"
 
 ##
-"A mund të ma japësh atë, të lutem?" "Po, sigurisht!"
+"A mund të ma japësh atë, të lutem?"
+
+"Po, sigurisht!"
 
 ##
 "Faleminderit!"
