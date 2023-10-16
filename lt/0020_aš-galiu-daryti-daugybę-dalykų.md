@@ -1,4 +1,4 @@
-# Aš galiu daryti daugybę dalykų.
+# Aš galiu daryti daugybę dalykų
 
 ##
 Aš galiu ruošti maistą.
@@ -28,5 +28,5 @@ Aš galiu juoktis!
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Selma Buer Hanstad
-* Translation: Viktorija
+* Translation: Viktorija Daknyte
 * Language: lt

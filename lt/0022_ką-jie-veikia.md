@@ -31,5 +31,5 @@ Visi ką nors veikia!
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Frida Sofie Schønsberg
-* Translation: Viktorija
+* Translation: Viktorija Daknyte
 * Language: lt

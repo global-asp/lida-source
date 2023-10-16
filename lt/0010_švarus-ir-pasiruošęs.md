@@ -13,7 +13,7 @@ Jis valosi dantis.
 Jis skutasi.
 
 ##
-Jis maudosi duše.
+Jis prausiasi duše.
 
 ##
 Jis plaunasi galvą.
@@ -22,14 +22,14 @@ Jis plaunasi galvą.
 Jis šluostosi.
 
 ##
-Jis išsišukuoja plaukus.
+Jis susišukuoja plaukus.
 
 ##
-Jis karposi nagus.
+Jis nusikerpa nagus.
 
 ##
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Viktorija
+* Translation: Viktorija Daknyte
 * Language: lt

@@ -4,19 +4,19 @@
 Tulima myli muziką. Ji klausosi muzikos kiekvieną dieną.
 
 ##
-Jos draugi Carlos ir Anita taip pat mėgsta muziką.
+Jos draugai Carlos ir Anita taip pat mėgsta muziką.
 
 ##
-„Tulima, kokio stiliaus muzika tau patinka?“ - klausia Carlos.
+„Tulima, kokio stiliaus muzika tau patinka?“ – klausia Carlos.
 
 ##
-„Man patinka Vakarų klasikinė muzika, tačiau labiau man patinka Etiopijos, mano šalies, muzika“.
+„Man patinka Vesternų muzika, tačiau labiau man patinka Etiopijos, mano šalies, muzika“.
 
 ##
-„Aš kilęs iš Kolumbijos. Aš klausau tik salsos. Ši muzika puikiai tinka šokiams“, - sako Carlos.
+„Aš kilęs iš Kolumbijos. Aš klausau tik salsos. Ši muzika puikiai tinka šokiams“, – sako Carlos.
 
 ##
-Anita sako: „Man patinka romantiškos dainos, muzika mane daro laimingą.“
+Anita sako: „Man patinka romantiškos dainos ir muzika, kuri mane daro laimingą“.
 
 ##
 Kokio stiliaus muzika patinka tau?
@@ -25,5 +25,5 @@ Kokio stiliaus muzika patinka tau?
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Sara Rumen Krotev
-* Translation: Viktorija
+* Translation: Viktorija Daknyte
 * Language: lt

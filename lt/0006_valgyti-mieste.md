@@ -1,16 +1,16 @@
 # Valgyti mieste
 
 ##
-Kip norėtų suvalgyti lakštinių.
+Kip norėtų suvalgyti makaronų.
 
 ##
-Jis pakviečia draugą prisijungti kartu.
+Jis pakviečia draugą eiti kartu.
 
 ##
 Jiedu ieško vietos pavalgyti.
 
 ##
-Jie randa vietą, kurioje parduoda lakštinius.
+Jie randa vietą, kurioje parduoda makaronus.
 
 ##
 Kip ir jo draugas susiranda staliuką.
@@ -19,10 +19,10 @@ Kip ir jo draugas susiranda staliuką.
 Jiedu atsisėda ir pakviečia padavėją.
 
 ##
-Padavėja prieina. Kip užsisako lakštinių.
+Padavėja prieina. Kip užsisako makaronų.
 
 ##
-Jo draugas taip pat užsisako lakštinių.
+Jo draugas taip pat užsisako makaronų.
 
 ##
 Jie pasiima po stiklinę vandens.
@@ -31,10 +31,10 @@ Jie pasiima po stiklinę vandens.
 Padavėja atneša maistą.
 
 ##
-Jie įsideda padažo, druskos ir išmaišo lakštinius.
+Jie įsipila padažo, įsideda druskos ir išmaišo makaronus.
 
 ##
-Kip ir jo draugas valgo lakštinius.
+Kip ir jo draugas valgo makaronus. Jie labai skanūs.
 
 ##
 Jis geria vandenį.
@@ -46,5 +46,5 @@ Jie apmoka sąskaitą.
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Viktorija
+* Translation: Viktorija Daknyte
 * Language: lt

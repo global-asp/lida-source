@@ -10,7 +10,7 @@ Nors ir buvo šalta, aš buvau be galo laiminga atvykusi į Norvegiją. Pagaliau
 Pirmosios dienos mamos miestelyje buvo labai keistos. Buvo šalta ir snieguota, nebuvo ko pamatyti. Gatvės buvo visiškai tuščios. Keletas žmonių, kuriuos sutikome, atrodė šalti ir nedraugiški. Somalyje žmonių pilna visur, todėl čia viskas buvo svetima. Mama ir jos draugės įteikė mums dovanų, o tada ji nusivežė mus nusipirkti žieminių drabužių.
 
 ##
-Po Kalėdų atostogų aš prisijungiau prie norvegų kalbos kursų suaugusiųjų mokymo centre. Čia aš mokiausi du metus prieš pradėdamas eiti į paprastą mokyklą. Dabar mano paskutinieji mokymosi metai ir aš turiu daug naujų draugų. Aš esu labai draugiška ir mėgaujuosi sutikdama naujus žmones.
+Po Kalėdų atostogų aš prisijungiau prie norvegų kalbos kursų suaugusiųjų mokymo centre. Čia aš mokiausi dvejus metus prieš pradėdamas eiti į paprastą mokyklą. Dabar mano paskutinieji mokymosi metai ir aš turiu daug naujų draugų. Aš esu labai draugiška ir mėgaujuosi sutikdama naujus žmones.
 
 ##
 Po mokyklos aš einu į savanorių centrą, kur sulaukiu pagalbos su namų darbais. Centre aš taip pat prisijungiau prie siuvimo kursų.
@@ -28,5 +28,5 @@ Jeigu būčiau pasilikusi Somalyje, manau, šiuo metu jau būčiau tapusi mama. 
 * License: CC BY
 * Text: Aamiina
 * Illustration: Julie Cornelia van Walsum
-* Translation: Viktorija
+* Translation: Viktorija Daknyte
 * Language: lt

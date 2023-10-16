@@ -25,5 +25,5 @@ Mano dukrai tik dveji metai.
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Vilius Aistis Vilimas
-* Translation: Viktorija
+* Translation: Viktorija Daknyte
 * Language: lt

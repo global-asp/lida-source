@@ -1,7 +1,7 @@
 # Į kavinę
 
 ##
-Boran ir jo dukra išeina pasivaikščioti.
+Boran ir jo dukra išėjo pasivaikščioti.
 
 ##
 Jie prieina kavinę ir įeina į vidų.
@@ -13,16 +13,16 @@ Kavinėje padavėjas pasodina juos prie staliuko.
 Boran užsisako kavos.
 
 ##
-Jo dukra užsisako gazuotą gėrimą.
+Jo dukra užsisako limonado.
 
 ##
 Padavėjas atneša jų užsakymą.
 
 ##
-Jis įpila gazuotą gėrimą į stiklinę.
+Jis įpila limonadą į stiklinę.
 
 ##
-Ji geria gazuotą gėrimą.
+Ji geria limonadą.
 
 ##
 Boran į kavą įsiberia cukraus.
@@ -46,5 +46,5 @@ Boran su dukra išeina iš kavinės.
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Viktorija
+* Translation: Viktorija Daknyte
 * Language: lt

@@ -28,5 +28,5 @@
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Viktorija
+* Translation: Viktorija Daknyte
 * Language: lt

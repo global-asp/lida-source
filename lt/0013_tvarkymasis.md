@@ -4,7 +4,7 @@
 Pirmiausia jis iššluoja grindis.
 
 ##
-Tuomet jis siurbliuoja. Dulkių siurblys puikiai veikia.
+Tuomet jis siurbia. Dulkių siurblys puikiai veikia.
 
 ##
 Tuomet jis paima kibirą vandens ir grindų plovimo šluotą.
@@ -28,7 +28,7 @@ Naudodamasis kempine ir valikliu jis šveičia nešvarumus nuo grindų.
 Tada jis valo langą.
 
 ##
-Jo svetainė yra netvarkinga.
+Jo svetainė yra labai netvarkinga.
 
 ##
 Jis susitvarko. Dabar čia gražu ir švaru.
@@ -37,5 +37,5 @@ Jis susitvarko. Dabar čia gražu ir švaru.
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Viktorija
+* Translation: Viktorija Daknyte
 * Language: lt

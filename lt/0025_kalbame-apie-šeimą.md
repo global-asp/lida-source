@@ -13,13 +13,13 @@
 „Kiek metų tavo dukterims?“
 
 ##
-„Minai yra ketveri. Ji eina į paruošiamąją klasę. Miriam - dešimt metų, tad ji eina į mokyklą“.
+„Minai yra ketveri. Ji eina į paruošiamąją klasę. Miriam – dešimt metų, tad ji eina į mokyklą“.
 
 ##
 „Visi mano vaikai eina į mokyklą. Mano sūnus baigs mokyklą kitais metais“.
 
 ##
-„Kaip šaunu! Jie auga taip greitai. Ką tavo sūnus nori veikti po mokyklos?“
+„Kaip šaunu! Jie auga taip greitai. Ką tavo sūnus nori veikti baigęs mokyklą?“
 
 ##
 „Jis nori susirasti darbą, tačiau aš jam sakau, kad pirmiau jis turėtų stoti į universitetą“.
@@ -31,5 +31,5 @@
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Billie Cejka Risnes
-* Translation: Viktorija
+* Translation: Viktorija Daknyte
 * Language: lt

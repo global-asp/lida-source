@@ -8,7 +8,7 @@
 ##
 „Iki!“
 
-„Sudie!“
+„Viso geriausio!“
 
 ##
 „Tai yra Kama“.
@@ -19,7 +19,7 @@
 „Malonu susipažinti, Kama“.
 
 ##
-Telefonas skambina.
+Telefonas skamba.
 
 ##
 „Labas“.
@@ -28,10 +28,10 @@ Telefonas skambina.
 „Sveikas, čia Sara“.
 
 ##
-„Jis padeda ragelį“.
+Jis padeda ragelį.
 
 ##
-„Tai yra Kama“.
+„Sveikas atvykęs!“
 
 ##
 „Prašau, užeik“.
@@ -43,10 +43,10 @@ Telefonas skambina.
 „Nieko tokio“.
 
 ##
-„Atleiskite, prašau“.
+„Atleiskite“.
 
 ##
-„Minutėlę, prašau“.
+„Minutėlę“.
 
 ##
 „Tai Ali“.
@@ -57,5 +57,5 @@ Telefonas skambina.
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Viktorija
+* Translation: Viktorija Daknyte
 * Language: lt

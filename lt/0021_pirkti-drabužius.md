@@ -4,13 +4,13 @@
 Ali marškiniai yra seni. Jam reikia naujų.
 
 ##
-Ji eina į prekybos centrą ieškoti naujų drabužių.
+Jis eina į prekybos centrą ieškoti naujų drabužių.
 
 ##
 Prekybos centre jis negali rasti drabužių parduotuvės.
 
 ##
-Jis įeina į parduotuvę paklausti krypties. „Kur galėčiau nusipirkti drabužių?“ - klausia jis.
+Jis įeina į parduotuvę paklausti krypties. „Kur galėčiau nusipirkti drabužių?“ – klausia jis.
 
 ##
 Parduotuvės pardavėja parodo į kitą prekybos centro pusę. Drabužių parduotuvė yra priešingoje pusėje!
@@ -25,5 +25,5 @@ Vietoje marškinių jis nusiperka naujas kelnes, nes jos išpardavime. Jis nuspr
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Sara Sahar Haidari
-* Translation: Viktorija
+* Translation: Viktorija Daknyte
 * Language: lt

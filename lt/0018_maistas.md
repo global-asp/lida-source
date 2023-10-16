@@ -25,5 +25,5 @@ Jie ruošia maistą. Kaip skaniai kvepia!
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Sara Sahar Haidari
-* Translation: Viktorija
+* Translation: Viktorija Daknyte
 * Language: lt

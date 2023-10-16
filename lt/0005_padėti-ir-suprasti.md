@@ -10,7 +10,7 @@
 „Kur yra...?“
 
 ##
-„Štai šia kryptimi“.
+„Štai ta kryptimi“.
 
 ##
 „Aš nesuprantu“.
@@ -26,15 +26,15 @@
 „Ne“.
 
 ##
-„Ar galiu tau padėti?“
+„Ar tau reikia pagalbos?“
 
 ##
-„Prašau, ar gali man padėti?“
+„Ar galėtum man padėti?“
 
 „Taip, žinoma!“
 
 ##
-„Ar galiu paimti?“
+„Ar galėčiau paimti?“
 
 „Taip, žinoma!“
 
@@ -45,5 +45,5 @@
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Viktorija
+* Translation: Viktorija Daknyte
 * Language: lt

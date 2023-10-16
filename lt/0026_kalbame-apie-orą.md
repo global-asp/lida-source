@@ -10,7 +10,7 @@
 „Aš jau laukiu pavasario, tačiau labiau man patinka vasara, kai gražu ir šilta“.
 
 ##
-„Šaltis manęs nejaudina. Ko tikrai nemėgstu - tai lietaus ir vėjo“.
+„Šaltis manęs nejaudina. Ko tikrai nemėgstu – lietaus ir vėjo“.
 
 ##
 „Pažiūrėk į tuos tamsius debesis. Rytoj lis. Taip pat bus labai vėjuota. Tikėtina, kad bus audra“.
@@ -22,5 +22,5 @@
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Ognjen Drageljević
-* Translation: Viktorija
+* Translation: Viktorija Daknyte
 * Language: lt

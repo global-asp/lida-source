@@ -13,17 +13,17 @@ Mes išsikėlėme gyventi į Norvegiją ir aš pradėjau eiti į mokyklą tam, k
 Aš vargiai beturėjau pinigų nuo tada, kai atvykau į Norvegiją. Kartą mano vyras davė man pinigų pietums, bet kadangi aš jų neturėjau, juos pasilikau. Mano draugai mokykloje siūlėsi man surasti darbą, tačiau vyras pasakė, kad negaliu dirbti. Jis nemano, kad valytojos darbas yra man tinkamas.
 
 ##
-Vietoje to jis man turėjo kitą darbą - pastatyti garažą. Jis buvo viršininkas, o aš viską dariau. Kadangi jis sirgo, pats nelabai ką begalėjo pasidaryti. Jis man visai nedavė pinigų, kuriuos uždirbo iš garažo statymo.
+Vietoje to jis man turėjo kitą darbą – pastatyti garažą. Jis buvo viršininkas, o aš viską dariau. Kadangi jis sirgo, pats nelabai ką begalėjo pasidaryti. Jis man visai nedavė pinigų, kuriuos uždirbo iš garažo statymo.
 
 ##
-Vieną dieną jis pasakė, kad jam nuobodu būti vienam namuose, todėl jis nusprendė, kad turėtume įsigyti šunį. Šuns aš nenorėjau, kadangi būdavau pavargusi po mokyklos ir namų darbų, kuriuos turėjau atlikti. Jis pasakė, kad kiekvieną dieną išves šunį pasivaikščioti, tačiau galiausiai aš turėjau rūpintis abiem - šuniu ir savo senu vyru.
+Vieną dieną jis pasakė, kad jam nuobodu būti vienam namuose, todėl jis nusprendė, kad turėtume įsigyti šunį. Šuns aš nenorėjau, kadangi būdavau pavargusi po mokyklos ir namų darbų, kuriuos turėjau atlikti. Jis pasakė, kad kiekvieną dieną išves šunį pasivaikščioti, tačiau galiausiai aš turėjau rūpintis abiem – šuniu ir savo senu vyru.
 
 ##
-Aš nežinau, ką man atneš rytojus. Planuoju eiti į kitą mokyklą, tačiau vyras šio noro nepalaiko. Jis planuoja išsikelti gyventi toliau, kad man būtų sunkiau. Aš noriu pasipriešinti, bet nežinau kaip. Nėra lengva gyventi užsienio valstybėje su pagyvenusiu vyru, kaip aš maniau iš pradžių.
+Aš nežinau, ką man atneš rytojus. Planuoju eiti į kitą mokyklą, tačiau vyras šio noro nepalaiko. Jis planuoja išsikelti gyventi toliau, kad man būtų sunkiau. Aš noriu pasipriešinti, bet nežinau kaip. Nėra taip lengva gyventi užsienio valstybėje su pagyvenusiu vyru, kaip aš maniau iš pradžių.
 
 ##
 * License: CC BY
 * Text: Aranya
 * Illustration: Sunniva Høiby-Øiset
-* Translation: Viktorija
+* Translation: Viktorija Daknyte
 * Language: lt
