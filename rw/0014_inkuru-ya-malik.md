@@ -31,5 +31,5 @@ Nizeye ko umunsi umwe nzasubira muri Afghanistan. Abantu benshi bariyo bakeneye 
 * License: CC BY
 * Text: LIDA Italia
 * Illustration: Vilius Aistis Vilimas
-* Translation: ABISANGE IRAGENA Sandrine
+* Translation: Abisange Iragena Sandrine
 * Language: rw

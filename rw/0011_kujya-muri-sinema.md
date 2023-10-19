@@ -37,5 +37,5 @@ Filime irangiye basezeranyeho barataha.
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: ABISANGE IRAGENA Sandrine
+* Translation: Abisange Iragena Sandrine
 * Language: rw

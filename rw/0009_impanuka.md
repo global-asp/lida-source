@@ -49,5 +49,5 @@ Bamujyanye mu rugo. Carlos aragendera ku mbago.
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: ABISANGE IRAGENA Sandrine
+* Translation: Abisange Iragena Sandrine
 * Language: rw
