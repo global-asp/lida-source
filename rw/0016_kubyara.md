@@ -31,5 +31,5 @@ Ababyeyi bombi babyaye abana bameze neza. Selamawit yarongeye abyara umuhungu, n
 * License: CC BY
 * Text: LIDA Norge
 * Illustration: Sara Dorthea Johannesen
-* Translation: ABISANGE IRAGENA Sandrine
+* Translation: Abisange Iragena Sandrine
 * Language: rw

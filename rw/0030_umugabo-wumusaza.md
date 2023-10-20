@@ -25,5 +25,5 @@ Sinzi icyo ejo hazaza hampishiye. Gahunda mfite ni uguhindura ikigo, ariko umuga
 * License: CC BY
 * Text: Aranya
 * Illustration: Sunniva Høiby-Øiset
-* Translation: ABISANGE IRAGENA Sandrine
+* Translation: Abisange Iragena Sandrine
 * Language: rw

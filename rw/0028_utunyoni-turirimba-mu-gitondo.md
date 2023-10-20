@@ -25,5 +25,5 @@ Yulia yagiye mu buhungiro bw'abagore, aho yongeye kumva atekanye nyuma y'igihe k
 * License: CC BY
 * Text: LIDA Portugal
 * Illustration: Vilius Aistis Vilimas
-* Translation: ABISANGE IRAGENA Sandrine
+* Translation: Abisange Iragena Sandrine
 * Language: rw

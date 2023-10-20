@@ -28,5 +28,5 @@ Iyo mba naragumye muri Somalia, ntekereza ko ubu mba narabaye umugore. Ahari mba
 * License: CC BY
 * Text: Aamiina
 * Illustration: Julie Cornelia van Walsum
-* Translation: ABISANGE IRAGENA Sandrine
+* Translation: Abisange Iragena Sandrine
 * Language: rw

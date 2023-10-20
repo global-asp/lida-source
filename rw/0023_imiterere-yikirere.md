@@ -1,10 +1,10 @@
-# Ikirere/Imiterere y'ikirere
+# Imiterere y'ikirere
 
 ##
 Hariho izuba.
 
 ##
-Ikirere kirijimye/ Harijimye.
+Harijimye.
 
 ##
 Imvura irimo kugwa.
