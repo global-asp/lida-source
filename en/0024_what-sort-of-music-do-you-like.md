@@ -13,7 +13,7 @@ Her friends Carlos and Anita also like music.
 "I like Western music, but I prefer music from my country, Ethiopia."
 
 ##
-"I come from Columbia. I only listen to salsa. It's great for dancing," says Carlos.
+"I come from Colombia. I only listen to salsa. It's great for dancing," says Carlos.
 
 ##
 Anita says, "I like romantic songs and music that makes me happy."
