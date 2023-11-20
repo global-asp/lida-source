@@ -13,7 +13,7 @@ Saaxiibadeed Carlos iyo Anita sidoo kale waxay ka helaan muusigga.
 "Waan ka helaa muusigga reer galbeedka, laakiin waxaan ka door bidaa muusigada dalkayga Itoobiya."
 
 ##
-"Waxaan ka imid Columbia, kaliya waxaan dhagaystaa salsa. Waxay ku wanaagsan tahay dheesha," ayuu yidhi Carlos.
+"Waxaan ka imid Kolombiya, kaliya waxaan dhagaystaa salsa. Waxay ku wanaagsan tahay dheesha," ayuu yidhi Carlos.
 
 ##
 Anita ayaa tiri, "Waxaan ka helaa heesaha jaceylka ah iyo muusigyada iga farxiya."
