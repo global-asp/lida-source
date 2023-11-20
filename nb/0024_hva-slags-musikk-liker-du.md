@@ -13,7 +13,7 @@ Vennene hennes Carlos og Anita liker også musikk.
 «Jeg liker vestlig musikk, men jeg foretrekker musikk fra hjemlandet mitt, Etiopia.»
 
 ##
-«Jeg kommer fra Columbia. Jeg hører bare på salsa. Det er musikk som er fin å danse til», sier Carlos.
+«Jeg kommer fra Colombia. Jeg hører bare på salsa. Det er musikk som er fin å danse til», sier Carlos.
 
 ##
 Anita sier: «Jeg liker romantiske sanger og musikk som gjør meg glad.»
