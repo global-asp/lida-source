@@ -25,7 +25,7 @@ Acë bɛ̈n tän ye wεl akim ɣaac thïn.
 "Eyen, ɣεn bä akimdiën leec yuɔ̈p talpun nhiäk duur."
 
 ##
-"Tä wic yin wεl akiim ril, ka wïc bë kek gäät yïn ee akim leec wälä akim.
+"Tä wic yin wεl akiim ril, ka wïc bë kek gäät yïn ee akim leec wälä akim."
 
 ##
 "Yin ca leec! Ok abë bεn yök."

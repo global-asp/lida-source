@@ -16,22 +16,30 @@
 "Acä ee deetic."
 
 ##
-"Kën ee yic?" "ɣɛ̈ɛ̈."
+"Kën ee yic?"
+
+"ɣɛ̈ɛ̈."
 
 ##
-"Kën ee yic?" "Aɣä."
+"Kën ee yic?"
+
+"Aɣä."
 
 ##
 "Leu ba yin kony?"
 
 ##
-"Leu ba ɣεn kony, anhadit?" "Aai, adil!"
+"Leu ba ɣεn kony, anhadit?"
+
+"Aai, adil!"
 
 ##
-"Leu ba ɣεn gäm kë tui, anhadit?" Aai, eyen!"
+"Leu ba ɣεn gäm kë tui, anhadit?"
+
+"Aai, eyen!"
 
 ##
-Yin ca leec!"
+"Yin ca leec!"
 
 ##
 * License: CC BY-NC-SA
