@@ -1,4 +1,4 @@
-# Kotuna mpé koyanola
+# Kotuna mpe koyanola
 
 ##
 "Bolimbisi, naza na mposa ya oyo wana."
@@ -7,13 +7,13 @@
 "Oza na...?"
 
 ##
-"Eza likambo té soki na vandi awa?"
+"Eza na likambo te soki na vandi awa?"
 
 ##
-"Likambo té."
+"Ekozala malamu."
 
 ##
-"Oza na mposa ya óyo?"
+"Okolinga mwa ndambo ya óyo?"
 
 ##
 "Iyo, soki esepelisi yo!"
@@ -22,11 +22,11 @@
 "Bolimbisi, nakoki kotala oyo wana?"
 
 ##
-"Yango oyo."
+"Ozali awa."
 
 ##
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Paul
+* Translation: Paul Fuila
 * Language: ln

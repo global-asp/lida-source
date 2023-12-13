@@ -7,7 +7,7 @@
 "Ayii!"
 
 ##
-"Boni yo?"
+"Ozali malamu?"
 
 ##
 "Libumu ezo sala nga pasi."
@@ -16,13 +16,13 @@
 "Nazo yoka motó pasi."
 
 ##
-"Nayoki nzala."
+"Nazali na nzala."
 
 ##
 "Nalembi."
 
 ##
-"Nayoki pongi."
+"Nazali na pongi."
 
 ##
 "Nayoki posa ya mayi."
@@ -34,5 +34,5 @@
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Paul
+* Translation: Paul Fuila
 * Language: ln

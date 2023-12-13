@@ -4,47 +4,47 @@
 Kip azali na posa ya kolia makaroni.
 
 ##
-Kip ayebisi moninga nayé bakende elongo.
+Kip ayebisi moninga na ye alanda ye.
 
 ##
 Bakeyi koluka esika ya kolia.
 
 ##
-Bamoni esika bazo teka makaroni.
+Bamoni esika bazali koteka makaroni.
 
 ##
-Kip na moninga nayé bazwi esika ya kovanda.
+Kip na moninga na ye bazwi mesa.
 
 ##
-Bavandi mpé ba bengi mosali ya malewa.
+Bavandi mpe ba bengi mosali.
 
 ##
-Mosali ya malewa ayé. Kip asengi makaroni.
+Moteki ayei. Kip asengi makaroni.
 
 ##
-Moninga nayé mpé asengi makaroni.
+Moninga na ye mpe asengi makaroni.
 
 ##
 Moto na moto azwi kopo ya mayi.
 
 ##
-Mosali ya malewa ayé na biloko.
+Mosali amemi bilei.
 
 ##
-Babakisi supu na mungwa, mpé babalusi makoni.
+Babakisi supu na mungwa, mpe babalusi makaroni.
 
 ##
-Kip na moninga nayé ba lié makaroni. Ezali éléngi.
+Kip na moninga na ye balié makaroni. Ezali éléngi.
 
 ##
-Ameli mayi.
+Ameli mayi na ye.
 
 ##
-Bafuti faktire.
+Bafuti mbongo.
 
 ##
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Paul
+* Translation: Paul Fuila
 * Language: ln

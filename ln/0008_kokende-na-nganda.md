@@ -1,50 +1,50 @@
 # Kokende na nganda
 
 ##
-Boran na mwana nayé ya mwasi baké kotambola.
+Boran na mwana na ye ya mwasi babimi mpo na kotambola.
 
 ##
-Bakomi na nganda, mpé bakoti.
+Bakomi na nganda, mpe bakoti.
 
 ##
-Mosali ya nganda alakisi bango esika ya kovanda.
+Na nganda, mosali ya nganda alakisi bango esika ya kovanda.
 
 ##
 Boran asengi kafé.
 
 ##
-Mwana nayé ya mwasi asengi masanga ya sukali.
+Mwana na ye ya mwasi asengi masanga ya sukali.
 
 ##
 Mosali ya nganda amemeli bango oyo basengi.
 
 ##
-Atier masanga ya sukali na kopo ya masanga.
+Atie masanga ya sukali na kopo.
 
 ##
-Mwana mwasi ya Boran ameli masanga nayé ya sukali.
+Ameli masanga ya sukali.
 
 ##
-Boran atié sukali na kafé nayé.
+Boran atie sukali na kafé na ye.
 
 ##
 Abaloli kafé.
 
 ##
-Ameli.
+Ameli yango.
 
 ##
-Boran asengi faktire.
+Boran asengi ntalo ya kofuta.
 
 ##
 Afuti mosali ya nganda.
 
 ##
-Boran na mwana nayé ya mwasi bakeyi.
+Boran na mwana na ye ya mwasi babimi na nganda.
 
 ##
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Paul
+* Translation: Paul Fuila
 * Language: ln

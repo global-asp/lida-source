@@ -1,41 +1,41 @@
 # Kokende kotala filme
 
 ##
-Mai azali koluka filme moko ya kotala. Alingi kokende kotala filme elongo na Lisa, moninga na ye ya motema.
+Mai azali koluka filme ya kotala. Alingi kokende kotala filme elongo na moninga na ye ya motema, Lisa.
 
 ##
 Mai akeyi kotala filme na tukutuku na ye. Bayokani bakutana kuna.
 
 ##
-Bapesani mboté na ndako ya bafilme. Bazali na esengo mingi ya kotala filme yango.
+Bapesani mboté na ndako ya bafilme. Bazali na esengo ya kotala filme.
 
 ##
-Mai asombi batike mpo nabango mibale na esika oyo bazoteka batike.
+Mai asombi batiké mpo na bango mibale na esika oyo bazoteka batiké.
 
 ##
-Asombi mpe saani monene ya masangu oyo babengi popcorn.
+Asombi mpe sàni monene ya masangu oyo babengi popcorn.
 
 ##
-Lisa azwi masangu mpe Mai asombi milangi mibale ya masanga ya sukali.
+Lisa azwi masangu na ntango Mai asombi milangi mibale ya masanga ya sukali.
 
 ##
-Balakisi batike na bango liboso bákota na kati kotala filme.
+Balakisi batike na bango liboso bakota na kati kotala filme.
 
 ##
-Bazali koluka bisika na bango ya kofanda. Molili ezali mpo filme ebandi.
+Bazali koluka bisika na bango ya kofanda. Ezali molili mpo filme ebandaki kala.
 
 ##
 Bafandi mpo na kotala filme.
 
 ##
-Ezali filme ya bolingo. Ezali lolenge ya filme oyo basepelaka na yango mingi.
+Ezali filme ya bolingo. Ezali lolenge ya filme oyo basepelaka na yango.
 
 ##
-Nsima ya kotala filme yango, ba pesani mbote mpe bakabwani mpo na kozonga na bandako na bango.
+Nsima ya kotala filme, ba pesani mbote mpe bakabwani mpo na kozonga na bandako.
 
 ##
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Paul
+* Translation: Paul Fuila
 * Language: ln

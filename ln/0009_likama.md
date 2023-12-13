@@ -1,10 +1,10 @@
 # Likama
 
 ##
-Carlos azotambola na tukutuku. Azotambwisa yango mbangu.
+Carlos azotambwisa tukutuku. Azotambwisa mbangu.
 
 ##
-Mayi ezali na nzela. Nzela yango ezali moselu.
+Mayi ezali na nzela. Nzela ezali moselulu.
 
 ##
 Abungisi bokebi ya kokumba tukutuku mpe akweyi.
@@ -13,16 +13,16 @@ Abungisi bokebi ya kokumba tukutuku mpe akweyi.
 Carlos azoki makasi.
 
 ##
-Mwasi moko abengi ambulansi. "Likama moko esalemi. Boyá noki!"
+Mwasi moko abengi ambulansi. "Likama moko esalemi. Boya na lombango!"
 
 ##
-Ambulansi eye nalombango.
+Ambulansi eyei na lombango penza.
 
 ##
-Mibali mibale batié Carlos na mbeto ya bakakatani.
+Mibali mibale batie Carlos na mbeto ya komema.
 
 ##
-Bakotisi Carlos na ambulansi.
+Batomboli Carlos na kati ya ambulansi.
 
 ##
 Ambulansi ekeyi na lopitalo.
@@ -40,14 +40,14 @@ Carlos azali koyoka mpasi makasi na lokolo, mpe azali komitungisa.
 Minganga mibale bazosala ye lipaso na lokolo.
 
 ##
-Baboti na ye baye kotala ye. Batuni ye ndenge nini likama yango esalemaki.
+Baboti na ye bayei kotala ye. Batuni ye ndenge nini likama yango esalemaki.
 
 ##
-Bamemi ye na ndako. Carlos azali kosalela banzete pona kotambola.
+Bamemi ye na ndako. Carlos azali kosalela ba nzete mpo na kotambola.
 
 ##
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Paul
+* Translation: Paul Fuila
 * Language: ln

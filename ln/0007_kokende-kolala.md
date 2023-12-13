@@ -1,41 +1,41 @@
 # Kokende kolala
 
 ##
-Alembi.
+Alembi makasi.
 
 ##
-Eza ntango yako kende kolala.
+Ezali ntango ya kokende kolala.
 
 ##
-Azo kende na kikoso.
+Akeyi na kikoso.
 
 ##
-Azo nika mino.
+Azo nika mino na ye.
 
 ##
-Azo kende na esika ya kolala.
+Akeyi na ndako ya kolala.
 
 ##
-Azo longola bilamba.
+Alongoli bilamba na ye.
 
 ##
-Avandi na mbeto.
+Afandi na mbeto.
 
 ##
-Azo tala etando yike.
+Azo tala etando yike (TV).
 
 ##
-Akangi etando yike.
+Akangi etando yike (TV).
 
 ##
 Akeyi kolala.
 
 ##
-Azo lota.
+Azali kolota.
 
 ##
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Paul
+* Translation: Paul Fuila
 * Language: ln

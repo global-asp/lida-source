@@ -1,29 +1,29 @@
 # Ntango
 
 ##
-Moyi ezali
+Moyi ezali.
 
 ##
-Mapata esali
+Mapata ezali.
 
 ##
-Mbula ezo beta
+Mbula ezo beta.
 
 ##
-Mompempe ezali
+Mopepe ezali.
 
 ##
-Mbula ya mpembe ezo kweya
+Mbula ya mpembe ezali kokweya.
 
 ##
-Malili
+Malili ezali.
 
 ##
-Molunge
+Molunge ezali.
 
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Tuva Akselsen Sandersen, Josefine Madsen
-* Translation: Paul
+* Translation: Paul Fuila
 * Language: ln

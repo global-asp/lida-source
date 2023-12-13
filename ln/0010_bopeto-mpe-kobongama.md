@@ -1,35 +1,35 @@
-# Peto mpé ya kobongama
+# Bopeto mpe kobongama
 
 ##
-Azo sokola maboko.
+Azali kosokola maboko na ye.
 
 ##
-Azo sokola elongi.
+Azali kosokola elongi na ye.
 
 ##
-Azo nika mino.
+Azali konika mino na ye.
 
 ##
-Azo kata mandefu.
+Azali kokata mandefu.
 
 ##
-Azo sokola.
+Azali kosokola.
 
 ##
-Azo sokola suki.
+Azali kosokola suki na ye.
 
 ##
-Azo mipangwisa.
+Azali komikausa.
 
 ##
-Azo sanola suki.
+Azali kosanola suki na ye.
 
 ##
-Azo mikata manzaka ya maboko.
+Azali komikata manzaka ya maboko.
 
 ##
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Paul
+* Translation: Paul Fuila
 * Language: ln

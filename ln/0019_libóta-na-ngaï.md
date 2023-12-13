@@ -4,26 +4,26 @@
 Oyo libóta na ngaï.
 
 ##
-Papa na ngaï yeyo.
+Papa na ngai ye yo.
 
 ##
-Maman na ngaï yeyo.
+Mama na ngai ye yo.
 
 ##
-Kombo ya mwasi na ngaï Mona.
+Mwasi na ngai kombo na ye Mona.
 
 ##
 Naza na bana míbalé.
 
 ##
-Mwana na ngaï ya mobali aza na mbula mítáno.
+Mwana na ngai ya mobali aza na mbula mítáno.
 
 ##
-Mwana na ngaï ya mwasi aza na mbula míbalé.
+Mwana na ngai ya mwasi aza na mbula míbalé.
 
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Vilius Aistis Vilimas
-* Translation: Paul
+* Translation: Paul Fuila
 * Language: ln

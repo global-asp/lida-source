@@ -1,32 +1,32 @@
-# Nakoki kosala mosala bwa ngaï
+# Nakoki kosala makambo ebele
 
 ##
-Nakoki kolamba
+Nakoki kolamba.
 
 ##
-Nakoki ko kumba Nkínga
+Nakoki ko kumba velo.
 
 ##
-Nakoki kotonga
+Nakoki kotonga bilamba.
 
 ##
-Nakoki kosala mosala makasi
+Nakoki kosala mosala makasi.
 
 ##
-Nakoki koloba makota misato
+Nakoki koloba minoko misato.
 
 ##
-Nakoki koyemba
+Nakoki koyemba.
 
 ##
-Nakoki kobatela bana
+Nakoki kobatela bana.
 
 ##
-Nakoki koseka
+Nakoki koseka.
 
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Selma Buer Hanstad
-* Translation: Paul
+* Translation: Paul Fuila
 * Language: ln

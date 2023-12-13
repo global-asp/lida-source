@@ -1,4 +1,4 @@
-# Biloko
+# Bilei
 
 ##
 Azo lia pizza. Ezali kitoko.
@@ -13,17 +13,17 @@ Aliaka loso mikolo nyoso.
 Alingaka kolia ndúnda.
 
 ##
-Aliaka misuni té. Azali moto oyo alyaka kaka ndunda.
+Aliaka misuni té. Azali moto oyo aliaka kaka ndunda.
 
 ##
-Aliaka nguba té. Esalaka nzoto naye mabe.
+Aliaka nguba té. Esalaka nzoto na ye mabe.
 
 ##
-Bazo lamba. Solo kitoko!
+Bazo lamba. Nsolo kitoko!
 
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Sara Sahar Haidari
-* Translation: Paul
+* Translation: Paul Fuila
 * Language: ln

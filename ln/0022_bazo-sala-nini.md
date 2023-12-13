@@ -10,10 +10,10 @@ Ozo tambola.
 Azo koma.
 
 ##
-Alali.
+Azali kolala.
 
 ##
-Azo lia.
+Ezali kolia.
 
 ##
 Tozo tanga.
@@ -25,11 +25,11 @@ Tozo yoka.
 Bazo kumba motuka.
 
 ##
-bato nyonso bazo sala!
+Bato nyonso bazo sala eloko moko!
 
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Frida Sofie Schønsberg
-* Translation: Paul
+* Translation: Paul Fuila
 * Language: ln

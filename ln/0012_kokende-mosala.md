@@ -10,35 +10,35 @@ Alamuki.
 Akei na kikoso.
 
 ##
-Azo nika mino.
+Azali konika mino na ye.
 
 ##
-Apangwisi monoko.
+Apangusi monoko na ye.
 
 ##
-Asokoli mpé asokoli suki nayé.
+Asokoli nzoto mpe asokoli suki na ye.
 
 ##
-Amipangwisi na epangwiseli.
+Amipangusi na epanguseli.
 
 ##
-Alati bilamba. Alati jupe na elamba.
+Alati bilamba. Alati jupe na simisi.
 
 ##
-Azwi saki nayé.
+Azwi saki na ye.
 
 ##
-Azwi saki nayé mpé akeyi mosala.
+Azui saki na ye mpe akeyi mosala.
 
 ##
-Azokende mosala.
+Atambolaka na makolo mpo na kokende mosala.
 
 ##
-Akomi na mosala. Azo sala na biro.
+Akomi na mosala. Azali kosala na biro.
 
 ##
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Paul
+* Translation: Paul Fuila
 * Language: ln

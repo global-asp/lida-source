@@ -4,16 +4,16 @@
 "Matondo!"
 
 ##
-"Na yebi té."
+"Nayebi té."
 
 ##
-"Wapi...?"
+"Ezali wapi...?"
 
 ##
-"Epai boye."
+"Na ndenge wana."
 
 ##
-"Nazo comprendre té."
+"Nazo sosola té."
 
 ##
 "Ezali boye?" "Iyo."
@@ -25,10 +25,10 @@
 "Nakoki kosunga yo?"
 
 ##
-Bolimbisi, okoki kosunga ngaï?" "Iyo!"
+"Bolimbisi, okoki kosunga ngaï?" "Iyo!"
 
 ##
-"Bolimbisi, okoki kopesa ngaï yango?" "Iyo!"
+"Bolimbisi, nakoki kozua yango?" "Iyo!"
 
 ##
 "Matondo!"
@@ -37,5 +37,5 @@ Bolimbisi, okoki kosunga ngaï?" "Iyo!"
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Paul
+* Translation: Paul Fuila
 * Language: ln

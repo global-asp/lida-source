@@ -1,4 +1,4 @@
-# Kokutana na boto
+# Kokutana na bato
 
 ##
 "Mbote!" "Mbote!"
@@ -7,10 +7,10 @@
 "Kende malamu!" "Kende malamu!"
 
 ##
-"Oyo Kama."
+"Oyo ezali Kama."
 
 ##
-"Mbote, kombo na ngaï Kama." "Nasepeli mingi kokutana na yo, Kama."
+"Mbote, kombo na ngaï Kama." "Esengo kokutana na yo, Kama."
 
 ##
 Telefone ezo lela.
@@ -19,16 +19,16 @@ Telefone ezo lela.
 "Mbote."
 
 ##
-"Mbote, eza Sara."
+"Mbote, oyo ezali Sara."
 
 ##
-Akati.
+Akati telefone.
 
 ##
 "Boyei malamu!"
 
 ##
-"Kota."
+"Bolimbisi Kota."
 
 ##
 "Limbisa ngaï."
@@ -37,17 +37,17 @@ Akati.
 "Likambo té."
 
 ##
-"Bolimbisi."
+"Limbisa ngai, nabondeli yo."
 
 ##
-"Zela moke."
+"Zela moke, bolimbisi."
 
 ##
-"Oyo Ali." "Oyo Leila."
+"Oyo ezali Ali." "Oyo ezali Leila."
 
 ##
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Paul
+* Translation: Paul Fuila
 * Language: ln

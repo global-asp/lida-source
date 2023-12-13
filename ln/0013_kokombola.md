@@ -1,41 +1,41 @@
 # Kokombola
 
 ##
-Liboso, akomboli na nsé na kombo.
+Ya liboso, akomboli na nsé na kombo.
 
 ##
-Nasima abendi putulú na masini ya kobenda putulú.
+Na nsima abendi putulú na masini. Masini ya kobenda putulú esalaka malamu.
 
 ##
-Mpé azwi katini ya mayi na kombo.
+Mpe azwi katini ya mayi na kombo.
 
 ##
-Apangwisi na nsé.
+Azali kopangusa na nsé.
 
 ##
-Alongoli bosoto mpé atié saki ya sika na katini ya bosoto.
+Alongoli bosoto mpe atie saki ya sika na katini ya bosoto.
 
 ##
 Abwaki bosoto libanda.
 
 ##
-Asengeli na bagá, linyuka na sabuni.
+Azali na mposa ya na bagá, linyuka mpe mwa eloko ya kosukolela.
 
 ##
-Aniki litono ya mbindo na nsé na linyuka na sabuni.
+Apangusi esika ya bosoto na nsé na linyuka na mwa ndambo ya nkisi ya bopeto.
 
 ##
-Mpé apangwisi lininisa.
+Na nsima apangusi lininisa.
 
 ##
-Ndako nayé ezali mobulumobulu.
+Ndako na ye ezali mobulu mingi.
 
 ##
-Abongisi yango. Sikoyo ekomi kitoko mpé peto.
+Abongisi yango. Sikoyo ekomi kitoko mpe peto.
 
 ##
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Paul
+* Translation: Paul Fuila
 * Language: ln
