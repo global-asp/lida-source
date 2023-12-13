@@ -16,19 +16,27 @@
 "Simbyumva."
 
 ##
-"Ibi ni byo se?" "Yego."
+"Ibi ni byo se?"
+
+"Yego."
 
 ##
-"Ibi ni byo se?" "Oya."
+"Ibi ni byo se?"
+
+"Oya."
 
 ##
 "Nagufasha?"
 
 ##
-"Wamfashije?" "Nta kibazo rwose!"
+"Wamfashije?"
+
+"Nta kibazo rwose!"
 
 ##
-"Wampaye kiriya?" "Nta kibazo rwose!"
+"Wampaye kiriya?"
+
+"Nta kibazo rwose!"
 
 ##
 "Urakoze!"

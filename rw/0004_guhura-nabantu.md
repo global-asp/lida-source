@@ -1,16 +1,22 @@
 # Guhura n'abantu
 
 ##
-"Muraho!" "Muraho neza!"
+"Muraho!"
+
+"Muraho neza!"
 
 ##
-"Urabeho!" "Urabeho nawe!"
+"Urabeho!"
+
+"Urabeho nawe!"
 
 ##
 "Uyu ni Kama."
 
 ##
-"Muraho, nitwa Kama." "Nishimiye guhura nawe, Kama."
+"Muraho, nitwa Kama."
+
+"Nishimiye guhura nawe, Kama."
 
 ##
 Telefone irimo gusona.
@@ -43,7 +49,9 @@ Arakupye.
 "Ba uretse gato."
 
 ##
-"Uyu ni Ali." "Uyu ni Leila."
+"Uyu ni Ali."
+
+"Uyu ni Leila."
 
 ##
 * License: CC BY-NC-SA

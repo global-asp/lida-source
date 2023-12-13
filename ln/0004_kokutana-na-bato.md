@@ -1,16 +1,22 @@
 # Kokutana na bato
 
 ##
-"Mbote!" "Mbote!"
+"Mbote!"
+
+"Mbote!"
 
 ##
-"Kende malamu!" "Kende malamu!"
+"Kende malamu!"
+
+"Kende malamu!"
 
 ##
 "Oyo ezali Kama."
 
 ##
-"Mbote, kombo na ngaï Kama." "Esengo kokutana na yo, Kama."
+"Mbote, kombo na ngaï Kama."
+
+"Esengo kokutana na yo, Kama."
 
 ##
 Telefone ezo lela.
@@ -43,7 +49,9 @@ Akati telefone.
 "Zela moke, bolimbisi."
 
 ##
-"Oyo ezali Ali." "Oyo ezali Leila."
+"Oyo ezali Ali."
+
+"Oyo ezali Leila."
 
 ##
 * License: CC BY-NC-SA

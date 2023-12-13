@@ -16,19 +16,27 @@
 "Nazo sosola té."
 
 ##
-"Ezali boye?" "Iyo."
+"Ezali boye?"
+
+"Iyo."
 
 ##
-"Ezali boye?" "Té."
+"Ezali boye?"
+
+"Té."
 
 ##
 "Nakoki kosunga yo?"
 
 ##
-"Bolimbisi, okoki kosunga ngaï?" "Iyo!"
+"Bolimbisi, okoki kosunga ngaï?"
+
+"Iyo!"
 
 ##
-"Bolimbisi, nakoki kozua yango?" "Iyo!"
+"Bolimbisi, nakoki kozua yango?"
+
+"Iyo!"
 
 ##
 "Matondo!"

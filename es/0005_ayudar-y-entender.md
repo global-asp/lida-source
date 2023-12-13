@@ -16,19 +16,27 @@
 "No entiendo".
 
 ##
-"¿Así está bien?" "Sí".
+"¿Así está bien?"
+
+"Sí".
 
 ##
-"¿Así está bien?" "No".
+"¿Así está bien?"
+
+"No".
 
 ##
 "¿Necesitas ayuda?"
 
 ##
-"¿Podrías ayudarme, por favor?" "Sí, por supuesto".
+"¿Podrías ayudarme, por favor?"
+
+"Sí, por supuesto".
 
 ##
-"¿Me das eso, por favor?" "¡Sí, claro!"
+"¿Me das eso, por favor?"
+
+"¡Sí, claro!"
 
 ##
 "¡Gracias!"

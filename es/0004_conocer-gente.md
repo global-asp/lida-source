@@ -1,16 +1,22 @@
 # Conocer gente
 
 ##
-"¡Hola!" "¡Hola!"
+"¡Hola!"
+
+"¡Hola!"
 
 ##
-"¡Adiós!" "¡Hasta luego!"
+"¡Adiós!"
+
+"¡Hasta luego!"
 
 ##
 "Él es Kama".
 
 ##
-"Hola, me llamo Kama". "Mucho gusto, Kama".
+"Hola, me llamo Kama".
+
+"Mucho gusto, Kama".
 
 ##
 El teléfono está sonando.
@@ -43,7 +49,9 @@ El teléfono está sonando.
 "Un momento, por favor".
 
 ##
-"Este es Ali". "Esta es Leila".
+"Este es Ali".
+
+"Esta es Leila".
 
 ##
 * License: CC BY-NC-SA
