@@ -1,7 +1,7 @@
 # Ir a un café
 
 ##
-Bora y su hija salieron a pasear.
+Boran y su hija están dando un paseo.
 
 ##
 Pasan por un café y deciden entrar.
@@ -13,19 +13,19 @@ Dentro del café, el camarero los acompaña a una mesa.
 Boran pide un café.
 
 ##
-Su hija pide una gaseosa.
+Su hija pide un refresco.
 
 ##
 El camarero les lleva su pedido.
 
 ##
-Sirve la gaseosa en un vaso.
+Sirve el refresco en un vaso.
 
 ##
-Ella bebe la gaseosa.
+Ella bebe el refresco.
 
 ##
-Boran le pone azúcar al café.
+Boran pone azúcar en su café.
 
 ##
 Revuelve el café.
@@ -46,5 +46,5 @@ Boran y su hija se van del café.
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Ibsen Hernandez
+* Translation: Ibsen Hernández
 * Language: es

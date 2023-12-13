@@ -1,10 +1,10 @@
 # ¿Qué están haciendo?
 
 ##
-Estoy hablando.
+Yo estoy hablando.
 
 ##
-Estás caminando.
+Tú estás caminando.
 
 ##
 Él está escribiendo.
@@ -16,7 +16,7 @@ Ella está durmiendo.
 El perro está comiendo.
 
 ##
-Estamos leyendo.
+Nosotros estamos leyendo.
 
 ##
 Ustedes están escuchando.
@@ -31,5 +31,5 @@ Ellas están conduciendo.
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Frida Sofie Schønsberg
-* Translation: Ibsen Hernandez
+* Translation: Ibsen Hernández
 * Language: es

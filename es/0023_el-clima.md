@@ -1,7 +1,7 @@
 # El clima
 
 ##
-Está soleado.
+Hace sol.
 
 ##
 Está nublado.
@@ -25,5 +25,5 @@ Hace calor.
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Tuva Akselsen Sandersen, Josefine Madsen
-* Translation: Ibsen Hernandez
+* Translation: Ibsen Hernández
 * Language: es

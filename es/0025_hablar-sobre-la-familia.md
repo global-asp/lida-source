@@ -1,19 +1,19 @@
 # Hablar sobre la familia
 
 ##
-"¿Tienes familiares?"
+"¿Tienes familia?"
 
 ##
 "Sí, mi esposo y yo tenemos dos hijas y un hijo".
 
 ##
-"También tengo dos hijas, pero estoy divorciado".
+"También tengo dos hijas, pero estoy divorciada".
 
 ##
-"¿Qué edad tienen tus hijas?"
+"¿Qué edades tienen tus hijas?"
 
 ##
-"Mina tiene cuatro años. Está en preescolar. Miriam tiene diez años, ella asiste a la primaria".
+"Mina tiene cuatro años. Ella está en preescolar. Miriam tiene diez años, ella asiste a la primaria".
 
 ##
 "Todos mis hijos van a la secundaria. Mi hijo se graduará el próximo año".
@@ -22,7 +22,7 @@
 "¡Qué bien! Crecen tan rápido. ¿Qué quiere hacer después?"
 
 ##
-"Quiere trabajar, pero yo le digo que mejor vaya a la universidad".
+"Él quiere trabajar, pero yo le digo que debería ir a la universidad".
 
 ##
 "Es una buena idea. También espero que mis hijas vayan a la universidad algún día".
@@ -31,5 +31,5 @@
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Billie Cejka Risnes
-* Translation: Ibsen Hernandez
+* Translation: Ibsen Hernández
 * Language: es

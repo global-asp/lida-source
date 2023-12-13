@@ -1,4 +1,4 @@
-# Asearse y prepararse
+# Asearse y arreglarse
 
 ##
 Él se lava las manos.
@@ -10,10 +10,10 @@ Se lava la cara.
 Se cepilla los dientes.
 
 ##
-Se rasura.
+Se afeita.
 
 ##
-Toma una ducha.
+Se ducha.
 
 ##
 Se lava el cabello.
@@ -31,5 +31,5 @@ Se corta las uñas.
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Ibsen Hernandez
+* Translation: Ibsen Hernández
 * Language: es

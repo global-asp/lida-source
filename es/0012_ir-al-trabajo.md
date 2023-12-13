@@ -25,20 +25,20 @@ Se seca con una toalla.
 Se viste. Se pone una falda y una blusa.
 
 ##
-Levanta su bolso.
+Recoge su bolso.
 
 ##
 Toma su bolso y sale a trabajar.
 
 ##
-Camina hacia el trabajo.
+Se dirige al trabajo.
 
 ##
-Llega al trabajo. Trabaja en una oficina.
+Llega al trabajo. Ella trabaja en una oficina.
 
 ##
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Ibsen Hernandez
+* Translation: Ibsen Hernández
 * Language: es

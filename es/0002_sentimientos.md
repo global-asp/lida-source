@@ -10,7 +10,7 @@
 "¿Estás bien?"
 
 ##
-"Tengo dolor de estómago".
+"Me duele el estómago".
 
 ##
 "Me duele la cabeza".
@@ -28,11 +28,11 @@
 "Tengo sed".
 
 ##
-"Qué pena".
+"Es una lástima".
 
 ##
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Ibsen Hernandez
+* Translation: Ibsen Hernández
 * Language: es

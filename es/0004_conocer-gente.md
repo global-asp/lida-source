@@ -40,7 +40,7 @@ El teléfono está sonando.
 "Disculpa, por favor".
 
 ##
-"Un segundo, por favor".
+"Un momento, por favor".
 
 ##
 "Este es Ali". "Esta es Leila".
@@ -49,5 +49,5 @@ El teléfono está sonando.
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Ibsen Hernandez
+* Translation: Ibsen Hernández
 * Language: es

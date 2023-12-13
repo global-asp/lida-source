@@ -4,28 +4,28 @@
 A Tom le duele una muela. Le duele mucho.
 
 ##
-Necesita acudir a un odontólogo, pero primero necesita tomar algo para el dolor.
+Necesita atención de un dentista, pero primero necesita tomar algo para el dolor.
 
 ##
 Conduce hacia la farmacia más cercana.
 
 ##
-"Me duele la muela", dice. "¿Tiene algo para calmar el dolor?"
+"Me duele una muela", dice. "¿Tiene algo para calmar el dolor?"
 
 ##
-"Sí, tenemos analgésicos. No necesita una receta para adquirirlos".
+"Sí, tenemos analgésicos. Usted no necesita de una receta médica para adquirirlos".
 
 ##
 "Gracias. ¿Cuál es el precio?"
 
 ##
-"Cuestan nueve euros. Pero usted debe acudir a un odontólogo".
+"Cuestan nueve euros. Pero usted debe acudir a un dentista".
 
 ##
-"Muy bien, mañana llamaré a mi odontólogo en la mañana".
+"Muy bien, mañana llamaré a mi dentista en la mañana".
 
 ##
-"Si necesita un medicamento más fuerte, deberá obtener una receta de su odontólogo o médico".
+"Si necesita un medicamento más fuerte, deberá obtener una receta de su dentista o médico".
 
 ##
 "¡Gracias! Adiós".
@@ -34,5 +34,5 @@ Conduce hacia la farmacia más cercana.
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Sara Rumen Krotev
-* Translation: Ibsen Hernandez
+* Translation: Ibsen Hernández
 * Language: es

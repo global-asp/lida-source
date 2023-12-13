@@ -1,7 +1,7 @@
-# Irse a la cama
+# Ir a la cama
 
 ##
-Está muy cansado.
+Él está muy cansado.
 
 ##
 Es hora de irse a la cama.
@@ -37,5 +37,5 @@ Sueña.
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Ibsen Hernandez
+* Translation: Ibsen Hernández
 * Language: es

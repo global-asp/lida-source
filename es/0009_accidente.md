@@ -4,22 +4,22 @@
 Carlos conduce una moto. Va muy rápido.
 
 ##
-Hay agua en la carretera, esta está resbalosa.
+Hay agua en la carretera. Está resbalosa.
 
 ##
 Pierde el control de su moto y se cae.
 
 ##
-Carlos queda malherido.
+Carlos está gravemente herido.
 
 ##
-Una mujer llama una ambulancia. "Ocurrió un accidente. ¡Vengan rápido!"
+Una mujer llama a una ambulancia. "Ha ocurrido un accidente. ¡Vengan rápido!"
 
 ##
 La ambulancia llega muy rápido.
 
 ##
-Dos hombres ponen a Carlos en una camilla.
+Dos hombres colocan a Carlos en una camilla.
 
 ##
 Lo suben a la ambulancia.
@@ -49,5 +49,5 @@ Lo llevan a casa. Carlos está usando muletas.
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Ibsen Hernandez
+* Translation: Ibsen Hernández
 * Language: es

@@ -1,32 +1,32 @@
-# Puedo hacer muchas cosas.
+# Puedo hacer muchas cosas
 
 ##
-Cocinar.
+Puedo cocinar.
 
 ##
-Andar en bicicleta.
+Puedo montar en bicicleta.
 
 ##
-Coser.
+Puedo coser.
 
 ##
-Hacer trabajo duro.
+Puedo hacer trabajo duro.
 
 ##
-Hablar tres idiomas.
+Puedo hablar en tres idiomas.
 
 ##
-Cantar.
+Puedo cantar.
 
 ##
-Cuidar niños.
+Puedo cuidar niños.
 
 ##
-¡Reír!
+¡Puedo reír!
 
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Selma Buer Hanstad
-* Translation: Ibsen Hernandez
+* Translation: Ibsen Hernández
 * Language: es

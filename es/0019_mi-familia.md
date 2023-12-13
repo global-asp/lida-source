@@ -25,5 +25,5 @@ Mi hija tiene solo dos años.
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Vilius Aistis Vilimas
-* Translation: Ibsen Hernandez
+* Translation: Ibsen Hernández
 * Language: es

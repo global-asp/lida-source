@@ -1,31 +1,31 @@
-# Encontrar un empleo
+# Encontrar empleo
 
 ##
 Alisha necesita encontrar un empleo porque su familia necesita dinero para alimentos y ropa.
 
 ##
-Ella no trabajó en su país de origen, pero cocina bien y le gusta hablar con la gente.
+Ella nunca trabajó en su país de origen, pero es buena cocinera y le gusta hablar con la gente.
 
 ##
-Tal vez podría trabajar en un restaurante. Alisha busca avisos de empleo en internet.
+¿Quizás pueda trabajar en un restaurante? Alisha busca ofertas de empleo por internet.
 
 ##
-Encuentra un anuncio para un empleo como chef. Es decir, alguien que cocina en un restaurante.
+Ella encuentra un anuncio de empleo como “chef”. Es decir, alguien que cocina en un restaurante.
 
 ##
-Va a la entrevista de trabajo. El encargado del restaurante le dice que necesitan a alguien con formación de chef.
+Ella va a la entrevista de trabajo. El encargado del restaurante le dice que necesita a alguien que haya recibido formación como chef.
 
 ##
-Alisha se siente desilusionada, pero hace un curso llamado "Alimentación y hostelería". Espera que esto le permita conseguir trabajo en un restaurante.
+Alisha se siente desilusionada, pero decide realizar un curso llamado "Alimentación y hospitalidad". Ella espera que esto la ayude a conseguir un trabajo en un restaurante.
 
 ##
-Ella tiene que trabajar en un restaurante como parte de su curso de formación. No cobra, pero adquiere experiencia laboral.
+Alisha tiene que trabajar en un restaurante como parte de su curso de formación. No recibe dinero por su trabajo, pero consigue experiencia laboral.
 
 ##
-Añade los detalles del curso a su CV. Un CV es una descripción de todo el trabajo que ha desempeñado y de todos los cursos que ha realizado.
+Ella Incluye los detalles del curso a su CV. Un CV es una descripción de todo el trabajo que ha desempeñado y de todos los cursos que ha realizado.
 
 ##
-La próxima vez que acude a una entrevista de trabajo en un restaurante, le ofrecen el puesto. Es un trabajo duro. A menudo tiene que trabajar por la tarde, cuando sus hijos vuelven del colegio.
+La siguiente vez que acude a una entrevista de trabajo en un restaurante, le ofrecen el puesto. Es un trabajo duro. A menudo tiene que trabajar en las tardes, cuando sus hijos vuelven del colegio.
 
 ##
 Está orgullosa de haber conseguido un trabajo que le permite comprar comida y ropa para su familia con su propio dinero.
@@ -34,5 +34,5 @@ Está orgullosa de haber conseguido un trabajo que le permite comprar comida y r
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Sunniva Høiby-Øiset
-* Translation: Ibsen Hernandez
+* Translation: Ibsen Hernández
 * Language: es
