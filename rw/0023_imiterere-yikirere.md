@@ -4,7 +4,7 @@
 Hariho izuba.
 
 ##
-Harijimye.
+Ikirere kirijimye.
 
 ##
 Imvura irimo kugwa.

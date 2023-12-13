@@ -1,13 +1,13 @@
-# Kujya muri cafetariya.
+# Kujya muri cafetariya
 
 ##
 Boran n'umukobwa we baratembereye.
 
 ##
-Bageze kuri cafetariya barinjira.
+Bageze kuri cafetariya maze barinjira.
 
 ##
-Muri cafetariya, umuseriveri aberetse aho bicara.
+Umuseriveri wo muri cafetariya aberetse aho bicara.
 
 ##
 Boran atumije ikawa.
@@ -22,13 +22,13 @@ Umuseriveri azanye ibyo batumije.
 Asutse fanta mu kirahure.
 
 ##
-Ari kunywa fanta
+Ari kunywa fanta.
 
 ##
 Boran ashyize isukari mu ikawa.
 
 ##
-Arakoroga ikawa.
+Akoroze ikawa.
 
 ##
 Arayinyoye.
@@ -37,7 +37,7 @@ Arayinyoye.
 Boran asabye fagitire.
 
 ##
-Arimo kwishyura umuseriveri.
+Yishyuye umuseriveri.
 
 ##
 Boran n'umukobwa we basohotse muri cafetariya.

@@ -1,25 +1,25 @@
-# Ukunda uwuhe muziki?
+# Ukunda umuziki bwoko ki?
 
 ##
-Tulima akunda umuziki. Buri munsi arawumva.
+Tulima akunda umuziki. Awumva buri munsi.
 
 ##
-Inshuti ze Carlos na Anita na bo bakunda umuziki.
+Inshuti ze Carlos na Anita nabo bakunda umuziki.
 
 ##
-Carlos arabajije ati: "Tulima, ukunda uwuhe muziki?"
+Carlos arabajije ati: "Tulima, ukunda umuziki bwoko ki?"
 
 ##
-"Nkunda inyamerika, ariko mpitamo kwiyumvira iz'iwacu muri Etiyopiya."
+"N’ubwo nkunda umuziki w’iburayi, mpitamo kwiyumvira iz'iwacu muri Etiyopiya."
 
 ##
-Carlos ati: "Nkomoka muri Columbiya. Niyumvira indirimbo za Salsa. Mu mbyino ni iza mbere."
+Carlos ati: "Nkomoka muri Columbiya. Niyumvira indirimbo za Salsa. Ziba zibyinitse."
 
 ##
 Anita ati: "Nkunda indirimbo z'urukundo hamwe n'imiziki ituma nishima."
 
 ##
-Ukunda uwuhe muziki?
+Ukunda umuziki bwoko ki?
 
 ##
 * License: CC BY

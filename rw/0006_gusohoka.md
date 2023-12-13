@@ -1,10 +1,10 @@
 # Gusohoka
 
 ##
-Kip ashaka kurya makaroni.
+Kip arumva ashaka kurya amakaroni.
 
 ##
-Kip yasabye inshuti ye kumuherekeza.
+Kip asabye inshuti ye ko bajyana.
 
 ##
 Bari gushaka aho basohokera.
@@ -13,34 +13,34 @@ Bari gushaka aho basohokera.
 Hari aho babonye bateka makaroni.
 
 ##
-Kip n'inshuti ye bashatse aho bicara.
+Kip n'inshuti ye babonye aho bicara.
 
 ##
-Bamaze gufata ibyicaro bahamagara umuseriveri.
+Bamaze kwicara bahamagara umuseriveri.
 
 ##
 Umuseriveri araje. Kip atumije makaroni.
 
 ##
-Mugenzi we na we atumije makaroni.
+Mugenzi we na we atumije amakaroni.
 
 ##
-Bose bafashe ikirahure cy'amazi.
+Buri wese afashe ikirahure cy'amazi.
 
 ##
 Umuseriveri azanye ibiryo.
 
 ##
-Bongeyemo umunyu n'agasosi, maze baravangavanga.
+Bongeyemo agasosi n’umunyu, maze bavangavanga makaroni.
 
 ##
-Kip n'inshuti ye barimo kurya makaroni. Biraryoshye.
+Kip n'inshuti ye barimo kurya makaroni. Ziraryoshye.
 
 ##
-Ari kunywa amazi.
+Ari kunywa amazi ye.
 
 ##
-Bishyuye ibyo bafashe.
+Bishyuye fagitire.
 
 ##
 * License: CC BY-NC-SA

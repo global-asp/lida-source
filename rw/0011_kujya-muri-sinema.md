@@ -1,28 +1,28 @@
 # Kujya muri sinema
 
 ##
-Mai arimo gushaka filime yo kureba. Ashaka kujyana n'inshuti ye Lisa muri sinema.
+Mai ari gushaka filime yo kureba. Arashaka kujyana n'inshuti ye Lisa muri sinema.
 
 ##
-Mai yafashe moto ajya muri sinema. Bumvikanye ko barahahurira.
+Mai afashe velomoteri ajya muri sinema. Bumvikanye ko bahahurira.
 
 ##
-Bagezeyo bararamukanyije. Bishimiye kureba filime.
+Bagezeyo bararamukanya. Bashishikajwe no kureba filime.
 
 ##
-Mai aguze amatike ya bo aho bagurira amatike.
+Mai aguze amatike yabo bombi aho bagurira amatike.
 
 ##
 Aguze n'igikarito kinini cy'injugu.
 
 ##
-Lisa atwaye injugu na ho Mai agura amacupa abiri ya fanta.
+Lisa atwaye injugu mu gihe Mai ari kugura amacupa abiri ya fanta.
 
 ##
-Berekanye amatike ya bo mbere yo kwinjira ngo bajye kureba filime.
+Berekanye amatike yabo mbere yo kwinjira ngo barebe filime.
 
 ##
-Barimo gushaka ibyicaro. Ntago habona kubera ko filime yatangiye.
+Bari gushaka aho bicara. Ntihari kubona neza kubera ko filime yatangiye.
 
 ##
 Baricaye ngo barebe filime.
@@ -31,7 +31,7 @@ Baricaye ngo barebe filime.
 Ni filime y'urukundo. Ni zo bakunda cyane.
 
 ##
-Filime irangiye basezeranyeho barataha.
+Filime irarangiye, basezeranyeho barataha.
 
 ##
 * License: CC BY-NC-SA

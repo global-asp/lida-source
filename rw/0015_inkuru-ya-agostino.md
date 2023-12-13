@@ -1,28 +1,28 @@
 # Inkuru ya Agostino
 
 ##
-Nitwa Agostino, mfite imyaka 51. Akazi kanjye ni ukugeza ibiryo ku bantu nkoresheje igare. Mfite abakobwa babiri ariko ntago dukunda kuvugana. Mama wa bo ntago tukibana kubera ko twatandukanye.
+Nitwa Agostino, mfite imyaka 51. Nkora akazi ko gushyira abantu ibiryo nkoresheje igare. Mfite abakobwa babiri ariko tuganira gake cyane. Mama wabo ntitukibana kubera ko twatandukanye.
 
 ##
-Ubu mbana na mama kubera ko ntari mfite ubushobozi bwo kwishyura ubukode nyuma yo gutandukana n'umugore wanjye. Muri uyu mujyi gukodesha inzu birahenda cyane.
+Mbana na mama kubera ko ntashobora kwishyura ubukode nyuma yo gutandukana n'umugore wanjye. Gukodesha inzu birahenda cyane muri uyu mujyi.
 
 ##
-Amezi make ashize, hari ikigo nakoragamo amasuku. Nasanaga ibyangiritse, nkaterura amakarito, ndetse nkanafasha undi wese ubikeneye. Umunsi umwe, icyo kigo cyaranyirukanye. Sinzi impamvu.
+Mu mezi make ashize, hari ikigo nakoragamo amasuku. Nasanaga ibyangiritse, ngaterura amakarito, ndetse nkanafasha undi wese ubikeneye. Umunsi umwe, icyo kigo cyaranyirukanye. Sinumvaga impamvu.
 
 ##
-Nabonye abantu benshi bagezaga ibiryo ku bantu bakoresheje amagare. Kuko nzi gutwara igare nagiye gusaba akazi mu kigo gikomeye mu kugeza ibicuruzwa ku bantu. Bampa amayero ane kuri buri turu imwe. Nkorera amayero 40 ku munsi, amayero 60 iyo nagize amahirwe ndetse n'umukiriya akampa tipu.
+Nabonye abantu benshi bashyiraga abantu ibiryo bakoresheje amagare. Kuko nzi gutwara igare nagiye gusaba akazi mu kigo gikomeye kizobereye mu kugemurira abantu ibicuruzwa. Bampa amayero ane kuri buri ncuro ngemuye. Nkorera amayero 40 ku munsi nagira amahirwe akaba 60. Hari n’abakiriya bampa tipu.
 
 ##
-Ntago banyishyura iyo naruhutse, kabone n'ubwo naba ndwaye, mbese nta burenganzira namba. Ntekereza ko ibyo bitari bikwiriye, gusa nkeneye akazi. Abenshi mu bandi bakozi ni abimukira baturutse mu bice bitandukanye by'isi.
+Iyo naruhutse ntibanyishyura, yewe n’iyo naba ndwaye, mbese nta burenganzira namba. Ntekereza ko ibyo bidakwiriye, gusa nkeneye akazi. Abenshi mu bandi bakozi dukorana ni abimukira baturutse mu bice bitandukanye by'isi.
 
 ##
-Abenshi mu batwara ibintu buri munsi bakomerekera mu mpanuka. Ubwo umwe mubatwara ibintu w'imyaka 25 yagongwaga n'imodoka agahita apfa, ni bwo ubuyobozi bwatangiye kutwitaho. Birababaje kuba byarasabye ko apfa kugira ngo ibyo bibeho.
+Abenshi mu batwara ibintu, buri munsi bakomerekera mu mpanuka. Ubwo umwe mubatwara ibintu ufite imyaka 25 yagongwaga n'imodoka agahita apfa, ni bwo ubuyobozi bwatangiye kutwitaho. Birababaje kuba byarasabye ko apfa kugira ngo babone kutwitaho.
 
 ##
-Hamwe n'abandi bakora akazi nk'akanjye bo mu bindi bigo, nafashe isomo rijyanye n'uburenganzira bw'abakozi twahawe n'ishyirahamwe ryo muri ako gace. Baduhaye ubujyanama ku by'amategeko ku buntu. Twarwanye intambara ikomeye kugira ngo tubone uburenganzira busesuye ndetse tumenyekane.
+Njye n'abandi dukora akazi kamwe bo mu bindi bigo, twafashe isomo rijyanye n'uburenganzira bw'abakozi twahawe n'ishyirahamwe ryo muri ako gace. Baduhaye ubujyanama ku by'amategeko ku buntu. Twarahatanye cyane kugira ngo tubone uburenganzira busesuye kandi duhabwe agaciro.
 
 ##
-Nyuma y'igihe kinini imvune zacu zatanze umusaruro. Ikigo kimwe gikomeye mu kugeza ibicuruzwa ku bantu kishyuye amande menshi ndetse gitanga n'akazi gahoraho. Ni ubwa mbere mu mateka y'isi yose byari bibayeho. Bisa nk'aho ibintu bitangiye kujya mu buryo.
+Nyuma y'igihe kinini imvune zacu zatanze umusaruro. Ikigo kimwe gikomeye kigemurira abantu ibicuruzwa cyaciwe amande menshi ndetse gitegekwa gutanga akazi gahoraho. Ni ubwa mbere mu mateka y'isi yose byari bibayeho. Bisa nk'aho ibintu bitangiye kujya mu buryo.
 
 ##
 * License: CC BY

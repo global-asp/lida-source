@@ -13,10 +13,10 @@ Arya umuceri buri munsi.
 Akunda imboga.
 
 ##
-Ntago arya inyama.
+Ntabwo ajya arya inyama. Arya ibikomoka ku bimera byonyine.
 
 ##
-Ntago arya ubunyobwa. Bumutera ikibazo.
+Ntabwo ajya arya ubunyobwa. Bumutera ikibazo.
 
 ##
 Baratetse. Birahumura neza!

@@ -10,7 +10,7 @@ Ni igihe cyo kuryama.
 Agiye mu bwogero.
 
 ##
-Aroza amenyo.
+Ari koza amenyo.
 
 ##
 Agiye mu cyumba.
@@ -22,7 +22,7 @@ Akuyemo imyenda.
 Yicaye ku buriri.
 
 ##
-Arareba televiziyo.
+Ari kureba televiziyo.
 
 ##
 Azimije televiziyo.
@@ -31,7 +31,7 @@ Azimije televiziyo.
 Agiye kuryama.
 
 ##
-Ararota.
+Ari kurota.
 
 ##
 * License: CC BY-NC-SA

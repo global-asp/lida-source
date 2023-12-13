@@ -1,31 +1,31 @@
 # Kwitunganya
 
 ##
-Akaraba intoki.
+Arakaraba intoki.
 
 ##
-Akaraba mu maso.
+Ari gukaraba mu maso.
 
 ##
-Yoza amenyo.
+Ari koza amenyo.
 
 ##
-Arogosha.
+Ari kogosha ubwanwa.
 
 ##
-Ariyuhagira.
+Ari kwiyuhagira.
 
 ##
-Yoga mu mutwe.
+Ari koga mu mutwe.
 
 ##
-Arihanagura.
+Ari kwihanagura.
 
 ##
-Arasokoza.
+Ari gusokoza.
 
 ##
-Aca inzara.
+Ari guca inzara.
 
 ##
 * License: CC BY-NC-SA

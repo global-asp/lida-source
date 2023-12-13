@@ -19,10 +19,10 @@ Irimo kurya.
 Turimo gusoma.
 
 ##
-Murimo kumva.
+Murimo kutega amatwi.
 
 ##
-Baratwaye.
+Batwaye imodoka.
 
 ##
 Buri wese afite icyo arimo gukora.

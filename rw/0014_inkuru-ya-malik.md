@@ -1,31 +1,31 @@
 # Inkuru ya Malik
 
 ##
-Nitwa Malik, nkaba mfite imyaka 39. Navukiye muri Afghanistan. Idini ryanjye ritandukanye n'idini gakondo rya Afghanistan.
+Nitwa Malik, nkaba mfite imyaka 39. Navukiye muri Afuganisitani. Idini ryanjye ritandukanye n'iryo abanyafuganisitani benshi barimo.
 
 ##
-Imyaka myinshi, abantu duhuje idini baratotejwe. Ibi byakomereye umuryango wanjye.
+Abantu duhuje idini bamaze imyaka myinshi batotezwa. Byakomereye umuryango wanjye cyane.
 
 ##
-Mu myaka mike ishize, habaye intambara. Nagize ubwoba ko nzicwa. Nasize umuryango wanjye njya gutangira ubuzima bushya mu Burayi.
+Mu myaka mike ishize, habaye intambara. Natinyaga ko nzicwa. Nasize umuryango wanjye njya gutangira ubuzima bushya i Burayi.
 
 ##
-Nakoze urugendo runini n'amaguru. Rimwe na rimwe nta byo kurya ndetse n'aho kurara nabaga mfite. Benshi mu bo twajyanye barapfuye.
+Nakoze urugendo rurerure n'amaguru. Hari ubwo ntabaga mfite ibyo kurya n'aho kurara. Benshi mu bo twajyanye barapfuye.
 
 ##
-Nyuma na nyuma naje kuhagera. Nahuye n'abantu bamwe na bamwe dukomoka hamwe bamfashije. Sinzi uko nari kubigenza iyo ntabagira.
+Amaherezo naje kugera i Burayi. Nahuye n'abantu dukomoka mu gihugu kimwe baramfasha. Sinzi uko nari kubigenza iyo ntabagira.
 
 ##
-Natangiye kwiga ururimi ariko byari bigoye. Nari mbizi ko kumenya urwo rurimi byari ngombwa cyane kugira ngo umuntu abone akazi.
+Natangiye kwiga ururimi ariko byari bigoye. Nari mbizi ko kumenya urwo rurimi byari ngombwa cyane kugira ngo mbone akazi.
 
 ##
-Mu gutangira kwiga ururimi, nize imyaka myinshi. Byari bigoye, ariko kumenya ibintu bishya biranshimisha.
+Nabanje kwiga ururimi imyaka myinshi. Byari bigoye, ariko nshimishwa no kumenya ibintu bishya.
 
 ##
-Nyuma yo kwiga natangiye akazi. Bwa mbere nabanje gukora muri resitora, nyuma nza kuba umwarimu kubera ko nshaka gufasha abandi.
+Ndangije kwiga natangiye akazi. Nabanje gukora muri resitora, nyuma nza kuba umwarimu kubera ko nifuza gufasha abandi.
 
 ##
-Nizeye ko umunsi umwe nzasubira muri Afghanistan. Abantu benshi bariyo bakeneye ubufasha, kandi nifuza kubafasha.
+Nizeye ko umunsi umwe nzasubira muri Afuganisitani. Abantu benshi bariyo bakeneye ubufasha, kandi nifuza kubafasha.
 
 ##
 * License: CC BY

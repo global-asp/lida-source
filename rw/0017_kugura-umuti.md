@@ -4,7 +4,7 @@
 Tom arwaye iryinyo. Iryinyo riramurya cyane.
 
 ##
-Akeneye kujya kureba muganga we w'amenyo, ariko mbere ya byose akeneye ikintu kimugabanyiriza ububabare.
+Akeneye kujya kureba muganga we w'amenyo, ariko mbere ya byose akeneye umuti ugabanya ububabare.
 
 ##
 Yahise yatsa imodoka agana kuri farumasi imwegereye.
@@ -13,7 +13,7 @@ Yahise yatsa imodoka agana kuri farumasi imwegereye.
 Aravuze ati: "Iryinyo riranyishe, hari icyo mwamfasha?"
 
 ##
-"Yego, hano hari imiti igabanya ububabare. Ntago bisaba kuzana urupapuro rwa muganga."
+"Yego, hano hari imiti igabanya ububabare. Ntibisaba kuzana urupapuro rwa muganga."
 
 ##
 "Murakoze. Igura angahe?"
@@ -25,10 +25,10 @@ Aravuze ati: "Iryinyo riranyishe, hari icyo mwamfasha?"
 "Yego, ejo mu gitondo nzahamagara muganga wanjye w'amenyo."
 
 ##
-"Ni ba ukeneye imiti ikomeye, ugomba kuzana urupapuro wandikiwe na muganga w'amenyo cyangwa dogiteri."
+"Niba ukeneye imiti ikomeye, ugomba kuzana urupapuro wandikiwe na muganga w'amenyo cyangwa dogiteri."
 
 ##
-"Murakoze. Bayi."
+"Murakoze. Ngaho."
 
 ##
 * License: CC BY

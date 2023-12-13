@@ -7,10 +7,10 @@ Ishati ya Ali irashaje. Akeneye indi nshyashya.
 Agiye mu isoko gushaka imyenda mishya.
 
 ##
-Mu isoko abuze aho iduka ry'imyenda riherereye.
+Ageze mu isoko abura aho iduka ry'imyenda riherereye.
 
 ##
-Yinjiye mu iduka kubaza icyerekezo. Arabajije ati: "Ni he nagurira imyenda?"
+Yinjiye mu iduka kubaza aho ari ho. Arabajije ati: "Ni he nagurira imyenda?"
 
 ##
 Umucuruzi amweretse ku rundi ruhande rw'isoko. Iduka ry'imyenda riri ku rundi ruhande!
@@ -19,7 +19,7 @@ Umucuruzi amweretse ku rundi ruhande rw'isoko. Iduka ry'imyenda riri ku rundi ru
 Ali arinjiye maze atangira gushaka ishati. Amashati ni manini kuri we, kandi arahenze cyane.
 
 ##
-Ahubwo yiguriye umuguro mushya w'ipantalo kubera ko bari barimo kuyateza. Afashe umwanzuro wo kuzagura ishati mu kwezi gutaha yahembwe.
+Ahubwo yiguriye amapataro kubera ko bari barimo kuyateza. Afashe umwanzuro wo kuzagura ishati mu kwezi gutaha yahembwe.
 
 ##
 * License: CC BY

@@ -4,7 +4,7 @@
 "Muraho!" "Muraho neza!"
 
 ##
-"Bayi!""Bayi!"
+"Urabeho!" "Urabeho nawe!"
 
 ##
 "Uyu ni Kama."
@@ -25,7 +25,7 @@ Telefone irimo gusona.
 Arakupye.
 
 ##
-"Ni karibu."
+"Ni kalibu."
 
 ##
 "Ni kalibu mu nzu."
@@ -40,7 +40,7 @@ Arakupye.
 "Twavugana?"
 
 ##
-"Buretse gato."
+"Ba uretse gato."
 
 ##
 "Uyu ni Ali." "Uyu ni Leila."

@@ -1,25 +1,25 @@
-# Utunyoni turirimba mu gitondo.
+# Amajwi y’utunyoni twa mu gitondo
 
 ##
-Yulia, umugabo we n'umukobwa wa bo muto bari batuye mu gace gato, gatuje ko muri Ukraine. Yulia yakundaga gukangurwa n'utunyoni turirimba mu gitondo. Ntago yigeze atekereza ko yatura kure y'umuryango we, cyangwa ngo areke gukangurwa n'amajwi y'utunyoni mu gitondo.
+Yulia, umugabo we n'umukobwa wabo muto bari batuye mu gace gato, gatuje k’icyaro muri Ukraine. Yulia yakundaga gukangurwa n'utunyoni turirimba buri gitondo. Ntabwo yigeze atekereza ko yatura kure y'umuryango we, cyangwa ngo abeho atumva amajwi y'utunyoni mu gitondo.
 
 ##
-Umugabo we yahoraga yitotombera ikibazo cy'ubukene, maze atangira kuba umusinzi. Bafashe umwanzuro wo kujya kugerageza amahirwe muri Porutigali. Ahari ho babona amafaranga menshi yo kubaka inzu maze bakubaka ejo heza h'umuryango wa bo.
+Umugabo we yahoraga yitotombera ikibazo cy'ubukene, maze atangira kuba umusinzi. Biyemeje kujya kugerageza amahirwe muri Porutigali. Ahari ho bari kuhabona amafaranga menshi yo kubaka inzu maze umuryango wabo ukazagira ejo heza.
 
 ##
-Yulia yatangiye kumenyera ubuzima bushya, maze atangira gukora akazi ko gukora amasuku. Abakoresha be bishimiye cyane uburyo akoramo akazi ke neza ndetse n'ikinyabupfura cye. Ku rundi ruhande, umugabo we yakomeje kwibura. Kubera ikibazo cye cy'ubusinzi, abakoresha ntago bamugiriye icyizere ngo bamuhe akazi.
+Yulia yatangiye kumenyera ubuzima bushya, maze atangira gukora akazi ko gukora amasuku. Abakoresha be bishimiye cyane uburyo akora akazi ke neza ndetse n'ikinyabupfura yagiraga. Ku rundi ruhande, umugabo we yakomeje kwitwara nabi. Kubera ubusinzi bwe, abakoresha ntibamwizeraga ngo bamuhe akazi.
 
 ##
-Umunsi umwe, yatangiye gutonganya Yulia. Ubundi atangira kujya amukubita. Intonganya no kurwana byarushijeho kuba bibi, cyane cyane iyo yabaga yasinze. Yulia yagize ubwoba bw'ubuzima bwe n'ubw'umwana we, ariko ntago yari azi icyo yakora.
+Umunsi umwe, yatangiye gutonganya Yulia. Ndetse yatangiye kujya amukubita. Intonganya no kurwana byarushijeho gukabya, cyane cyane iyo yabaga yasinze. Yulia yari ahangayikiye ubuzima bwe n'ubw'umwana we, ariko ntiyari azi icyo yakora.
 
 ##
-Ubwo Yulia yajyaga mu bitaro yavunitse akaboko, bamubwiye ko ihohoterwa rikorerwa mu ngo ari ikibazo gikomeye muri Portugal. Banamubwiye ko kandi ari icyaha, ko agomba kushyikiriza ikirego polisi.
+Ubwo Yulia yajyaga mu bitaro yavunitse akaboko, bamubwiye ko ihohoterwa rikorerwa mu ngo ari ikibazo gikomeye muri Porutigali. Banamubwiye kandi ko ari icyaha, akaba agomba kubibwira polisi.
 
 ##
-Yulia yari arambiwe kandi ntago yashakaga ko umukobwa we akurira mu rugo ruhoramo itotezwa. Yulia yamenye ko ibimenyetso by'ihohoterwa byamye bihari n'ubwo byagaragaye mu buryo butandukanye.
+Yulia yari arambiwe kandi ntiyashakaga ko umukobwa we akurira mu rugo ruhoramo urugomo. Yulia yasobanukiwe ko ibimenyetso by'ihohoterwa byahoze bihari n'ubwo byagaragaraga mu buryo butandukanye.
 
 ##
-Yulia yagiye mu buhungiro bw'abagore, aho yongeye kumva atekanye nyuma y'igihe kinini. Ntago yaherukaga kwiyumva gutyo kuva aho yakangurwaga n'amajwi y'utunyoni mu gitondo.
+Yulia yagiye mu kigo cyita ku bagore bahohotewe, aho yongeye kumva atekanye nyuma y'igihe kinini. Ntabwo yari aherutse kwiyumva atyo ubwo yajyaga akangurwa n'amajwi y'utunyoni mu gitondo.
 
 ##
 * License: CC BY

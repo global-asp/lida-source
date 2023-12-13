@@ -13,7 +13,7 @@
 "Nta kibazo."
 
 ##
-"Nguheho?"
+"Nguhe kuri ibi?"
 
 ##
 "Yego."

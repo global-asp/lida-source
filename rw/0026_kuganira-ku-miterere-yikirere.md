@@ -1,13 +1,13 @@
 # Kuganira ku miterere y'ikirere
 
 ##
-"Hatangiye gukonja. Turi ku kigero cy'ubushyuhe kingana iki?"
+"Hatangiye gukonja. Turi kuri dogere zingahe?"
 
 ##
-"Ni dogere icyenda. Turacyari mu gihe cy'umuhindo ariko itumba riri hafi."
+"Ni dogere icyenda. Turacyari mu muhindo ariko itumba riri hafi."
 
 ##
-"Njye ntegereje igihe cy'urugaryi ariko nikundira mu mpeshyi, igihe haba hashyushye hameze neza."
+"Ntegereje urugaryi ariko nikundira impeshyi, igihe haba hashyushye hanameze neza."
 
 ##
 "Njye ubukonje nta kibazo, icyo nanga ni imvura n'umuyaga."
@@ -16,7 +16,7 @@
 "Reba biriya bicu byijimye. Ejo imvura izagwa. Hazaba harimo n'umuyaga mwinshi. Hashobora kuzabaho umuhengeri."
 
 ##
-"Birabe ibyuya pee! Ntago nkunga ikirere kibi, cyane cyane iyo harimo inkuba n'imirabyo. Ngira ubwoba ko umurabyo wazankubita."
+"Oya kandi! Nanga iyo ikirere cyabaye kibi, cyane cyane iyo harimo inkuba n'imirabyo. Ntinya ko inkuba yankubita."
 
 ##
 * License: CC BY

@@ -1,34 +1,34 @@
 # Gushaka akazi
 
 ##
-Alisha akeneye akazi kugira ngo umuryango we ubone ibyo kurya n'imyambaro.
+Alisha akeneye akazi kubera ko umuryango we ukeneye amafaranga yo kugura ibyo kurya n'imyambaro.
 
 ##
-Igihugu akomokamo, ntago Alisha yakoraga, ariko azi guteka kandi akunda kuganiriza abantu.
+Alisha ntiyakoraga mu gihugu akomokamo, ariko azi guteka kandi akunda kuganiriza abantu.
 
 ##
-Ashobora gukora muri restora se? Alisha arimo gushakisha akazi kuri interineti.
+Wenda yakora muri resitora se? Alisha arimo gushakisha akazi kuri interineti.
 
 ##
-Yabonye itangazo ry'aho bakeneye umutetsi. Uyu ni umuntu uteka muri resitora.
+Abonye itangazo ry'ahantu bakeneye umutetsi. Ni umuntu wo guteka muri resitora.
 
 ##
-Yagiye mu kizamini cy'akazi. Umuyobozi wa resitora yamubwiye ko bakeneye umuntu wize ubutetsi.
+Agiye muri interview y'akazi. Umuyobozi wa resitora amubwiye ko bakeneye umuntu wize ibyo guteka.
 
 ##
-Alisha yarababaye ariko ajya kwiga isomo ryitwa "Amahoteli n'ubukerarugendo." Yizeye ko ibi bizatuma abona akazi muri restora.
+Alisha arababaye ariko ajya gufata amasomo ajyanye no guteka no kwakira abantu. Yizeye ko ayo masomo azatuma abona akazi muri restora.
 
 ##
-Alisha agomba gukora muri restora nk'uburyo bwo kwimenyereza umwuga. Ntago ahembwa, ariko arimo kugira ubunararibonye mu kazi.
+Alisha agomba kubanza kwimenyereza umwuga muri resitora. Nubwo akora adahembwa, bimufasha kugira ubunararibonye mu kazi.
 
 ##
-Byose yabyongeye mu mwirondoro we w'akazi. Umwirondoro w'akazi ugaragaza akazi kose yakoze ndetse n'amasomo yafashe.
+Ibijyanye n’ayo masomo na byo yabyongeye muri CV ye. CV iba igaragaza akazi kose umuntu yakoze ndetse n'amasomo yafashe.
 
 ##
-Ikindi gihe Alisha yagiye mu kizamini cy'akazi muri restora maze barakamuha. Ni akazi kagoye. Rimwe na rimwe asabwa gukora nimugoroba igihe abana be bari mu rugo, bavuye ku ishuri.
+Nyuma yaho Alisha agiye muri interview y'akazi muri restora maze barakamuha. Ni akazi kagoye. Inshuro nyinshi aba asabwa gukora nimugoroba, igihe abana be bari mu rugo bavuye ku ishuri.
 
 ##
-Atewe ishema no kuba yarabonye akazi, kuko bimufasha kubona ibyo kurya ndetse n'imyambaro by'umuryango we, bivuye mu mafaranga ye bwite.
+Atewe ishema no kuba yarabonye akazi, kuko kamufasha kugurira umuryango we ibyo kurya n'imyambaro, bivuye mu mafaranga ye bwite.
 
 ##
 * License: CC BY

@@ -1,7 +1,7 @@
 # Kujya ku kazi
 
 ##
-Reveye iravuze. Amasaha yo kubyuka yageze.
+Reveye iravuze. Isaha yo kubyuka irageze.
 
 ##
 Arabyutse.
@@ -10,28 +10,28 @@ Arabyutse.
 Agiye mu bwogero.
 
 ##
-Aroza amenyo.
+Ari koza amenyo.
 
 ##
-Ariyunyuguza mu kanwa.
+Ari kwiyunyuguza mu kanwa.
 
 ##
-Arimo kwiyuhagira akoga no mu mutwe.
+Ari kwiyuhagira akamesa no mu mutwe.
 
 ##
-Arihanaguza isume.
+Ari kwihanaguza isume.
 
 ##
-Arimo kwambara. Yambaye ijipo n'ishati.
+Ari kwambara. Yambaye ijipo n'ishati.
 
 ##
 Afashe agasakoshi.
 
 ##
-Atwaye agasakoshi ke ajya ku kazi.
+Afashe agasakoshi ke ajya ku kazi.
 
 ##
-Ajya ku kazi n'amaguru.
+Agiye ku kazi n'amaguru.
 
 ##
 Ageze ku kazi. Akora mu biro.

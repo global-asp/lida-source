@@ -1,37 +1,37 @@
 # Gusukura
 
 ##
-Mbere na mbere, arabanza agakubura mu nzu, n'umweyo.
+Mbere na mbere, abanje gukubura mu nzu n'umweyo.
 
 ##
-Ahita asukura akoresheje igikoresho cyabugenewe. Iki gikoresho gisukura neza.
+Ahise asukura akoresheje igikoresho gihuha. Iki gikoresho gisukura neza.
 
 ##
-Ahita afata indobo y'amazi n'umukoropesho.
+Ahise afata indobo y'amazi n'umukoropesho.
 
 ##
 Arakoropa.
 
 ##
-Akura imyanda muri pubeli agashyiramo indi shashi nshyashya.
+Akuye imyanda muri puberi ashyiramo ishashi nshya.
 
 ##
-Ajya kumena imyanda.
+Agiye kumena imyanda.
 
 ##
-Akenera uturindantoki, icyogesho n'isabune.
+Akeneye uturindantoki, icyogesho n'isabune.
 
 ##
-Akuba kuri sima n'icyogesho kiriho isabune.
+Ari gukuba ahantu handuye kuri sima akoresheje icyogesho n’isabune.
 
 ##
-Ubundi akoza idirishya.
+Hanyuma yogeje idirishya.
 
 ##
-Uruganiriro rwe rurajagaraye.
+Salo ye irimo akajagari.
 
 ##
-Ashyize ibintu byose ku murongo. Noneho harasa neza.
+Ashyize ibintu byose ku murongo. Ubu harasa neza.
 
 ##
 * License: CC BY-NC-SA

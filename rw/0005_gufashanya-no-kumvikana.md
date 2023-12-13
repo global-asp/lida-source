@@ -4,34 +4,34 @@
 "Murakoze!"
 
 ##
-"Ntago mbizi."
+"Simbizi."
 
 ##
-"Ni he...?"
+"Ni he hari...?"
 
 ##
 "Hariya."
 
 ##
-"Ntago mbyumva."
+"Simbyumva."
 
 ##
-"Ibi ni byo? "Yego."
+"Ibi ni byo se?" "Yego."
 
 ##
-"Ibi ni byo?" "Oya."
+"Ibi ni byo se?" "Oya."
 
 ##
-"Waretse nkagufasha?"
+"Nagufasha?"
 
 ##
--"Mwamfashije?" "Nta kibazo rwose!"
+"Wamfashije?" "Nta kibazo rwose!"
 
 ##
-"Mwampaye kiriya?" "Nta kibazo rwose!"
+"Wampaye kiriya?" "Nta kibazo rwose!"
 
 ##
-"Murakoze!"
+"Urakoze!"
 
 ##
 * License: CC BY-NC-SA

@@ -4,7 +4,7 @@
 Nshoboye guteka.
 
 ##
-Nshoboye gutwara igare/ Nshoboye kunyonga igare.
+Nshoboye gutwara igare.
 
 ##
 Nshoboye kudoda.

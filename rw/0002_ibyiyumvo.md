@@ -1,34 +1,34 @@
-# Ibyiyumviro
+# Ibyiyumvo
 
 ##
-Mfite ubwoba.
+"Mfite ubwoba."
 
 ##
-Ooh!
+"Ororororo!"
 
 ##
-Umeze neza?
+"Umeze neza?"
 
 ##
-Mu nda harimo kundya.
+"Ndababara mu nda."
 
 ##
-Umutwe urimo kundya.
+"Ndababara umutwe."
 
 ##
-Ndashonje.
+"Ndashonje."
 
 ##
-Ndananiwe.
+"Ndananiwe."
 
 ##
-Mfite ibitotsi.
+"Mfite ibitotsi."
 
 ##
-Mfite inyota.
+"Mfite inyota."
 
 ##
-Biteye isoni.
+"Biteye isoni."
 
 ##
 * License: CC BY-NC-SA

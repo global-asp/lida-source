@@ -1,22 +1,22 @@
 # Impanuka
 
 ##
-Carlos atwaye Moto. Arihuta cyane.
+Carlos atwaye velomoteri. Ari kwihuta cyane.
 
 ##
-Mu muhanda haratose, haranyerera.
+Mu muhanda haratose. Umuhanda uranyerera.
 
 ##
-Yabuze contorole aragwa.
+Velomotero iradigadize maze aragwa.
 
 ##
-Carlos yakomeretse cyane.
+Carlos yababaye cyane.
 
 ##
-Umugore ahamagaye imbangukiragutabara. "Habaye impanuka. Mutebuke."
+Umugore ahamagaye imbangukiragutabara. "Habaye impanuka. Mubanguke."
 
 ##
-Imbangukiragutabara yahageze byihuse.
+Imbangukiragutabara ihageze byihuse.
 
 ##
 Abagabo babiri bashyize Carlos kuri burankari.
@@ -28,10 +28,10 @@ Bateruye Carlos bamushyira mu mbangukiragutabara.
 Imbangukiragutabara yerekeje ku bitaro.
 
 ##
-Umuforomo ajyanye Carlos mu bitaro.
+Umuforomokazi ajyanye Carlos mu bitaro.
 
 ##
-Arimo kumwitaho.
+Ari kumuvura.
 
 ##
 Carlos arababara akaguru cyane, kandi arahangayitse.
@@ -40,7 +40,7 @@ Carlos arababara akaguru cyane, kandi arahangayitse.
 Akaguru ke kabazwe n'abadogiteri babiri.
 
 ##
-Ababyeyi be bamusuye, bamubajije uko impanuka yagenze.
+Ababyeyi be baramusuye. Bamubajije uko impanuka yagenze.
 
 ##
 Bamujyanye mu rugo. Carlos aragendera ku mbago.
