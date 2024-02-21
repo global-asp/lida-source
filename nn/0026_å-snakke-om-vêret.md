@@ -22,4 +22,5 @@
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Ognjen Drageljević
+* Translation: Espen Stranger-Johannessen
 * Language: nn

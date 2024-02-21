@@ -25,4 +25,5 @@ Jeg vet ikke hva framtiden vil bringe. Planen min er å begynne på en annen sko
 * License: CC BY
 * Text: Aranya
 * Illustration: Sunniva Høiby-Øiset
+* Translation: Espen Stranger-Johannessen
 * Language: nb

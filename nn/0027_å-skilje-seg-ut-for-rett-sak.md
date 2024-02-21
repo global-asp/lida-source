@@ -22,4 +22,5 @@ No som han er vaksen, trener Edson flyktningbarn og andre som står i fare for �
 * License: CC BY
 * Text: LIDA Portugal
 * Illustration: Sunniva Høiby-Øiset
+* Translation: Espen Stranger-Johannessen
 * Language: nn

@@ -25,4 +25,5 @@ Han kjøper en ny bukse i stedet fordi den er på tilbud. Han bestemmer seg for 
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Sara Sahar Haidari
+* Translation: Espen Stranger-Johannessen
 * Language: nb

@@ -31,4 +31,5 @@ Eg håper eg kan dra tilbake til Afghanistan ein dag. Mange folk der treng hjelp
 * License: CC BY
 * Text: LIDA Italia
 * Illustration: Vilius Aistis Vilimas
+* Translation: Espen Stranger-Johannessen
 * Language: nn

@@ -31,4 +31,5 @@ Alle gjer noko!
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Frida Sofie Schønsberg
+* Translation: Espen Stranger-Johannessen
 * Language: nn

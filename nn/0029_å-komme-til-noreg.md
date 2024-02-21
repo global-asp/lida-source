@@ -28,4 +28,5 @@ Viss eg framleis hadde budd i Somalia, hadde eg kanskje vore mor no. Kanskje eg 
 * License: CC BY
 * Text: Aamiina
 * Illustration: Julie Cornelia van Walsum
+* Translation: Espen Stranger-Johannessen
 * Language: nn

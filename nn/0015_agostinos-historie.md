@@ -28,4 +28,5 @@ Etter ei lang stund fekk det harde arbeidet vårt resultat. Eit stort bodfirma m
 * License: CC BY
 * Text: LIDA Italia
 * Illustration: Billie Cejka Risnes
+* Translation: Espen Stranger-Johannessen
 * Language: nn

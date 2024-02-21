@@ -25,4 +25,5 @@ Kva slags musikk liker du?
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Sara Rumen Krotev
+* Translation: Espen Stranger-Johannessen
 * Language: nn

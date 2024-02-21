@@ -34,4 +34,5 @@ Ho er stolt av at ho har fått ein jobb så ho kan kjøpe mat og klede til famil
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Sunniva Høiby-Øiset
+* Translation: Espen Stranger-Johannessen
 * Language: nn

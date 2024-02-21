@@ -34,4 +34,5 @@ Han kjører til nærmeste apotek.
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Sara Rumen Krotev
+* Translation: Espen Stranger-Johannessen
 * Language: nb

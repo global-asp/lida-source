@@ -31,4 +31,5 @@ Alle gjør noe!
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Frida Sofie Schønsberg
+* Translation: Espen Stranger-Johannessen
 * Language: nb

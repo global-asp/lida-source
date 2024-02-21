@@ -25,4 +25,5 @@ Eg veit ikkje kva framtida vil bringe. Planen min er å byrje på ein annan skul
 * License: CC BY
 * Text: Aranya
 * Illustration: Sunniva Høiby-Øiset
+* Translation: Espen Stranger-Johannessen
 * Language: nn

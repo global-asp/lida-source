@@ -25,4 +25,5 @@ Yulia dro til et krisesenter, hvor hun følte seg tryggere enn hun hadde gjort p
 * License: CC BY
 * Text: LIDA Portugal
 * Illustration: Vilius Aistis Vilimas
+* Translation: Espen Stranger-Johannessen
 * Language: nb

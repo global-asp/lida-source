@@ -25,4 +25,5 @@ Yulia drog til eit krisesenter, der ho f√∏lte seg tryggare enn ho hadde gjort p√
 * License: CC BY
 * Text: LIDA Portugal
 * Illustration: Vilius Aistis Vilimas
+* Translation: Espen Stranger-Johannessen
 * Language: nn

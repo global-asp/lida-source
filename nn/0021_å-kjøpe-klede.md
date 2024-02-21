@@ -25,4 +25,5 @@ Han kjøper ei ny bukse i staden fordi ho er på tilbod. Han bestemmer seg for �
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Sara Sahar Haidari
+* Translation: Espen Stranger-Johannessen
 * Language: nn

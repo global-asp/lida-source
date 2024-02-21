@@ -40,4 +40,5 @@ Hun kommer fram til jobben. Hun jobber på et kontor.
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
+* Translation: Espen Stranger-Johannessen
 * Language: nb

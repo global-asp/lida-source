@@ -25,4 +25,5 @@ Dottera mi er berre to år gammal.
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Vilius Aistis Vilimas
+* Translation: Espen Stranger-Johannessen
 * Language: nn

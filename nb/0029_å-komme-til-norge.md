@@ -28,4 +28,5 @@ Hvis jeg fremdeles hadde bodd i Somalia, hadde jeg kanskje vært mor nå. Kanskj
 * License: CC BY
 * Text: Aamiina
 * Illustration: Julie Cornelia van Walsum
+* Translation: Espen Stranger-Johannessen
 * Language: nb
